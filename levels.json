@@ -1,6 +1,6 @@
 {
  "schema": 1,
- "version": 4,
+ "version": 5,
  "game": "savta-smash",
  "levels": {
   "normal": [
@@ -483,7 +483,7 @@
     "types": [
      "oct_21_4",
      "oct_21_3",
-     "n_sugarbowl",
+     "oct_35_2",
      "n_petitfour",
      "oct_20_1",
      "n_lemoncake"
@@ -619,7 +619,7 @@
      "oct_17_1",
      "oct_21_4",
      "oct_35_2",
-     "n_sugarbowl"
+     "n_lemoncake"
     ],
     "moves": 27,
     "goals": [
@@ -1032,7 +1032,7 @@
     "n": 31,
     "types": [
      "oct_13_3",
-     "oct_12_2",
+     "n_lavsack",
      "n_bluebird",
      "n_pillow",
      "n_clover",
@@ -1047,7 +1047,7 @@
      },
      {
       "kind": "collect",
-      "t": "oct_12_2",
+      "t": "n_lavsack",
       "need": 11
      },
      {
@@ -1174,7 +1174,7 @@
      "n_clover",
      "oct_23_1",
      "n_tulipbasket",
-     "oct_14_3",
+     "n_lavsack",
      "oct_37_3"
     ],
     "moves": 36,
@@ -2554,7 +2554,7 @@
    {
     "n": 75,
     "types": [
-     "n_sugarbowl",
+     "n_rollingpin",
      "n_lemoncake",
      "n_cinnamonroll",
      "oct_21_3",
@@ -2739,7 +2739,7 @@
      "oct_28_1",
      "oct_27_1",
      "oct_35_2",
-     "n_sugarbowl"
+     "n_cupcake"
     ],
     "moves": 36,
     "goals": [
@@ -2880,7 +2880,7 @@
      "oct_11_1",
      "oct_35_2",
      "oct_36_4",
-     "n_sugarbowl",
+     "n_cupcake",
      "n_scone"
     ],
     "moves": 33,
@@ -3809,7 +3809,7 @@
      "n_postcard",
      "n_glasses2",
      "oct_28_2",
-     "oct_11_4"
+     "oct_26_4"
     ],
     "moves": 36,
     "goals": [
@@ -4618,7 +4618,7 @@
     "n": 133,
     "types": [
      "n_lemoncake",
-     "n_sugarbowl",
+     "n_cupcake",
      "n_cinnamonroll",
      "oct_11_1",
      "oct_35_2",
@@ -4633,7 +4633,7 @@
      },
      {
       "kind": "collect",
-      "t": "n_sugarbowl",
+      "t": "n_cupcake",
       "need": 16
      },
      {
@@ -4758,7 +4758,7 @@
      "oct_21_2",
      "oct_11_1",
      "n_lemoncake",
-     "n_sugarbowl",
+     "n_cupcake",
      "n_cinnamonroll"
     ],
     "moves": 41,
@@ -4788,7 +4788,7 @@
    {
     "n": 138,
     "types": [
-     "n_sugarbowl",
+     "n_cupcake",
      "oct_20_1",
      "oct_35_3",
      "oct_35_2",
@@ -5011,7 +5011,7 @@
      "oct_35_2",
      "n_lemoncake",
      "oct_27_1",
-     "n_sugarbowl"
+     "n_teacup2"
     ],
     "moves": 44,
     "goals": [
@@ -5110,7 +5110,7 @@
    {
     "n": 147,
     "types": [
-     "oct_12_2",
+     "n_bluebird",
      "n_tulipbasket",
      "oct_23_4",
      "n_lavsack",
@@ -6746,7 +6746,7 @@
      "n_lemoncake",
      "oct_17_4",
      "n_rollingpin",
-     "n_sugarbowl",
+     "n_cinnamonroll",
      "oct_27_1"
     ],
     "moves": 41,
@@ -6816,7 +6816,7 @@
     "types": [
      "n_cinnamonroll",
      "oct_11_1",
-     "n_sugarbowl",
+     "n_lemoncake",
      "oct_35_3",
      "oct_19_1",
      "n_cupcake"
@@ -6853,7 +6853,7 @@
     "n": 196,
     "types": [
      "oct_28_1",
-     "n_sugarbowl",
+     "n_lemoncake",
      "n_rollingpin",
      "n_cinnamonroll",
      "oct_21_1",
@@ -6894,7 +6894,7 @@
      "oct_20_1",
      "oct_21_3",
      "oct_35_2",
-     "n_sugarbowl"
+     "oct_36_4"
     ],
     "moves": 41,
     "goals": [
@@ -6928,7 +6928,7 @@
    {
     "n": 198,
     "types": [
-     "n_sugarbowl",
+     "n_cupcake",
      "oct_14_4",
      "oct_20_1",
      "n_cinnamonroll",
@@ -7634,7 +7634,7 @@
     "n": 18,
     "types": [
      "n_lemoncake",
-     "n_sugarbowl",
+     "oct_21_3",
      "n_rollingpin",
      "oct_14_4",
      "n_cinnamonroll"
@@ -7648,7 +7648,7 @@
      },
      {
       "kind": "collect",
-      "t": "n_sugarbowl",
+      "t": "oct_21_3",
       "need": 9
      }
     ],
@@ -7666,7 +7666,7 @@
    {
     "n": 19,
     "types": [
-     "n_sugarbowl",
+     "n_cupcake",
      "oct_20_1",
      "oct_21_3",
      "oct_21_2",
@@ -7676,7 +7676,7 @@
     "goals": [
      {
       "kind": "collect",
-      "t": "n_sugarbowl",
+      "t": "n_cupcake",
       "need": 9
      },
      {
@@ -7773,7 +7773,7 @@
      "n_cinnamonroll",
      "oct_35_3",
      "n_heartcookies",
-     "n_sugarbowl"
+     "n_cupcake"
     ],
     "moves": 36,
     "goals": [
@@ -7873,7 +7873,7 @@
     "types": [
      "n_jamspoon",
      "n_herbjar",
-     "oct_12_2",
+     "oct_13_3",
      "n_lavsack",
      "oct_23_4"
     ],
@@ -7891,7 +7891,7 @@
      },
      {
       "kind": "collect",
-      "t": "oct_12_2",
+      "t": "oct_13_3",
       "need": 6
      }
     ],
@@ -7913,7 +7913,7 @@
      "oct_37_3",
      "n_bluebird",
      "n_clover",
-     "oct_12_2"
+     "n_lavsack"
     ],
     "moves": 39,
     "goals": [
@@ -8072,7 +8072,7 @@
     "n": 31,
     "types": [
      "oct_13_3",
-     "oct_12_2",
+     "oct_23_4",
      "n_bluebird",
      "n_pillow",
      "n_clover"
@@ -8086,7 +8086,7 @@
      },
      {
       "kind": "collect",
-      "t": "oct_12_2",
+      "t": "oct_23_4",
       "need": 9
      },
      {
@@ -8209,7 +8209,7 @@
      "n_jamspoon",
      "n_apron",
      "oct_37_4",
-     "oct_18_1",
+     "oct_13_3",
      "n_bluebird"
     ],
     "moves": 47,
@@ -9694,7 +9694,7 @@
     "n": 79,
     "types": [
      "oct_35_2",
-     "n_sugarbowl",
+     "n_rollingpin",
      "oct_11_1",
      "oct_21_3",
      "n_lemoncake"
@@ -9757,7 +9757,7 @@
     "n": 81,
     "types": [
      "oct_36_4",
-     "n_sugarbowl",
+     "n_cupcake",
      "oct_19_1",
      "n_scone",
      "oct_20_1"
@@ -9771,7 +9771,7 @@
      },
      {
       "kind": "collect",
-      "t": "n_sugarbowl",
+      "t": "n_cupcake",
       "need": 11
      }
     ],
@@ -11657,7 +11657,7 @@
    {
     "n": 136,
     "types": [
-     "n_sugarbowl",
+     "n_cupcake",
      "oct_17_1",
      "oct_19_1",
      "n_heartcookies",
@@ -11762,7 +11762,7 @@
      "oct_11_1",
      "oct_21_3",
      "oct_35_2",
-     "n_sugarbowl"
+     "n_cupcake"
     ],
     "moves": 47,
     "goals": [
@@ -11998,7 +11998,7 @@
     "n": 146,
     "types": [
      "n_bluebird",
-     "oct_14_3",
+     "oct_13_3",
      "n_jamspoon",
      "n_lavsack",
      "oct_28_4"
@@ -13728,7 +13728,7 @@
     "n": 196,
     "types": [
      "oct_28_1",
-     "n_sugarbowl",
+     "oct_35_2",
      "n_rollingpin",
      "n_cinnamonroll",
      "oct_21_1"
