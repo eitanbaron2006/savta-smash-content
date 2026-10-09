@@ -1,6 +1,6 @@
 {
  "schema": 1,
- "version": 2,
+ "version": 3,
  "game": "savta-smash",
  "levels": {
   "normal": [
@@ -6673,6 +6673,355 @@
      5100
     ],
     "theme": "sweets"
+   },
+   {
+    "n": 191,
+    "types": [
+     "n_lemon",
+     "oct_39_4",
+     "n_swirlcandy",
+     "n_croissant",
+     "n_rosecake",
+     "n_blueberries"
+    ],
+    "moves": 36,
+    "goals": [
+     {
+      "kind": "gift",
+      "need": 3
+     },
+     {
+      "kind": "collect",
+      "t": "n_lemon",
+      "need": 18
+     }
+    ],
+    "stones": [],
+    "cats": 0,
+    "gifts": 3,
+    "seed": 186620,
+    "stars": [
+     1600,
+     2900,
+     4500
+    ],
+    "theme": "sweets"
+   },
+   {
+    "n": 192,
+    "types": [
+     "n_chocolate",
+     "n_cloverbiscuit",
+     "n_tartberry",
+     "n_raspberry",
+     "n_madeleine",
+     "n_violetcandy"
+    ],
+    "moves": 41,
+    "goals": [
+     {
+      "kind": "gift",
+      "need": 3
+     },
+     {
+      "kind": "cat",
+      "need": 5
+     }
+    ],
+    "stones": [],
+    "cats": 5,
+    "gifts": 3,
+    "seed": 187597,
+    "stars": [
+     1800,
+     3300,
+     5100
+    ],
+    "theme": "sweets"
+   },
+   {
+    "n": 193,
+    "types": [
+     "oct_28_1",
+     "n_lemoncake",
+     "oct_17_4",
+     "n_rollingpin",
+     "n_sugarbowl",
+     "oct_27_1"
+    ],
+    "moves": 41,
+    "goals": [
+     {
+      "kind": "collect",
+      "t": "oct_28_1",
+      "need": 22
+     },
+     {
+      "kind": "collect",
+      "t": "n_lemoncake",
+      "need": 20
+     }
+    ],
+    "stones": [],
+    "cats": 0,
+    "gifts": 0,
+    "seed": 188574,
+    "stars": [
+     1800,
+     3300,
+     5100
+    ],
+    "theme": "bakery"
+   },
+   {
+    "n": 194,
+    "types": [
+     "oct_20_1",
+     "n_cinnamonroll",
+     "oct_21_3",
+     "oct_35_2",
+     "n_lemoncake",
+     "oct_16_1"
+    ],
+    "moves": 41,
+    "goals": [
+     {
+      "kind": "cat",
+      "need": 5
+     },
+     {
+      "kind": "collect",
+      "t": "oct_21_3",
+      "need": 17
+     },
+     {
+      "kind": "collect",
+      "t": "oct_35_2",
+      "need": 15
+     }
+    ],
+    "stones": [],
+    "cats": 5,
+    "gifts": 0,
+    "seed": 189551,
+    "stars": [
+     1800,
+     3300,
+     5100
+    ],
+    "theme": "bakery"
+   },
+   {
+    "n": 195,
+    "types": [
+     "n_cinnamonroll",
+     "oct_11_1",
+     "n_sugarbowl",
+     "oct_35_3",
+     "oct_19_1",
+     "n_cupcake"
+    ],
+    "moves": 33,
+    "goals": [
+     {
+      "kind": "gift",
+      "need": 3
+     },
+     {
+      "kind": "collect",
+      "t": "oct_11_1",
+      "need": 19
+     },
+     {
+      "kind": "collect",
+      "t": "oct_35_3",
+      "need": 16
+     }
+    ],
+    "stones": [],
+    "cats": 0,
+    "gifts": 3,
+    "seed": 190528,
+    "stars": [
+     1500,
+     2600,
+     4100
+    ],
+    "theme": "bakery"
+   },
+   {
+    "n": 196,
+    "types": [
+     "oct_28_1",
+     "n_sugarbowl",
+     "n_rollingpin",
+     "n_cinnamonroll",
+     "oct_21_1",
+     "oct_26_3"
+    ],
+    "moves": 41,
+    "goals": [
+     {
+      "kind": "cat",
+      "need": 5
+     },
+     {
+      "kind": "gift",
+      "need": 3
+     },
+     {
+      "kind": "collect",
+      "t": "oct_28_1",
+      "need": 16
+     }
+    ],
+    "stones": [],
+    "cats": 5,
+    "gifts": 3,
+    "seed": 191505,
+    "stars": [
+     1800,
+     3300,
+     5100
+    ],
+    "theme": "bakery"
+   },
+   {
+    "n": 197,
+    "types": [
+     "n_scone",
+     "n_rollingpin",
+     "oct_20_1",
+     "oct_21_3",
+     "oct_35_2",
+     "n_sugarbowl"
+    ],
+    "moves": 41,
+    "goals": [
+     {
+      "kind": "collect",
+      "t": "n_scone",
+      "need": 20
+     },
+     {
+      "kind": "collect",
+      "t": "n_rollingpin",
+      "need": 18
+     },
+     {
+      "kind": "collect",
+      "t": "oct_20_1",
+      "need": 15
+     }
+    ],
+    "stones": [],
+    "cats": 0,
+    "gifts": 0,
+    "seed": 192482,
+    "stars": [
+     1800,
+     3300,
+     5100
+    ],
+    "theme": "bakery"
+   },
+   {
+    "n": 198,
+    "types": [
+     "n_sugarbowl",
+     "oct_14_4",
+     "oct_20_1",
+     "n_cinnamonroll",
+     "oct_21_1",
+     "oct_26_3"
+    ],
+    "moves": 41,
+    "goals": [
+     {
+      "kind": "cat",
+      "need": 5
+     },
+     {
+      "kind": "collect",
+      "t": "oct_14_4",
+      "need": 18
+     }
+    ],
+    "stones": [],
+    "cats": 5,
+    "gifts": 0,
+    "seed": 193459,
+    "stars": [
+     1800,
+     3300,
+     5100
+    ],
+    "theme": "bakery"
+   },
+   {
+    "n": 199,
+    "types": [
+     "oct_35_3",
+     "oct_28_1",
+     "n_teacup2",
+     "oct_19_1",
+     "n_heartcookies",
+     "oct_21_3"
+    ],
+    "moves": 36,
+    "goals": [
+     {
+      "kind": "gift",
+      "need": 3
+     },
+     {
+      "kind": "collect",
+      "t": "oct_35_3",
+      "need": 18
+     }
+    ],
+    "stones": [],
+    "cats": 0,
+    "gifts": 3,
+    "seed": 194436,
+    "stars": [
+     1600,
+     2900,
+     4500
+    ],
+    "theme": "bakery"
+   },
+   {
+    "n": 200,
+    "types": [
+     "oct_36_4",
+     "oct_11_1",
+     "n_rollingpin",
+     "n_teacup2",
+     "oct_27_1",
+     "oct_26_2"
+    ],
+    "moves": 38,
+    "goals": [
+     {
+      "kind": "gift",
+      "need": 3
+     },
+     {
+      "kind": "cat",
+      "need": 5
+     }
+    ],
+    "stones": [],
+    "cats": 5,
+    "gifts": 3,
+    "seed": 195413,
+    "stars": [
+     1700,
+     3000,
+     4800
+    ],
+    "theme": "bakery"
    }
   ],
   "simple": [
@@ -13155,6 +13504,345 @@
      6600
     ],
     "theme": "sweets"
+   },
+   {
+    "n": 191,
+    "types": [
+     "n_violet",
+     "n_tartberry",
+     "n_meringue",
+     "oct_26_1",
+     "n_lemon"
+    ],
+    "moves": 47,
+    "goals": [
+     {
+      "kind": "gift",
+      "need": 3
+     },
+     {
+      "kind": "collect",
+      "t": "n_violet",
+      "need": 14
+     }
+    ],
+    "stones": [],
+    "cats": 0,
+    "gifts": 3,
+    "seed": 186620,
+    "stars": [
+     2100,
+     3800,
+     5900
+    ],
+    "theme": "sweets"
+   },
+   {
+    "n": 192,
+    "types": [
+     "n_raspberry",
+     "n_violetcandy",
+     "n_madeleine",
+     "n_tartberry",
+     "n_blueberries"
+    ],
+    "moves": 53,
+    "goals": [
+     {
+      "kind": "gift",
+      "need": 3
+     },
+     {
+      "kind": "cat",
+      "need": 4
+     }
+    ],
+    "stones": [],
+    "cats": 5,
+    "gifts": 3,
+    "seed": 187597,
+    "stars": [
+     2400,
+     4200,
+     6600
+    ],
+    "theme": "sweets"
+   },
+   {
+    "n": 193,
+    "types": [
+     "oct_16_1",
+     "n_lemoncake",
+     "oct_21_3",
+     "oct_35_2",
+     "n_petitfour"
+    ],
+    "moves": 53,
+    "goals": [
+     {
+      "kind": "collect",
+      "t": "oct_16_1",
+      "need": 18
+     },
+     {
+      "kind": "collect",
+      "t": "n_lemoncake",
+      "need": 16
+     }
+    ],
+    "stones": [],
+    "cats": 0,
+    "gifts": 0,
+    "seed": 188574,
+    "stars": [
+     2400,
+     4200,
+     6600
+    ],
+    "theme": "bakery"
+   },
+   {
+    "n": 194,
+    "types": [
+     "oct_20_1",
+     "n_cinnamonroll",
+     "oct_21_3",
+     "oct_35_2",
+     "n_lemoncake"
+    ],
+    "moves": 53,
+    "goals": [
+     {
+      "kind": "cat",
+      "need": 4
+     },
+     {
+      "kind": "collect",
+      "t": "oct_21_3",
+      "need": 14
+     },
+     {
+      "kind": "collect",
+      "t": "oct_35_2",
+      "need": 12
+     }
+    ],
+    "stones": [],
+    "cats": 5,
+    "gifts": 0,
+    "seed": 189551,
+    "stars": [
+     2400,
+     4200,
+     6600
+    ],
+    "theme": "bakery"
+   },
+   {
+    "n": 195,
+    "types": [
+     "oct_21_1",
+     "oct_20_1",
+     "oct_17_4",
+     "n_cupcake",
+     "n_whisk"
+    ],
+    "moves": 43,
+    "goals": [
+     {
+      "kind": "gift",
+      "need": 3
+     },
+     {
+      "kind": "collect",
+      "t": "oct_20_1",
+      "need": 15
+     },
+     {
+      "kind": "collect",
+      "t": "n_cupcake",
+      "need": 13
+     }
+    ],
+    "stones": [],
+    "cats": 0,
+    "gifts": 3,
+    "seed": 190528,
+    "stars": [
+     1900,
+     3400,
+     5400
+    ],
+    "theme": "bakery"
+   },
+   {
+    "n": 196,
+    "types": [
+     "oct_28_1",
+     "n_sugarbowl",
+     "n_rollingpin",
+     "n_cinnamonroll",
+     "oct_21_1"
+    ],
+    "moves": 53,
+    "goals": [
+     {
+      "kind": "cat",
+      "need": 4
+     },
+     {
+      "kind": "gift",
+      "need": 3
+     },
+     {
+      "kind": "collect",
+      "t": "oct_28_1",
+      "need": 13
+     }
+    ],
+    "stones": [],
+    "cats": 5,
+    "gifts": 3,
+    "seed": 191505,
+    "stars": [
+     2400,
+     4200,
+     6600
+    ],
+    "theme": "bakery"
+   },
+   {
+    "n": 197,
+    "types": [
+     "n_scone",
+     "n_rollingpin",
+     "oct_20_1",
+     "oct_21_3",
+     "oct_35_2"
+    ],
+    "moves": 53,
+    "goals": [
+     {
+      "kind": "collect",
+      "t": "n_scone",
+      "need": 16
+     },
+     {
+      "kind": "collect",
+      "t": "n_rollingpin",
+      "need": 14
+     },
+     {
+      "kind": "collect",
+      "t": "oct_20_1",
+      "need": 12
+     }
+    ],
+    "stones": [],
+    "cats": 0,
+    "gifts": 0,
+    "seed": 192482,
+    "stars": [
+     2400,
+     4200,
+     6600
+    ],
+    "theme": "bakery"
+   },
+   {
+    "n": 198,
+    "types": [
+     "oct_21_1",
+     "oct_20_1",
+     "n_whisk",
+     "oct_17_4",
+     "n_cupcake"
+    ],
+    "moves": 53,
+    "goals": [
+     {
+      "kind": "cat",
+      "need": 4
+     },
+     {
+      "kind": "collect",
+      "t": "oct_20_1",
+      "need": 14
+     }
+    ],
+    "stones": [],
+    "cats": 5,
+    "gifts": 0,
+    "seed": 193459,
+    "stars": [
+     2400,
+     4200,
+     6600
+    ],
+    "theme": "bakery"
+   },
+   {
+    "n": 199,
+    "types": [
+     "oct_17_1",
+     "oct_17_4",
+     "n_rollingpin",
+     "oct_19_1",
+     "n_lemoncake"
+    ],
+    "moves": 47,
+    "goals": [
+     {
+      "kind": "gift",
+      "need": 3
+     },
+     {
+      "kind": "collect",
+      "t": "oct_17_1",
+      "need": 14
+     }
+    ],
+    "stones": [],
+    "cats": 0,
+    "gifts": 3,
+    "seed": 194436,
+    "stars": [
+     2100,
+     3800,
+     5900
+    ],
+    "theme": "bakery"
+   },
+   {
+    "n": 200,
+    "types": [
+     "oct_13_1",
+     "oct_26_2",
+     "n_cupcake",
+     "n_lemoncake",
+     "oct_26_3"
+    ],
+    "moves": 49,
+    "goals": [
+     {
+      "kind": "gift",
+      "need": 3
+     },
+     {
+      "kind": "cat",
+      "need": 4
+     }
+    ],
+    "stones": [],
+    "cats": 5,
+    "gifts": 3,
+    "seed": 195413,
+    "stars": [
+     2200,
+     3900,
+     6100
+    ],
+    "theme": "bakery"
    }
   ]
  }
