@@ -1,6 +1,6 @@
 {
  "schema": 1,
- "version": 3,
+ "version": 4,
  "game": "savta-smash",
  "levels": {
   "normal": [
@@ -7022,6 +7022,55 @@
      4800
     ],
     "theme": "bakery"
+   },
+   {
+    "n": 201,
+    "types": [
+     "oct_17_1",
+     "r_040",
+     "r_032",
+     "r_031",
+     "r_030",
+     "r_036",
+     "r_037"
+    ],
+    "moves": 38,
+    "goals": [
+     {
+      "kind": "collect",
+      "t": "oct_17_1",
+      "need": 22
+     },
+     {
+      "kind": "collect",
+      "t": "r_032",
+      "need": 8
+     },
+     {
+      "kind": "collect",
+      "t": "r_031",
+      "need": 8
+     },
+     {
+      "kind": "collect",
+      "t": "r_030",
+      "need": 8
+     }
+    ],
+    "stones": [
+     16,
+     24,
+     32
+    ],
+    "cats": 3,
+    "gifts": 2,
+    "seed": 196390,
+    "stars": [
+     1700,
+     3000,
+     4800
+    ],
+    "theme": "bakery"
    }
   ],
   "simple": [
@@ -13837,6 +13886,39 @@
     "cats": 5,
     "gifts": 3,
     "seed": 195413,
+    "stars": [
+     2200,
+     3900,
+     6100
+    ],
+    "theme": "bakery"
+   },
+   {
+    "n": 201,
+    "types": [
+     "n_rollingpin",
+     "oct_36_4",
+     "oct_11_1",
+     "oct_21_3",
+     "n_scone"
+    ],
+    "moves": 49,
+    "goals": [
+     {
+      "kind": "collect",
+      "t": "n_rollingpin",
+      "need": 18
+     },
+     {
+      "kind": "collect",
+      "t": "oct_36_4",
+      "need": 16
+     }
+    ],
+    "stones": [],
+    "cats": 0,
+    "gifts": 0,
+    "seed": 196390,
     "stars": [
      2200,
      3900,
