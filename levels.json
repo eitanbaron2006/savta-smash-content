@@ -1,6 +1,6 @@
 {
  "schema": 1,
- "version": 10,
+ "version": 11,
  "game": "savta-smash",
  "levels": {
   "normal": [
@@ -9,7 +9,7 @@
     "types": [
      "butterfly",
      "rose",
-     "brooch",
+     "oct_31_1",
      "cookie",
      "cup"
     ],
@@ -73,7 +73,7 @@
    {
     "n": 3,
     "types": [
-     "brooch",
+     "butterfly",
      "jam",
      "cup",
      "cookie",
@@ -83,7 +83,7 @@
     "goals": [
      {
       "kind": "collect",
-      "t": "brooch",
+      "t": "butterfly",
       "need": 12
      },
      {
@@ -142,7 +142,7 @@
      "cookie",
      "cup",
      "jam",
-     "brooch"
+     "oct_31_1"
     ],
     "moves": 20,
     "goals": [
@@ -174,7 +174,7 @@
      "cookie",
      "yarn",
      "rose",
-     "brooch"
+     "butterfly"
     ],
     "moves": 20,
     "goals": [
@@ -205,7 +205,7 @@
     "types": [
      "cookie",
      "yarn",
-     "brooch",
+     "oct_26_3",
      "butterfly",
      "cup"
     ],
@@ -223,7 +223,7 @@
      },
      {
       "kind": "collect",
-      "t": "brooch",
+      "t": "oct_26_3",
       "need": 5
      }
     ],
@@ -246,7 +246,7 @@
      "rose",
      "cup",
      "cookie",
-     "brooch"
+     "oct_26_3"
     ],
     "moves": 22,
     "goals": [
@@ -276,7 +276,7 @@
     "n": 9,
     "types": [
      "cup",
-     "brooch",
+     "oct_31_3",
      "cookie",
      "jam",
      "yarn",
@@ -290,7 +290,7 @@
      },
      {
       "kind": "collect",
-      "t": "brooch",
+      "t": "oct_31_3",
       "need": 9
      }
     ],
@@ -343,7 +343,7 @@
     "types": [
      "cup",
      "cookie",
-     "brooch",
+     "oct_31_3",
      "butterfly",
      "yarn",
      "jam"
@@ -356,7 +356,7 @@
      },
      {
       "kind": "collect",
-      "t": "brooch",
+      "t": "oct_31_3",
       "need": 8
      }
     ],
@@ -374,7 +374,7 @@
    {
     "n": 12,
     "types": [
-     "brooch",
+     "oct_26_3",
      "butterfly",
      "cup",
      "oct_31_1",
@@ -385,7 +385,7 @@
     "goals": [
      {
       "kind": "collect",
-      "t": "brooch",
+      "t": "oct_26_3",
       "need": 12
      },
      {
@@ -514,7 +514,7 @@
    {
     "n": 16,
     "types": [
-     "oct_26_2",
+     "oct_35_2",
      "oct_21_3",
      "n_lemoncake",
      "oct_11_1",
@@ -791,7 +791,7 @@
      "cookie",
      "butterfly",
      "yarn",
-     "brooch"
+     "oct_11_1"
     ],
     "moves": 30,
     "goals": [
@@ -2030,7 +2030,7 @@
      "oct_33_3",
      "oct_34_1",
      "n_umbrella",
-     "oct_25_2",
+     "n_postcard",
      "oct_35_4",
      "oct_24_2"
     ],
@@ -2273,7 +2273,7 @@
      "n_blueberries",
      "n_raspberry",
      "n_croissant",
-     "n_tartberry",
+     "oct_39_4",
      "n_swirlcandy",
      "n_violet"
     ],
@@ -2290,7 +2290,7 @@
      },
      {
       "kind": "collect",
-      "t": "n_tartberry",
+      "t": "oct_39_4",
       "need": 9
      }
     ],
@@ -2422,7 +2422,7 @@
      "n_meringue",
      "n_blueberries",
      "n_madeleine",
-     "n_tartberry"
+     "n_raspberry"
     ],
     "moves": 24,
     "goals": [
@@ -2702,7 +2702,7 @@
     "n": 79,
     "types": [
      "n_cinnamonroll",
-     "oct_26_2",
+     "oct_35_2",
      "oct_11_1",
      "n_lemoncake",
      "n_rollingpin",
@@ -4015,7 +4015,7 @@
      "oct_35_4",
      "oct_12_1",
      "n_bookmark",
-     "oct_19_4",
+     "oct_34_3",
      "oct_29_1",
      "n_umbrella"
     ],
@@ -4472,7 +4472,7 @@
     "types": [
      "n_meringue",
      "n_raspberry",
-     "n_tartberry",
+     "n_blueberries",
      "n_chocolate",
      "n_cloverbiscuit",
      "n_violetcandy"
@@ -4544,7 +4544,7 @@
     "types": [
      "n_blueberries",
      "n_cloverbiscuit",
-     "n_tartberry",
+     "n_chocolate",
      "n_violetcandy",
      "oct_39_4",
      "n_macaron"
@@ -6393,7 +6393,7 @@
    {
     "n": 183,
     "types": [
-     "n_tartberry",
+     "n_violetcandy",
      "oct_39_4",
      "n_blueberries",
      "n_chocolate",
@@ -6408,7 +6408,7 @@
      },
      {
       "kind": "collect",
-      "t": "n_tartberry",
+      "t": "n_violetcandy",
       "need": 18
      }
     ],
@@ -6534,7 +6534,7 @@
      "n_madeleine",
      "n_blueberries",
      "n_cloverbiscuit",
-     "n_tartberry",
+     "oct_39_4",
      "n_violet"
     ],
     "moves": 38,
@@ -6712,7 +6712,7 @@
     "types": [
      "n_chocolate",
      "n_cloverbiscuit",
-     "n_tartberry",
+     "n_blueberries",
      "n_raspberry",
      "n_madeleine",
      "n_violetcandy"
@@ -6999,7 +6999,7 @@
      "n_rollingpin",
      "n_cinnamonroll",
      "oct_27_1",
-     "oct_26_2"
+     "oct_35_2"
     ],
     "moves": 38,
     "goals": [
@@ -7079,7 +7079,7 @@
     "types": [
      "cup",
      "rose",
-     "brooch",
+     "butterfly",
      "cookie"
     ],
     "moves": 25,
@@ -7141,7 +7141,7 @@
    {
     "n": 3,
     "types": [
-     "brooch",
+     "butterfly",
      "jam",
      "cup",
      "cookie"
@@ -7150,7 +7150,7 @@
     "goals": [
      {
       "kind": "collect",
-      "t": "brooch",
+      "t": "butterfly",
       "need": 10
      },
      {
@@ -7269,7 +7269,7 @@
     "types": [
      "cup",
      "yarn",
-     "brooch",
+     "oct_26_3",
      "butterfly"
     ],
     "moves": 29,
@@ -7286,7 +7286,7 @@
      },
      {
       "kind": "collect",
-      "t": "brooch",
+      "t": "oct_26_3",
       "need": 4
      }
     ],
@@ -7338,7 +7338,7 @@
     "n": 9,
     "types": [
      "cup",
-     "brooch",
+     "butterfly",
      "cookie",
      "jam",
      "yarn"
@@ -7351,7 +7351,7 @@
      },
      {
       "kind": "collect",
-      "t": "brooch",
+      "t": "butterfly",
       "need": 7
      }
     ],
@@ -7403,7 +7403,7 @@
     "types": [
      "cup",
      "cookie",
-     "brooch",
+     "oct_26_3",
      "butterfly",
      "yarn"
     ],
@@ -7415,7 +7415,7 @@
      },
      {
       "kind": "collect",
-      "t": "brooch",
+      "t": "oct_26_3",
       "need": 6
      }
     ],
@@ -7433,7 +7433,7 @@
    {
     "n": 12,
     "types": [
-     "brooch",
+     "oct_26_3",
      "butterfly",
      "cup",
      "oct_31_1",
@@ -7443,7 +7443,7 @@
     "goals": [
      {
       "kind": "collect",
-      "t": "brooch",
+      "t": "oct_26_3",
       "need": 10
      },
      {
@@ -8775,7 +8775,7 @@
     "n": 52,
     "types": [
      "oct_35_1",
-     "oct_25_2",
+     "oct_35_4",
      "oct_24_1",
      "oct_31_2",
      "oct_31_3"
@@ -8875,7 +8875,7 @@
      "oct_24_2",
      "oct_26_4",
      "n_postcard",
-     "oct_25_2"
+     "oct_34_3"
     ],
     "moves": 47,
     "goals": [
@@ -10833,7 +10833,7 @@
      "n_umbrella",
      "oct_34_1",
      "oct_35_4",
-     "oct_25_2"
+     "oct_29_1"
     ],
     "moves": 47,
     "goals": [
@@ -11138,7 +11138,7 @@
     "types": [
      "n_violetcandy",
      "n_raspberry",
-     "n_tartberry",
+     "n_blueberries",
      "n_madeleine",
      "oct_39_4"
     ],
@@ -11484,7 +11484,7 @@
     "types": [
      "n_blueberries",
      "n_cloverbiscuit",
-     "n_tartberry",
+     "n_rosecake",
      "n_violetcandy",
      "oct_39_4"
     ],
@@ -11904,7 +11904,7 @@
      "oct_27_1",
      "oct_11_1",
      "n_lemoncake",
-     "oct_26_2",
+     "oct_35_2",
      "n_rollingpin"
     ],
     "moves": 47,
@@ -13418,7 +13418,7 @@
      "n_madeleine",
      "oct_39_4",
      "n_cloverbiscuit",
-     "n_tartberry"
+     "n_blueberries"
     ],
     "moves": 49,
     "goals": [
@@ -13558,7 +13558,7 @@
     "n": 191,
     "types": [
      "n_violet",
-     "n_tartberry",
+     "n_raspberry",
      "n_meringue",
      "n_blueberries",
      "n_lemon"
@@ -13592,7 +13592,7 @@
      "n_raspberry",
      "n_violetcandy",
      "n_madeleine",
-     "n_tartberry",
+     "oct_39_4",
      "n_blueberries"
     ],
     "moves": 53,
@@ -13866,7 +13866,7 @@
     "n": 200,
     "types": [
      "oct_13_1",
-     "oct_26_2",
+     "oct_16_1",
      "n_cupcake",
      "n_lemoncake",
      "oct_26_3"
