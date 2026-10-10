@@ -1,6 +1,6 @@
 {
  "schema": 1,
- "version": 11,
+ "version": 12,
  "game": "savta-smash",
  "levels": {
   "normal": [
@@ -7071,6 +7071,3527 @@
      4800
     ],
     "theme": "bakery"
+   },
+   {
+    "n": 202,
+    "types": [
+     "n_cupcake",
+     "n_scone",
+     "oct_20_1",
+     "oct_36_4",
+     "oct_35_2",
+     "oct_27_1"
+    ],
+    "moves": 38,
+    "goals": [
+     {
+      "kind": "cat",
+      "need": 5
+     },
+     {
+      "kind": "collect",
+      "t": "oct_20_1",
+      "need": 17
+     },
+     {
+      "kind": "collect",
+      "t": "oct_36_4",
+      "need": 15
+     }
+    ],
+    "stones": [],
+    "cats": 5,
+    "gifts": 0,
+    "seed": 197367,
+    "stars": [
+     1700,
+     3000,
+     4800
+    ],
+    "theme": "bakery"
+   },
+   {
+    "n": 203,
+    "types": [
+     "oct_20_1",
+     "n_cinnamonroll",
+     "oct_26_3",
+     "n_heartcookies",
+     "oct_36_4",
+     "n_cupcake"
+    ],
+    "moves": 36,
+    "goals": [
+     {
+      "kind": "gift",
+      "need": 3
+     },
+     {
+      "kind": "collect",
+      "t": "n_cinnamonroll",
+      "need": 19
+     },
+     {
+      "kind": "collect",
+      "t": "n_heartcookies",
+      "need": 16
+     }
+    ],
+    "stones": [],
+    "cats": 0,
+    "gifts": 3,
+    "seed": 198344,
+    "stars": [
+     1600,
+     2900,
+     4500
+    ],
+    "theme": "bakery"
+   },
+   {
+    "n": 204,
+    "types": [
+     "oct_35_2",
+     "n_scone",
+     "n_rollingpin",
+     "oct_36_4",
+     "oct_28_1",
+     "oct_21_3"
+    ],
+    "moves": 44,
+    "goals": [
+     {
+      "kind": "cat",
+      "need": 5
+     },
+     {
+      "kind": "gift",
+      "need": 3
+     },
+     {
+      "kind": "collect",
+      "t": "oct_35_2",
+      "need": 16
+     }
+    ],
+    "stones": [],
+    "cats": 5,
+    "gifts": 3,
+    "seed": 199321,
+    "stars": [
+     2000,
+     3500,
+     5500
+    ],
+    "theme": "bakery"
+   },
+   {
+    "n": 205,
+    "types": [
+     "n_herbjar",
+     "n_bluebird",
+     "oct_23_4",
+     "n_jamspoon",
+     "n_apron",
+     "oct_23_1"
+    ],
+    "moves": 44,
+    "goals": [
+     {
+      "kind": "collect",
+      "t": "n_herbjar",
+      "need": 20
+     },
+     {
+      "kind": "collect",
+      "t": "n_bluebird",
+      "need": 18
+     },
+     {
+      "kind": "collect",
+      "t": "oct_23_4",
+      "need": 15
+     }
+    ],
+    "stones": [],
+    "cats": 0,
+    "gifts": 0,
+    "seed": 200298,
+    "stars": [
+     2000,
+     3500,
+     5500
+    ],
+    "theme": "garden"
+   },
+   {
+    "n": 206,
+    "types": [
+     "oct_23_4",
+     "oct_20_3",
+     "oct_11_3",
+     "n_apron",
+     "oct_37_3",
+     "n_herbjar"
+    ],
+    "moves": 44,
+    "goals": [
+     {
+      "kind": "cat",
+      "need": 5
+     },
+     {
+      "kind": "collect",
+      "t": "oct_20_3",
+      "need": 18
+     }
+    ],
+    "stones": [],
+    "cats": 5,
+    "gifts": 0,
+    "seed": 201275,
+    "stars": [
+     2000,
+     3500,
+     5500
+    ],
+    "theme": "garden"
+   },
+   {
+    "n": 207,
+    "types": [
+     "n_bluebird",
+     "n_pillow",
+     "n_lavsack",
+     "oct_24_3",
+     "n_herbjar",
+     "oct_37_4"
+    ],
+    "moves": 38,
+    "goals": [
+     {
+      "kind": "gift",
+      "need": 3
+     },
+     {
+      "kind": "collect",
+      "t": "n_bluebird",
+      "need": 18
+     }
+    ],
+    "stones": [],
+    "cats": 0,
+    "gifts": 3,
+    "seed": 202252,
+    "stars": [
+     1700,
+     3000,
+     4800
+    ],
+    "theme": "garden"
+   },
+   {
+    "n": 208,
+    "types": [
+     "oct_20_3",
+     "oct_23_1",
+     "n_jamspoon",
+     "n_bluebird",
+     "oct_37_3",
+     "oct_30_1"
+    ],
+    "moves": 41,
+    "goals": [
+     {
+      "kind": "gift",
+      "need": 3
+     },
+     {
+      "kind": "cat",
+      "need": 5
+     }
+    ],
+    "stones": [],
+    "cats": 5,
+    "gifts": 3,
+    "seed": 203229,
+    "stars": [
+     1800,
+     3300,
+     5100
+    ],
+    "theme": "garden"
+   },
+   {
+    "n": 209,
+    "types": [
+     "n_lavsack",
+     "n_jamspoon",
+     "oct_13_3",
+     "n_bluebird",
+     "oct_23_2",
+     "oct_20_3"
+    ],
+    "moves": 41,
+    "goals": [
+     {
+      "kind": "collect",
+      "t": "n_lavsack",
+      "need": 22
+     },
+     {
+      "kind": "collect",
+      "t": "n_jamspoon",
+      "need": 20
+     }
+    ],
+    "stones": [],
+    "cats": 0,
+    "gifts": 0,
+    "seed": 204206,
+    "stars": [
+     1800,
+     3300,
+     5100
+    ],
+    "theme": "garden"
+   },
+   {
+    "n": 210,
+    "types": [
+     "oct_13_3",
+     "n_clover",
+     "oct_23_4",
+     "n_seedpack",
+     "n_apron",
+     "oct_23_1"
+    ],
+    "moves": 41,
+    "goals": [
+     {
+      "kind": "cat",
+      "need": 5
+     },
+     {
+      "kind": "collect",
+      "t": "oct_23_4",
+      "need": 17
+     },
+     {
+      "kind": "collect",
+      "t": "n_seedpack",
+      "need": 15
+     }
+    ],
+    "stones": [],
+    "cats": 5,
+    "gifts": 0,
+    "seed": 205183,
+    "stars": [
+     1800,
+     3300,
+     5100
+    ],
+    "theme": "garden"
+   },
+   {
+    "n": 211,
+    "types": [
+     "oct_23_3",
+     "n_clover",
+     "n_pillow",
+     "n_lavsack",
+     "oct_20_3",
+     "n_bluebird"
+    ],
+    "moves": 41,
+    "goals": [
+     {
+      "kind": "gift",
+      "need": 3
+     },
+     {
+      "kind": "collect",
+      "t": "n_clover",
+      "need": 19
+     },
+     {
+      "kind": "collect",
+      "t": "n_lavsack",
+      "need": 16
+     }
+    ],
+    "stones": [],
+    "cats": 0,
+    "gifts": 3,
+    "seed": 206160,
+    "stars": [
+     1800,
+     3300,
+     5100
+    ],
+    "theme": "garden"
+   },
+   {
+    "n": 212,
+    "types": [
+     "oct_23_1",
+     "oct_37_3",
+     "oct_13_3",
+     "oct_23_4",
+     "n_lavsack",
+     "n_tulipbasket"
+    ],
+    "moves": 44,
+    "goals": [
+     {
+      "kind": "cat",
+      "need": 5
+     },
+     {
+      "kind": "gift",
+      "need": 3
+     },
+     {
+      "kind": "collect",
+      "t": "oct_23_1",
+      "need": 16
+     }
+    ],
+    "stones": [],
+    "cats": 5,
+    "gifts": 3,
+    "seed": 207137,
+    "stars": [
+     2000,
+     3500,
+     5500
+    ],
+    "theme": "garden"
+   },
+   {
+    "n": 213,
+    "types": [
+     "oct_13_3",
+     "n_bluebird",
+     "n_lavsack",
+     "n_tulipbasket",
+     "oct_20_3",
+     "oct_37_3"
+    ],
+    "moves": 44,
+    "goals": [
+     {
+      "kind": "collect",
+      "t": "oct_13_3",
+      "need": 20
+     },
+     {
+      "kind": "collect",
+      "t": "n_bluebird",
+      "need": 18
+     },
+     {
+      "kind": "collect",
+      "t": "n_lavsack",
+      "need": 15
+     }
+    ],
+    "stones": [],
+    "cats": 0,
+    "gifts": 0,
+    "seed": 208114,
+    "stars": [
+     2000,
+     3500,
+     5500
+    ],
+    "theme": "garden"
+   },
+   {
+    "n": 214,
+    "types": [
+     "n_herbjar",
+     "oct_11_3",
+     "n_lavsack",
+     "oct_23_4",
+     "oct_13_3",
+     "n_jamspoon"
+    ],
+    "moves": 44,
+    "goals": [
+     {
+      "kind": "cat",
+      "need": 5
+     },
+     {
+      "kind": "collect",
+      "t": "oct_11_3",
+      "need": 18
+     }
+    ],
+    "stones": [],
+    "cats": 5,
+    "gifts": 0,
+    "seed": 209091,
+    "stars": [
+     2000,
+     3500,
+     5500
+    ],
+    "theme": "garden"
+   },
+   {
+    "n": 215,
+    "types": [
+     "oct_13_3",
+     "n_lavsack",
+     "oct_20_3",
+     "n_herbjar",
+     "oct_13_4",
+     "n_pillow"
+    ],
+    "moves": 36,
+    "goals": [
+     {
+      "kind": "gift",
+      "need": 3
+     },
+     {
+      "kind": "collect",
+      "t": "oct_13_3",
+      "need": 18
+     }
+    ],
+    "stones": [],
+    "cats": 0,
+    "gifts": 3,
+    "seed": 210068,
+    "stars": [
+     1600,
+     2900,
+     4500
+    ],
+    "theme": "garden"
+   },
+   {
+    "n": 216,
+    "types": [
+     "n_bluebird",
+     "oct_30_1",
+     "n_apron",
+     "oct_20_3",
+     "oct_23_3",
+     "oct_23_4"
+    ],
+    "moves": 38,
+    "goals": [
+     {
+      "kind": "gift",
+      "need": 3
+     },
+     {
+      "kind": "cat",
+      "need": 5
+     }
+    ],
+    "stones": [],
+    "cats": 5,
+    "gifts": 3,
+    "seed": 211045,
+    "stars": [
+     1700,
+     3000,
+     4800
+    ],
+    "theme": "garden"
+   },
+   {
+    "n": 217,
+    "types": [
+     "oct_16_3",
+     "n_scarf",
+     "oct_27_2",
+     "oct_15_3",
+     "n_patchheart",
+     "oct_31_1"
+    ],
+    "moves": 38,
+    "goals": [
+     {
+      "kind": "collect",
+      "t": "oct_16_3",
+      "need": 22
+     },
+     {
+      "kind": "collect",
+      "t": "n_scarf",
+      "need": 20
+     }
+    ],
+    "stones": [],
+    "cats": 0,
+    "gifts": 0,
+    "seed": 212022,
+    "stars": [
+     1700,
+     3000,
+     4800
+    ],
+    "theme": "sewing"
+   },
+   {
+    "n": 218,
+    "types": [
+     "oct_25_1",
+     "oct_22_1",
+     "oct_31_1",
+     "n_scarf",
+     "n_pincushion",
+     "oct_36_2"
+    ],
+    "moves": 38,
+    "goals": [
+     {
+      "kind": "cat",
+      "need": 5
+     },
+     {
+      "kind": "collect",
+      "t": "oct_31_1",
+      "need": 17
+     },
+     {
+      "kind": "collect",
+      "t": "n_scarf",
+      "need": 15
+     }
+    ],
+    "stones": [],
+    "cats": 5,
+    "gifts": 0,
+    "seed": 212999,
+    "stars": [
+     1700,
+     3000,
+     4800
+    ],
+    "theme": "sewing"
+   },
+   {
+    "n": 219,
+    "types": [
+     "n_scissors",
+     "oct_31_1",
+     "oct_25_1",
+     "oct_16_4",
+     "n_buttons",
+     "n_knitbow"
+    ],
+    "moves": 38,
+    "goals": [
+     {
+      "kind": "gift",
+      "need": 3
+     },
+     {
+      "kind": "collect",
+      "t": "oct_31_1",
+      "need": 19
+     },
+     {
+      "kind": "collect",
+      "t": "oct_16_4",
+      "need": 16
+     }
+    ],
+    "stones": [],
+    "cats": 0,
+    "gifts": 3,
+    "seed": 213976,
+    "stars": [
+     1700,
+     3000,
+     4800
+    ],
+    "theme": "sewing"
+   },
+   {
+    "n": 220,
+    "types": [
+     "oct_16_3",
+     "n_scarf",
+     "oct_22_1",
+     "oct_31_1",
+     "oct_36_1",
+     "n_scissors"
+    ],
+    "moves": 44,
+    "goals": [
+     {
+      "kind": "cat",
+      "need": 5
+     },
+     {
+      "kind": "gift",
+      "need": 3
+     },
+     {
+      "kind": "collect",
+      "t": "oct_16_3",
+      "need": 16
+     }
+    ],
+    "stones": [],
+    "cats": 5,
+    "gifts": 3,
+    "seed": 214953,
+    "stars": [
+     2000,
+     3500,
+     5500
+    ],
+    "theme": "sewing"
+   },
+   {
+    "n": 221,
+    "types": [
+     "oct_27_2",
+     "oct_36_1",
+     "n_patchheart",
+     "n_scissors",
+     "n_purplebow",
+     "oct_16_3"
+    ],
+    "moves": 44,
+    "goals": [
+     {
+      "kind": "collect",
+      "t": "oct_27_2",
+      "need": 20
+     },
+     {
+      "kind": "collect",
+      "t": "oct_36_1",
+      "need": 18
+     },
+     {
+      "kind": "collect",
+      "t": "n_patchheart",
+      "need": 15
+     }
+    ],
+    "stones": [],
+    "cats": 0,
+    "gifts": 0,
+    "seed": 215930,
+    "stars": [
+     2000,
+     3500,
+     5500
+    ],
+    "theme": "sewing"
+   },
+   {
+    "n": 222,
+    "types": [
+     "oct_16_4",
+     "n_scissors",
+     "oct_16_3",
+     "oct_39_3",
+     "n_purplebow",
+     "n_knitbow"
+    ],
+    "moves": 44,
+    "goals": [
+     {
+      "kind": "cat",
+      "need": 5
+     },
+     {
+      "kind": "collect",
+      "t": "n_scissors",
+      "need": 18
+     }
+    ],
+    "stones": [],
+    "cats": 5,
+    "gifts": 0,
+    "seed": 216907,
+    "stars": [
+     2000,
+     3500,
+     5500
+    ],
+    "theme": "sewing"
+   },
+   {
+    "n": 223,
+    "types": [
+     "oct_16_3",
+     "n_patchcup",
+     "n_purplebow",
+     "n_knitbow",
+     "oct_31_1",
+     "oct_22_1"
+    ],
+    "moves": 38,
+    "goals": [
+     {
+      "kind": "gift",
+      "need": 3
+     },
+     {
+      "kind": "collect",
+      "t": "oct_16_3",
+      "need": 18
+     }
+    ],
+    "stones": [],
+    "cats": 0,
+    "gifts": 3,
+    "seed": 217884,
+    "stars": [
+     1700,
+     3000,
+     4800
+    ],
+    "theme": "sewing"
+   },
+   {
+    "n": 224,
+    "types": [
+     "oct_27_2",
+     "n_patchheart",
+     "oct_39_3",
+     "oct_31_1",
+     "n_pincushion",
+     "n_scarf"
+    ],
+    "moves": 44,
+    "goals": [
+     {
+      "kind": "gift",
+      "need": 3
+     },
+     {
+      "kind": "cat",
+      "need": 5
+     }
+    ],
+    "stones": [],
+    "cats": 5,
+    "gifts": 3,
+    "seed": 218861,
+    "stars": [
+     2000,
+     3500,
+     5500
+    ],
+    "theme": "sewing"
+   },
+   {
+    "n": 225,
+    "types": [
+     "n_patchheart",
+     "oct_16_3",
+     "oct_16_4",
+     "n_scarf",
+     "oct_31_1",
+     "oct_39_3"
+    ],
+    "moves": 44,
+    "goals": [
+     {
+      "kind": "collect",
+      "t": "n_patchheart",
+      "need": 22
+     },
+     {
+      "kind": "collect",
+      "t": "oct_16_3",
+      "need": 20
+     }
+    ],
+    "stones": [],
+    "cats": 0,
+    "gifts": 0,
+    "seed": 219838,
+    "stars": [
+     2000,
+     3500,
+     5500
+    ],
+    "theme": "sewing"
+   },
+   {
+    "n": 226,
+    "types": [
+     "n_knitbow",
+     "oct_16_4",
+     "oct_36_2",
+     "n_purplebow",
+     "n_buttons",
+     "oct_31_1"
+    ],
+    "moves": 44,
+    "goals": [
+     {
+      "kind": "cat",
+      "need": 5
+     },
+     {
+      "kind": "collect",
+      "t": "oct_36_2",
+      "need": 17
+     },
+     {
+      "kind": "collect",
+      "t": "n_purplebow",
+      "need": 15
+     }
+    ],
+    "stones": [],
+    "cats": 5,
+    "gifts": 0,
+    "seed": 220815,
+    "stars": [
+     2000,
+     3500,
+     5500
+    ],
+    "theme": "sewing"
+   },
+   {
+    "n": 227,
+    "types": [
+     "n_buttons",
+     "oct_22_1",
+     "n_scarf",
+     "n_knitbow",
+     "oct_31_1",
+     "oct_30_4"
+    ],
+    "moves": 36,
+    "goals": [
+     {
+      "kind": "gift",
+      "need": 3
+     },
+     {
+      "kind": "collect",
+      "t": "oct_22_1",
+      "need": 19
+     },
+     {
+      "kind": "collect",
+      "t": "n_knitbow",
+      "need": 16
+     }
+    ],
+    "stones": [],
+    "cats": 0,
+    "gifts": 3,
+    "seed": 221792,
+    "stars": [
+     1600,
+     2900,
+     4500
+    ],
+    "theme": "sewing"
+   },
+   {
+    "n": 228,
+    "types": [
+     "n_scarf",
+     "n_patchheart",
+     "oct_36_1",
+     "oct_16_3",
+     "oct_31_1",
+     "oct_27_2"
+    ],
+    "moves": 44,
+    "goals": [
+     {
+      "kind": "cat",
+      "need": 5
+     },
+     {
+      "kind": "gift",
+      "need": 3
+     },
+     {
+      "kind": "collect",
+      "t": "n_scarf",
+      "need": 16
+     }
+    ],
+    "stones": [],
+    "cats": 5,
+    "gifts": 3,
+    "seed": 222769,
+    "stars": [
+     2000,
+     3500,
+     5500
+    ],
+    "theme": "sewing"
+   },
+   {
+    "n": 229,
+    "types": [
+     "oct_35_4",
+     "oct_31_3",
+     "oct_12_1",
+     "n_sewbag",
+     "n_locket",
+     "oct_33_3"
+    ],
+    "moves": 44,
+    "goals": [
+     {
+      "kind": "collect",
+      "t": "oct_35_4",
+      "need": 20
+     },
+     {
+      "kind": "collect",
+      "t": "oct_31_3",
+      "need": 18
+     },
+     {
+      "kind": "collect",
+      "t": "oct_12_1",
+      "need": 15
+     }
+    ],
+    "stones": [],
+    "cats": 0,
+    "gifts": 0,
+    "seed": 223746,
+    "stars": [
+     2000,
+     3500,
+     5500
+    ],
+    "theme": "keepsakes"
+   },
+   {
+    "n": 230,
+    "types": [
+     "oct_35_4",
+     "oct_34_1",
+     "oct_20_2",
+     "n_umbrella",
+     "n_bookmark",
+     "oct_29_1"
+    ],
+    "moves": 44,
+    "goals": [
+     {
+      "kind": "cat",
+      "need": 5
+     },
+     {
+      "kind": "collect",
+      "t": "oct_34_1",
+      "need": 18
+     }
+    ],
+    "stones": [],
+    "cats": 5,
+    "gifts": 0,
+    "seed": 224723,
+    "stars": [
+     2000,
+     3500,
+     5500
+    ],
+    "theme": "keepsakes"
+   },
+   {
+    "n": 231,
+    "types": [
+     "oct_31_2",
+     "oct_34_2",
+     "oct_29_1",
+     "oct_12_4",
+     "oct_35_1",
+     "n_umbrella"
+    ],
+    "moves": 38,
+    "goals": [
+     {
+      "kind": "gift",
+      "need": 3
+     },
+     {
+      "kind": "collect",
+      "t": "oct_31_2",
+      "need": 18
+     }
+    ],
+    "stones": [],
+    "cats": 0,
+    "gifts": 3,
+    "seed": 225700,
+    "stars": [
+     1700,
+     3000,
+     4800
+    ],
+    "theme": "keepsakes"
+   },
+   {
+    "n": 232,
+    "types": [
+     "n_umbrella",
+     "oct_39_1",
+     "oct_12_1",
+     "oct_35_1",
+     "oct_26_4",
+     "oct_29_1"
+    ],
+    "moves": 44,
+    "goals": [
+     {
+      "kind": "gift",
+      "need": 3
+     },
+     {
+      "kind": "cat",
+      "need": 5
+     }
+    ],
+    "stones": [],
+    "cats": 5,
+    "gifts": 3,
+    "seed": 226677,
+    "stars": [
+     2000,
+     3500,
+     5500
+    ],
+    "theme": "keepsakes"
+   },
+   {
+    "n": 233,
+    "types": [
+     "oct_19_3",
+     "n_locket",
+     "n_sewbag",
+     "oct_35_4",
+     "oct_34_1",
+     "oct_29_3"
+    ],
+    "moves": 44,
+    "goals": [
+     {
+      "kind": "collect",
+      "t": "oct_19_3",
+      "need": 22
+     },
+     {
+      "kind": "collect",
+      "t": "n_locket",
+      "need": 20
+     }
+    ],
+    "stones": [],
+    "cats": 0,
+    "gifts": 0,
+    "seed": 227654,
+    "stars": [
+     2000,
+     3500,
+     5500
+    ],
+    "theme": "keepsakes"
+   },
+   {
+    "n": 234,
+    "types": [
+     "oct_29_1",
+     "oct_33_3",
+     "oct_34_1",
+     "oct_35_4",
+     "oct_33_2",
+     "n_postcard"
+    ],
+    "moves": 44,
+    "goals": [
+     {
+      "kind": "cat",
+      "need": 5
+     },
+     {
+      "kind": "collect",
+      "t": "oct_34_1",
+      "need": 17
+     },
+     {
+      "kind": "collect",
+      "t": "oct_35_4",
+      "need": 15
+     }
+    ],
+    "stones": [],
+    "cats": 5,
+    "gifts": 0,
+    "seed": 228631,
+    "stars": [
+     2000,
+     3500,
+     5500
+    ],
+    "theme": "keepsakes"
+   },
+   {
+    "n": 235,
+    "types": [
+     "n_bookmark",
+     "oct_25_3",
+     "oct_35_4",
+     "oct_31_2",
+     "oct_13_2",
+     "oct_29_3"
+    ],
+    "moves": 36,
+    "goals": [
+     {
+      "kind": "gift",
+      "need": 3
+     },
+     {
+      "kind": "collect",
+      "t": "oct_25_3",
+      "need": 19
+     },
+     {
+      "kind": "collect",
+      "t": "oct_31_2",
+      "need": 16
+     }
+    ],
+    "stones": [],
+    "cats": 0,
+    "gifts": 3,
+    "seed": 229608,
+    "stars": [
+     1600,
+     2900,
+     4500
+    ],
+    "theme": "keepsakes"
+   },
+   {
+    "n": 236,
+    "types": [
+     "oct_12_3",
+     "n_locket",
+     "oct_35_4",
+     "oct_33_2",
+     "oct_31_3",
+     "oct_25_4"
+    ],
+    "moves": 44,
+    "goals": [
+     {
+      "kind": "cat",
+      "need": 5
+     },
+     {
+      "kind": "gift",
+      "need": 3
+     },
+     {
+      "kind": "collect",
+      "t": "oct_12_3",
+      "need": 16
+     }
+    ],
+    "stones": [],
+    "cats": 5,
+    "gifts": 3,
+    "seed": 230585,
+    "stars": [
+     2000,
+     3500,
+     5500
+    ],
+    "theme": "keepsakes"
+   },
+   {
+    "n": 237,
+    "types": [
+     "oct_35_4",
+     "n_umbrella",
+     "oct_29_3",
+     "n_bookmark",
+     "oct_35_1",
+     "oct_25_3"
+    ],
+    "moves": 44,
+    "goals": [
+     {
+      "kind": "collect",
+      "t": "oct_35_4",
+      "need": 20
+     },
+     {
+      "kind": "collect",
+      "t": "n_umbrella",
+      "need": 18
+     },
+     {
+      "kind": "collect",
+      "t": "oct_29_3",
+      "need": 15
+     }
+    ],
+    "stones": [],
+    "cats": 0,
+    "gifts": 0,
+    "seed": 231562,
+    "stars": [
+     2000,
+     3500,
+     5500
+    ],
+    "theme": "keepsakes"
+   },
+   {
+    "n": 238,
+    "types": [
+     "oct_35_4",
+     "n_bookmark",
+     "oct_29_3",
+     "n_postcard",
+     "n_umbrella",
+     "oct_34_1"
+    ],
+    "moves": 44,
+    "goals": [
+     {
+      "kind": "cat",
+      "need": 5
+     },
+     {
+      "kind": "collect",
+      "t": "n_bookmark",
+      "need": 18
+     }
+    ],
+    "stones": [],
+    "cats": 5,
+    "gifts": 0,
+    "seed": 232539,
+    "stars": [
+     2000,
+     3500,
+     5500
+    ],
+    "theme": "keepsakes"
+   },
+   {
+    "n": 239,
+    "types": [
+     "oct_34_1",
+     "n_locket",
+     "oct_31_3",
+     "oct_33_2",
+     "n_postcard",
+     "oct_24_2"
+    ],
+    "moves": 38,
+    "goals": [
+     {
+      "kind": "gift",
+      "need": 3
+     },
+     {
+      "kind": "collect",
+      "t": "oct_34_1",
+      "need": 18
+     }
+    ],
+    "stones": [],
+    "cats": 0,
+    "gifts": 3,
+    "seed": 233516,
+    "stars": [
+     1700,
+     3000,
+     4800
+    ],
+    "theme": "keepsakes"
+   },
+   {
+    "n": 240,
+    "types": [
+     "n_bookmark",
+     "oct_25_4",
+     "oct_35_4",
+     "n_sewbag",
+     "oct_17_3",
+     "oct_31_3"
+    ],
+    "moves": 38,
+    "goals": [
+     {
+      "kind": "gift",
+      "need": 3
+     },
+     {
+      "kind": "cat",
+      "need": 5
+     }
+    ],
+    "stones": [],
+    "cats": 5,
+    "gifts": 3,
+    "seed": 234493,
+    "stars": [
+     1700,
+     3000,
+     4800
+    ],
+    "theme": "keepsakes"
+   },
+   {
+    "n": 241,
+    "types": [
+     "n_chocolate",
+     "n_meringue",
+     "n_swirlcandy",
+     "n_rosecake",
+     "n_madeleine",
+     "n_cloverbiscuit"
+    ],
+    "moves": 38,
+    "goals": [
+     {
+      "kind": "collect",
+      "t": "n_chocolate",
+      "need": 22
+     },
+     {
+      "kind": "collect",
+      "t": "n_meringue",
+      "need": 20
+     }
+    ],
+    "stones": [],
+    "cats": 0,
+    "gifts": 0,
+    "seed": 235470,
+    "stars": [
+     1700,
+     3000,
+     4800
+    ],
+    "theme": "sweets"
+   },
+   {
+    "n": 242,
+    "types": [
+     "n_swirlcandy",
+     "n_violet",
+     "n_blueberries",
+     "n_meringue",
+     "n_madeleine",
+     "n_macaron"
+    ],
+    "moves": 38,
+    "goals": [
+     {
+      "kind": "cat",
+      "need": 5
+     },
+     {
+      "kind": "collect",
+      "t": "n_blueberries",
+      "need": 17
+     },
+     {
+      "kind": "collect",
+      "t": "n_meringue",
+      "need": 15
+     }
+    ],
+    "stones": [],
+    "cats": 5,
+    "gifts": 0,
+    "seed": 236447,
+    "stars": [
+     1700,
+     3000,
+     4800
+    ],
+    "theme": "sweets"
+   },
+   {
+    "n": 243,
+    "types": [
+     "n_violetcandy",
+     "n_cloverbiscuit",
+     "n_meringue",
+     "n_macaron",
+     "n_blueberries",
+     "n_chocolate"
+    ],
+    "moves": 36,
+    "goals": [
+     {
+      "kind": "gift",
+      "need": 3
+     },
+     {
+      "kind": "collect",
+      "t": "n_cloverbiscuit",
+      "need": 19
+     },
+     {
+      "kind": "collect",
+      "t": "n_macaron",
+      "need": 16
+     }
+    ],
+    "stones": [],
+    "cats": 0,
+    "gifts": 3,
+    "seed": 237424,
+    "stars": [
+     1600,
+     2900,
+     4500
+    ],
+    "theme": "sweets"
+   },
+   {
+    "n": 244,
+    "types": [
+     "n_orangeslice",
+     "n_macaron",
+     "n_violet",
+     "n_swirlcandy",
+     "n_blueberries",
+     "n_cloverbiscuit"
+    ],
+    "moves": 38,
+    "goals": [
+     {
+      "kind": "cat",
+      "need": 5
+     },
+     {
+      "kind": "gift",
+      "need": 3
+     },
+     {
+      "kind": "collect",
+      "t": "n_orangeslice",
+      "need": 16
+     }
+    ],
+    "stones": [],
+    "cats": 5,
+    "gifts": 3,
+    "seed": 238401,
+    "stars": [
+     1700,
+     3000,
+     4800
+    ],
+    "theme": "sweets"
+   },
+   {
+    "n": 245,
+    "types": [
+     "n_heartcookie2",
+     "n_meringue",
+     "n_lemon",
+     "n_chocolate",
+     "n_jelly",
+     "n_blueberries"
+    ],
+    "moves": 38,
+    "goals": [
+     {
+      "kind": "collect",
+      "t": "n_heartcookie2",
+      "need": 20
+     },
+     {
+      "kind": "collect",
+      "t": "n_meringue",
+      "need": 18
+     },
+     {
+      "kind": "collect",
+      "t": "n_lemon",
+      "need": 15
+     }
+    ],
+    "stones": [],
+    "cats": 0,
+    "gifts": 0,
+    "seed": 239378,
+    "stars": [
+     1700,
+     3000,
+     4800
+    ],
+    "theme": "sweets"
+   },
+   {
+    "n": 246,
+    "types": [
+     "n_blueberries",
+     "n_meringue",
+     "n_violet",
+     "n_swirlcandy",
+     "n_rosecake",
+     "n_madeleine"
+    ],
+    "moves": 38,
+    "goals": [
+     {
+      "kind": "cat",
+      "need": 5
+     },
+     {
+      "kind": "collect",
+      "t": "n_meringue",
+      "need": 18
+     }
+    ],
+    "stones": [],
+    "cats": 5,
+    "gifts": 0,
+    "seed": 240355,
+    "stars": [
+     1700,
+     3000,
+     4800
+    ],
+    "theme": "sweets"
+   },
+   {
+    "n": 247,
+    "types": [
+     "n_violet",
+     "n_blueberries",
+     "n_cloverbiscuit",
+     "n_madeleine",
+     "oct_39_4",
+     "n_swirlcandy"
+    ],
+    "moves": 38,
+    "goals": [
+     {
+      "kind": "gift",
+      "need": 3
+     },
+     {
+      "kind": "collect",
+      "t": "n_violet",
+      "need": 18
+     }
+    ],
+    "stones": [],
+    "cats": 0,
+    "gifts": 3,
+    "seed": 241332,
+    "stars": [
+     1700,
+     3000,
+     4800
+    ],
+    "theme": "sweets"
+   },
+   {
+    "n": 248,
+    "types": [
+     "n_blueberries",
+     "n_violet",
+     "n_cloverbiscuit",
+     "n_heartcookie2",
+     "n_jelly",
+     "n_swirlcandy"
+    ],
+    "moves": 41,
+    "goals": [
+     {
+      "kind": "gift",
+      "need": 3
+     },
+     {
+      "kind": "cat",
+      "need": 5
+     }
+    ],
+    "stones": [],
+    "cats": 5,
+    "gifts": 3,
+    "seed": 242309,
+    "stars": [
+     1800,
+     3300,
+     5100
+    ],
+    "theme": "sweets"
+   },
+   {
+    "n": 249,
+    "types": [
+     "n_violet",
+     "n_heartcookie2",
+     "n_meringue",
+     "n_chocolate",
+     "n_raspberry",
+     "n_cloverbiscuit"
+    ],
+    "moves": 41,
+    "goals": [
+     {
+      "kind": "collect",
+      "t": "n_violet",
+      "need": 22
+     },
+     {
+      "kind": "collect",
+      "t": "n_heartcookie2",
+      "need": 20
+     }
+    ],
+    "stones": [],
+    "cats": 0,
+    "gifts": 0,
+    "seed": 243286,
+    "stars": [
+     1800,
+     3300,
+     5100
+    ],
+    "theme": "sweets"
+   },
+   {
+    "n": 250,
+    "types": [
+     "oct_39_4",
+     "n_blueberries",
+     "n_chocstrawberry",
+     "n_raspberry",
+     "n_madeleine",
+     "n_cloverbiscuit"
+    ],
+    "moves": 41,
+    "goals": [
+     {
+      "kind": "cat",
+      "need": 5
+     },
+     {
+      "kind": "collect",
+      "t": "n_chocstrawberry",
+      "need": 17
+     },
+     {
+      "kind": "collect",
+      "t": "n_raspberry",
+      "need": 15
+     }
+    ],
+    "stones": [],
+    "cats": 5,
+    "gifts": 0,
+    "seed": 244263,
+    "stars": [
+     1800,
+     3300,
+     5100
+    ],
+    "theme": "sweets"
+   },
+   {
+    "n": 251,
+    "types": [
+     "n_blueberries",
+     "n_violet",
+     "n_meringue",
+     "n_swirlcandy",
+     "n_chocolate",
+     "n_madeleine"
+    ],
+    "moves": 36,
+    "goals": [
+     {
+      "kind": "gift",
+      "need": 3
+     },
+     {
+      "kind": "collect",
+      "t": "n_violet",
+      "need": 19
+     },
+     {
+      "kind": "collect",
+      "t": "n_swirlcandy",
+      "need": 16
+     }
+    ],
+    "stones": [],
+    "cats": 0,
+    "gifts": 3,
+    "seed": 245240,
+    "stars": [
+     1600,
+     2900,
+     4500
+    ],
+    "theme": "sweets"
+   },
+   {
+    "n": 252,
+    "types": [
+     "n_blueberries",
+     "n_madeleine",
+     "n_meringue",
+     "n_macaron",
+     "n_chocolate",
+     "n_cloverbiscuit"
+    ],
+    "moves": 41,
+    "goals": [
+     {
+      "kind": "cat",
+      "need": 5
+     },
+     {
+      "kind": "gift",
+      "need": 3
+     },
+     {
+      "kind": "collect",
+      "t": "n_blueberries",
+      "need": 16
+     }
+    ],
+    "stones": [],
+    "cats": 5,
+    "gifts": 3,
+    "seed": 246217,
+    "stars": [
+     1800,
+     3300,
+     5100
+    ],
+    "theme": "sweets"
+   },
+   {
+    "n": 253,
+    "types": [
+     "n_scone",
+     "oct_21_3",
+     "oct_35_2",
+     "oct_20_1",
+     "n_rollingpin",
+     "oct_21_4"
+    ],
+    "moves": 41,
+    "goals": [
+     {
+      "kind": "collect",
+      "t": "n_scone",
+      "need": 20
+     },
+     {
+      "kind": "collect",
+      "t": "oct_21_3",
+      "need": 18
+     },
+     {
+      "kind": "collect",
+      "t": "oct_35_2",
+      "need": 15
+     }
+    ],
+    "stones": [],
+    "cats": 0,
+    "gifts": 0,
+    "seed": 247194,
+    "stars": [
+     1800,
+     3300,
+     5100
+    ],
+    "theme": "bakery"
+   },
+   {
+    "n": 254,
+    "types": [
+     "oct_11_1",
+     "oct_21_1",
+     "n_cinnamonroll",
+     "oct_35_2",
+     "n_rollingpin",
+     "n_lemoncake"
+    ],
+    "moves": 41,
+    "goals": [
+     {
+      "kind": "cat",
+      "need": 5
+     },
+     {
+      "kind": "collect",
+      "t": "oct_21_1",
+      "need": 18
+     }
+    ],
+    "stones": [],
+    "cats": 5,
+    "gifts": 0,
+    "seed": 248171,
+    "stars": [
+     1800,
+     3300,
+     5100
+    ],
+    "theme": "bakery"
+   },
+   {
+    "n": 255,
+    "types": [
+     "n_cupcake",
+     "oct_27_1",
+     "oct_36_4",
+     "oct_21_2",
+     "n_scone",
+     "oct_11_1"
+    ],
+    "moves": 33,
+    "goals": [
+     {
+      "kind": "gift",
+      "need": 3
+     },
+     {
+      "kind": "collect",
+      "t": "n_cupcake",
+      "need": 18
+     }
+    ],
+    "stones": [],
+    "cats": 0,
+    "gifts": 3,
+    "seed": 249148,
+    "stars": [
+     1500,
+     2600,
+     4100
+    ],
+    "theme": "bakery"
+   },
+   {
+    "n": 256,
+    "types": [
+     "n_cupcake",
+     "n_lemoncake",
+     "oct_21_2",
+     "oct_13_1",
+     "oct_21_3",
+     "n_cinnamonroll"
+    ],
+    "moves": 41,
+    "goals": [
+     {
+      "kind": "gift",
+      "need": 3
+     },
+     {
+      "kind": "cat",
+      "need": 5
+     }
+    ],
+    "stones": [],
+    "cats": 5,
+    "gifts": 3,
+    "seed": 250125,
+    "stars": [
+     1800,
+     3300,
+     5100
+    ],
+    "theme": "bakery"
+   },
+   {
+    "n": 257,
+    "types": [
+     "oct_21_3",
+     "n_petitfour",
+     "oct_20_1",
+     "oct_36_4",
+     "oct_16_1",
+     "oct_35_2"
+    ],
+    "moves": 41,
+    "goals": [
+     {
+      "kind": "collect",
+      "t": "oct_21_3",
+      "need": 22
+     },
+     {
+      "kind": "collect",
+      "t": "n_petitfour",
+      "need": 20
+     }
+    ],
+    "stones": [],
+    "cats": 0,
+    "gifts": 0,
+    "seed": 251102,
+    "stars": [
+     1800,
+     3300,
+     5100
+    ],
+    "theme": "bakery"
+   },
+   {
+    "n": 258,
+    "types": [
+     "oct_20_1",
+     "n_heartcookies",
+     "oct_27_1",
+     "n_cinnamonroll",
+     "n_cupcake",
+     "oct_36_4"
+    ],
+    "moves": 41,
+    "goals": [
+     {
+      "kind": "cat",
+      "need": 5
+     },
+     {
+      "kind": "collect",
+      "t": "oct_27_1",
+      "need": 17
+     },
+     {
+      "kind": "collect",
+      "t": "n_cinnamonroll",
+      "need": 15
+     }
+    ],
+    "stones": [],
+    "cats": 5,
+    "gifts": 0,
+    "seed": 252079,
+    "stars": [
+     1800,
+     3300,
+     5100
+    ],
+    "theme": "bakery"
+   },
+   {
+    "n": 259,
+    "types": [
+     "n_whisk",
+     "oct_20_1",
+     "oct_36_4",
+     "oct_21_3",
+     "oct_35_2",
+     "n_rollingpin"
+    ],
+    "moves": 36,
+    "goals": [
+     {
+      "kind": "gift",
+      "need": 3
+     },
+     {
+      "kind": "collect",
+      "t": "oct_20_1",
+      "need": 19
+     },
+     {
+      "kind": "collect",
+      "t": "oct_21_3",
+      "need": 16
+     }
+    ],
+    "stones": [],
+    "cats": 0,
+    "gifts": 3,
+    "seed": 253056,
+    "stars": [
+     1600,
+     2900,
+     4500
+    ],
+    "theme": "bakery"
+   },
+   {
+    "n": 260,
+    "types": [
+     "n_cupcake",
+     "oct_36_4",
+     "n_heartcookies",
+     "n_cinnamonroll",
+     "oct_21_3",
+     "oct_17_1"
+    ],
+    "moves": 38,
+    "goals": [
+     {
+      "kind": "cat",
+      "need": 5
+     },
+     {
+      "kind": "gift",
+      "need": 3
+     },
+     {
+      "kind": "collect",
+      "t": "n_cupcake",
+      "need": 16
+     }
+    ],
+    "stones": [],
+    "cats": 5,
+    "gifts": 3,
+    "seed": 254033,
+    "stars": [
+     1700,
+     3000,
+     4800
+    ],
+    "theme": "bakery"
+   },
+   {
+    "n": 261,
+    "types": [
+     "oct_13_1",
+     "n_cupcake",
+     "n_cinnamonroll",
+     "n_heartcookies",
+     "oct_17_4",
+     "oct_26_3"
+    ],
+    "moves": 38,
+    "goals": [
+     {
+      "kind": "collect",
+      "t": "oct_13_1",
+      "need": 20
+     },
+     {
+      "kind": "collect",
+      "t": "n_cupcake",
+      "need": 18
+     },
+     {
+      "kind": "collect",
+      "t": "n_cinnamonroll",
+      "need": 15
+     }
+    ],
+    "stones": [],
+    "cats": 0,
+    "gifts": 0,
+    "seed": 255010,
+    "stars": [
+     1700,
+     3000,
+     4800
+    ],
+    "theme": "bakery"
+   },
+   {
+    "n": 262,
+    "types": [
+     "oct_35_2",
+     "oct_11_1",
+     "n_cinnamonroll",
+     "n_lemoncake",
+     "n_cupcake",
+     "oct_16_1"
+    ],
+    "moves": 38,
+    "goals": [
+     {
+      "kind": "cat",
+      "need": 5
+     },
+     {
+      "kind": "collect",
+      "t": "oct_11_1",
+      "need": 18
+     }
+    ],
+    "stones": [],
+    "cats": 5,
+    "gifts": 0,
+    "seed": 255987,
+    "stars": [
+     1700,
+     3000,
+     4800
+    ],
+    "theme": "bakery"
+   },
+   {
+    "n": 263,
+    "types": [
+     "oct_27_1",
+     "oct_35_2",
+     "oct_20_1",
+     "oct_36_4",
+     "n_petitfour",
+     "n_lemoncake"
+    ],
+    "moves": 36,
+    "goals": [
+     {
+      "kind": "gift",
+      "need": 3
+     },
+     {
+      "kind": "collect",
+      "t": "oct_27_1",
+      "need": 18
+     }
+    ],
+    "stones": [],
+    "cats": 0,
+    "gifts": 3,
+    "seed": 256964,
+    "stars": [
+     1600,
+     2900,
+     4500
+    ],
+    "theme": "bakery"
+   },
+   {
+    "n": 264,
+    "types": [
+     "n_cinnamonroll",
+     "oct_11_1",
+     "n_cupcake",
+     "n_heartcookies",
+     "oct_21_3",
+     "oct_36_4"
+    ],
+    "moves": 44,
+    "goals": [
+     {
+      "kind": "gift",
+      "need": 3
+     },
+     {
+      "kind": "cat",
+      "need": 5
+     }
+    ],
+    "stones": [],
+    "cats": 5,
+    "gifts": 3,
+    "seed": 257941,
+    "stars": [
+     2000,
+     3500,
+     5500
+    ],
+    "theme": "bakery"
+   },
+   {
+    "n": 265,
+    "types": [
+     "n_pillow",
+     "n_jamspoon",
+     "oct_13_3",
+     "oct_37_4",
+     "n_bluebird",
+     "oct_23_4"
+    ],
+    "moves": 44,
+    "goals": [
+     {
+      "kind": "collect",
+      "t": "n_pillow",
+      "need": 22
+     },
+     {
+      "kind": "collect",
+      "t": "n_jamspoon",
+      "need": 20
+     }
+    ],
+    "stones": [],
+    "cats": 0,
+    "gifts": 0,
+    "seed": 258918,
+    "stars": [
+     2000,
+     3500,
+     5500
+    ],
+    "theme": "garden"
+   },
+   {
+    "n": 266,
+    "types": [
+     "oct_20_3",
+     "oct_23_1",
+     "oct_23_4",
+     "n_herbjar",
+     "oct_11_3",
+     "n_jamspoon"
+    ],
+    "moves": 44,
+    "goals": [
+     {
+      "kind": "cat",
+      "need": 5
+     },
+     {
+      "kind": "collect",
+      "t": "oct_23_4",
+      "need": 17
+     },
+     {
+      "kind": "collect",
+      "t": "n_herbjar",
+      "need": 15
+     }
+    ],
+    "stones": [],
+    "cats": 5,
+    "gifts": 0,
+    "seed": 259895,
+    "stars": [
+     2000,
+     3500,
+     5500
+    ],
+    "theme": "garden"
+   },
+   {
+    "n": 267,
+    "types": [
+     "oct_23_3",
+     "oct_37_3",
+     "oct_23_4",
+     "n_bluebird",
+     "n_herbjar",
+     "n_jamspoon"
+    ],
+    "moves": 38,
+    "goals": [
+     {
+      "kind": "gift",
+      "need": 3
+     },
+     {
+      "kind": "collect",
+      "t": "oct_37_3",
+      "need": 19
+     },
+     {
+      "kind": "collect",
+      "t": "n_bluebird",
+      "need": 16
+     }
+    ],
+    "stones": [],
+    "cats": 0,
+    "gifts": 3,
+    "seed": 260872,
+    "stars": [
+     1700,
+     3000,
+     4800
+    ],
+    "theme": "garden"
+   },
+   {
+    "n": 268,
+    "types": [
+     "oct_37_3",
+     "oct_11_3",
+     "oct_23_4",
+     "n_lavsack",
+     "oct_20_3",
+     "n_pillow"
+    ],
+    "moves": 41,
+    "goals": [
+     {
+      "kind": "cat",
+      "need": 5
+     },
+     {
+      "kind": "gift",
+      "need": 3
+     },
+     {
+      "kind": "collect",
+      "t": "oct_37_3",
+      "need": 16
+     }
+    ],
+    "stones": [],
+    "cats": 5,
+    "gifts": 3,
+    "seed": 261849,
+    "stars": [
+     1800,
+     3300,
+     5100
+    ],
+    "theme": "garden"
+   },
+   {
+    "n": 269,
+    "types": [
+     "n_pillow",
+     "n_bluebird",
+     "n_lavsack",
+     "n_herbjar",
+     "oct_30_1",
+     "oct_23_3"
+    ],
+    "moves": 41,
+    "goals": [
+     {
+      "kind": "collect",
+      "t": "n_pillow",
+      "need": 20
+     },
+     {
+      "kind": "collect",
+      "t": "n_bluebird",
+      "need": 18
+     },
+     {
+      "kind": "collect",
+      "t": "n_lavsack",
+      "need": 15
+     }
+    ],
+    "stones": [],
+    "cats": 0,
+    "gifts": 0,
+    "seed": 262826,
+    "stars": [
+     1800,
+     3300,
+     5100
+    ],
+    "theme": "garden"
+   },
+   {
+    "n": 270,
+    "types": [
+     "n_herbjar",
+     "n_jamspoon",
+     "oct_39_2",
+     "n_apron",
+     "oct_23_1",
+     "oct_37_4"
+    ],
+    "moves": 41,
+    "goals": [
+     {
+      "kind": "cat",
+      "need": 5
+     },
+     {
+      "kind": "collect",
+      "t": "n_jamspoon",
+      "need": 18
+     }
+    ],
+    "stones": [],
+    "cats": 5,
+    "gifts": 0,
+    "seed": 263803,
+    "stars": [
+     1800,
+     3300,
+     5100
+    ],
+    "theme": "garden"
+   },
+   {
+    "n": 271,
+    "types": [
+     "n_bluebird",
+     "n_tulipbasket",
+     "oct_20_3",
+     "oct_23_2",
+     "n_lavsack",
+     "oct_39_2"
+    ],
+    "moves": 41,
+    "goals": [
+     {
+      "kind": "gift",
+      "need": 3
+     },
+     {
+      "kind": "collect",
+      "t": "n_bluebird",
+      "need": 18
+     }
+    ],
+    "stones": [],
+    "cats": 0,
+    "gifts": 3,
+    "seed": 264780,
+    "stars": [
+     1800,
+     3300,
+     5100
+    ],
+    "theme": "garden"
+   },
+   {
+    "n": 272,
+    "types": [
+     "oct_23_4",
+     "oct_20_3",
+     "n_tulipbasket",
+     "oct_13_3",
+     "n_bluebird",
+     "oct_37_3"
+    ],
+    "moves": 44,
+    "goals": [
+     {
+      "kind": "gift",
+      "need": 3
+     },
+     {
+      "kind": "cat",
+      "need": 5
+     }
+    ],
+    "stones": [],
+    "cats": 5,
+    "gifts": 3,
+    "seed": 265757,
+    "stars": [
+     2000,
+     3500,
+     5500
+    ],
+    "theme": "garden"
+   },
+   {
+    "n": 273,
+    "types": [
+     "oct_23_1",
+     "oct_37_3",
+     "n_herbjar",
+     "oct_13_3",
+     "n_lavsack",
+     "n_pillow"
+    ],
+    "moves": 44,
+    "goals": [
+     {
+      "kind": "collect",
+      "t": "oct_23_1",
+      "need": 22
+     },
+     {
+      "kind": "collect",
+      "t": "oct_37_3",
+      "need": 20
+     }
+    ],
+    "stones": [],
+    "cats": 0,
+    "gifts": 0,
+    "seed": 266734,
+    "stars": [
+     2000,
+     3500,
+     5500
+    ],
+    "theme": "garden"
+   },
+   {
+    "n": 274,
+    "types": [
+     "oct_13_3",
+     "n_apron",
+     "oct_11_3",
+     "oct_23_2",
+     "n_jamspoon",
+     "n_clover"
+    ],
+    "moves": 44,
+    "goals": [
+     {
+      "kind": "cat",
+      "need": 5
+     },
+     {
+      "kind": "collect",
+      "t": "oct_11_3",
+      "need": 17
+     },
+     {
+      "kind": "collect",
+      "t": "oct_23_2",
+      "need": 15
+     }
+    ],
+    "stones": [],
+    "cats": 5,
+    "gifts": 0,
+    "seed": 267711,
+    "stars": [
+     2000,
+     3500,
+     5500
+    ],
+    "theme": "garden"
+   },
+   {
+    "n": 275,
+    "types": [
+     "n_jamspoon",
+     "oct_11_3",
+     "oct_20_3",
+     "oct_23_4",
+     "oct_37_3",
+     "n_bluebird"
+    ],
+    "moves": 36,
+    "goals": [
+     {
+      "kind": "gift",
+      "need": 3
+     },
+     {
+      "kind": "collect",
+      "t": "oct_11_3",
+      "need": 19
+     },
+     {
+      "kind": "collect",
+      "t": "oct_23_4",
+      "need": 16
+     }
+    ],
+    "stones": [],
+    "cats": 0,
+    "gifts": 3,
+    "seed": 268688,
+    "stars": [
+     1600,
+     2900,
+     4500
+    ],
+    "theme": "garden"
+   },
+   {
+    "n": 276,
+    "types": [
+     "n_herbjar",
+     "n_bluebird",
+     "n_bell",
+     "oct_23_4",
+     "n_apron",
+     "oct_23_2"
+    ],
+    "moves": 38,
+    "goals": [
+     {
+      "kind": "cat",
+      "need": 5
+     },
+     {
+      "kind": "gift",
+      "need": 3
+     },
+     {
+      "kind": "collect",
+      "t": "n_herbjar",
+      "need": 16
+     }
+    ],
+    "stones": [],
+    "cats": 5,
+    "gifts": 3,
+    "seed": 269665,
+    "stars": [
+     1700,
+     3000,
+     4800
+    ],
+    "theme": "garden"
+   },
+   {
+    "n": 277,
+    "types": [
+     "oct_22_1",
+     "oct_36_1",
+     "n_patchcup",
+     "oct_36_2",
+     "n_buttons",
+     "n_scarf"
+    ],
+    "moves": 38,
+    "goals": [
+     {
+      "kind": "collect",
+      "t": "oct_22_1",
+      "need": 20
+     },
+     {
+      "kind": "collect",
+      "t": "oct_36_1",
+      "need": 18
+     },
+     {
+      "kind": "collect",
+      "t": "n_patchcup",
+      "need": 15
+     }
+    ],
+    "stones": [],
+    "cats": 0,
+    "gifts": 0,
+    "seed": 270642,
+    "stars": [
+     1700,
+     3000,
+     4800
+    ],
+    "theme": "sewing"
+   },
+   {
+    "n": 278,
+    "types": [
+     "oct_22_3",
+     "n_scissors",
+     "n_scarf",
+     "oct_31_1",
+     "n_patchheart",
+     "oct_25_1"
+    ],
+    "moves": 38,
+    "goals": [
+     {
+      "kind": "cat",
+      "need": 5
+     },
+     {
+      "kind": "collect",
+      "t": "n_scissors",
+      "need": 18
+     }
+    ],
+    "stones": [],
+    "cats": 5,
+    "gifts": 0,
+    "seed": 271619,
+    "stars": [
+     1700,
+     3000,
+     4800
+    ],
+    "theme": "sewing"
+   },
+   {
+    "n": 279,
+    "types": [
+     "n_buttons",
+     "n_purplebow",
+     "oct_15_3",
+     "oct_31_1",
+     "oct_16_3",
+     "oct_27_2"
+    ],
+    "moves": 38,
+    "goals": [
+     {
+      "kind": "gift",
+      "need": 3
+     },
+     {
+      "kind": "collect",
+      "t": "n_buttons",
+      "need": 18
+     }
+    ],
+    "stones": [],
+    "cats": 0,
+    "gifts": 3,
+    "seed": 272596,
+    "stars": [
+     1700,
+     3000,
+     4800
+    ],
+    "theme": "sewing"
+   },
+   {
+    "n": 280,
+    "types": [
+     "n_scarf",
+     "n_buttons",
+     "oct_22_1",
+     "oct_25_1",
+     "oct_31_1",
+     "n_scissors"
+    ],
+    "moves": 44,
+    "goals": [
+     {
+      "kind": "gift",
+      "need": 3
+     },
+     {
+      "kind": "cat",
+      "need": 5
+     }
+    ],
+    "stones": [],
+    "cats": 5,
+    "gifts": 3,
+    "seed": 273573,
+    "stars": [
+     2000,
+     3500,
+     5500
+    ],
+    "theme": "sewing"
+   },
+   {
+    "n": 281,
+    "types": [
+     "oct_15_3",
+     "n_buttons",
+     "oct_27_2",
+     "oct_16_3",
+     "n_knitbow",
+     "oct_31_1"
+    ],
+    "moves": 44,
+    "goals": [
+     {
+      "kind": "collect",
+      "t": "oct_15_3",
+      "need": 22
+     },
+     {
+      "kind": "collect",
+      "t": "n_buttons",
+      "need": 20
+     }
+    ],
+    "stones": [],
+    "cats": 0,
+    "gifts": 0,
+    "seed": 274550,
+    "stars": [
+     2000,
+     3500,
+     5500
+    ],
+    "theme": "sewing"
+   },
+   {
+    "n": 282,
+    "types": [
+     "n_pincushion",
+     "oct_27_2",
+     "n_purplebow",
+     "oct_36_2",
+     "oct_31_1",
+     "oct_39_3"
+    ],
+    "moves": 44,
+    "goals": [
+     {
+      "kind": "cat",
+      "need": 5
+     },
+     {
+      "kind": "collect",
+      "t": "n_purplebow",
+      "need": 17
+     },
+     {
+      "kind": "collect",
+      "t": "oct_36_2",
+      "need": 15
+     }
+    ],
+    "stones": [],
+    "cats": 5,
+    "gifts": 0,
+    "seed": 275527,
+    "stars": [
+     2000,
+     3500,
+     5500
+    ],
+    "theme": "sewing"
+   },
+   {
+    "n": 283,
+    "types": [
+     "oct_25_1",
+     "n_scarf",
+     "n_scissors",
+     "oct_31_1",
+     "oct_22_1",
+     "oct_16_3"
+    ],
+    "moves": 38,
+    "goals": [
+     {
+      "kind": "gift",
+      "need": 3
+     },
+     {
+      "kind": "collect",
+      "t": "n_scarf",
+      "need": 19
+     },
+     {
+      "kind": "collect",
+      "t": "oct_31_1",
+      "need": 16
+     }
+    ],
+    "stones": [],
+    "cats": 0,
+    "gifts": 3,
+    "seed": 276504,
+    "stars": [
+     1700,
+     3000,
+     4800
+    ],
+    "theme": "sewing"
+   },
+   {
+    "n": 284,
+    "types": [
+     "oct_31_1",
+     "n_scissors",
+     "oct_27_3",
+     "n_knitbow",
+     "oct_22_1",
+     "n_buttons"
+    ],
+    "moves": 44,
+    "goals": [
+     {
+      "kind": "cat",
+      "need": 5
+     },
+     {
+      "kind": "gift",
+      "need": 3
+     },
+     {
+      "kind": "collect",
+      "t": "oct_31_1",
+      "need": 16
+     }
+    ],
+    "stones": [],
+    "cats": 5,
+    "gifts": 3,
+    "seed": 277481,
+    "stars": [
+     2000,
+     3500,
+     5500
+    ],
+    "theme": "sewing"
+   },
+   {
+    "n": 285,
+    "types": [
+     "oct_36_2",
+     "oct_27_2",
+     "oct_25_1",
+     "oct_31_1",
+     "n_scarf",
+     "n_knitbow"
+    ],
+    "moves": 44,
+    "goals": [
+     {
+      "kind": "collect",
+      "t": "oct_36_2",
+      "need": 20
+     },
+     {
+      "kind": "collect",
+      "t": "oct_27_2",
+      "need": 18
+     },
+     {
+      "kind": "collect",
+      "t": "oct_25_1",
+      "need": 15
+     }
+    ],
+    "stones": [],
+    "cats": 0,
+    "gifts": 0,
+    "seed": 278458,
+    "stars": [
+     2000,
+     3500,
+     5500
+    ],
+    "theme": "sewing"
+   },
+   {
+    "n": 286,
+    "types": [
+     "n_patchcup",
+     "oct_39_3",
+     "n_purplebow",
+     "oct_36_1",
+     "n_pincushion",
+     "oct_36_2"
+    ],
+    "moves": 44,
+    "goals": [
+     {
+      "kind": "cat",
+      "need": 5
+     },
+     {
+      "kind": "collect",
+      "t": "oct_39_3",
+      "need": 18
+     }
+    ],
+    "stones": [],
+    "cats": 5,
+    "gifts": 0,
+    "seed": 279435,
+    "stars": [
+     2000,
+     3500,
+     5500
+    ],
+    "theme": "sewing"
+   },
+   {
+    "n": 287,
+    "types": [
+     "oct_16_3",
+     "oct_25_1",
+     "oct_27_2",
+     "oct_31_1",
+     "n_scissors",
+     "n_scarf"
+    ],
+    "moves": 36,
+    "goals": [
+     {
+      "kind": "gift",
+      "need": 3
+     },
+     {
+      "kind": "collect",
+      "t": "oct_16_3",
+      "need": 18
+     }
+    ],
+    "stones": [],
+    "cats": 0,
+    "gifts": 3,
+    "seed": 280412,
+    "stars": [
+     1600,
+     2900,
+     4500
+    ],
+    "theme": "sewing"
+   },
+   {
+    "n": 288,
+    "types": [
+     "oct_22_1",
+     "oct_31_1",
+     "oct_16_4",
+     "n_knitbow",
+     "n_scarf",
+     "oct_39_3"
+    ],
+    "moves": 44,
+    "goals": [
+     {
+      "kind": "gift",
+      "need": 3
+     },
+     {
+      "kind": "cat",
+      "need": 5
+     }
+    ],
+    "stones": [],
+    "cats": 5,
+    "gifts": 3,
+    "seed": 281389,
+    "stars": [
+     2000,
+     3500,
+     5500
+    ],
+    "theme": "sewing"
+   },
+   {
+    "n": 289,
+    "types": [
+     "oct_35_4",
+     "oct_39_1",
+     "oct_29_3",
+     "n_umbrella",
+     "oct_35_1",
+     "oct_34_2"
+    ],
+    "moves": 44,
+    "goals": [
+     {
+      "kind": "collect",
+      "t": "oct_35_4",
+      "need": 22
+     },
+     {
+      "kind": "collect",
+      "t": "oct_39_1",
+      "need": 20
+     }
+    ],
+    "stones": [],
+    "cats": 0,
+    "gifts": 0,
+    "seed": 282366,
+    "stars": [
+     2000,
+     3500,
+     5500
+    ],
+    "theme": "keepsakes"
+   },
+   {
+    "n": 290,
+    "types": [
+     "oct_19_3",
+     "oct_35_4",
+     "n_bookmark",
+     "oct_33_2",
+     "oct_34_1",
+     "n_locket"
+    ],
+    "moves": 44,
+    "goals": [
+     {
+      "kind": "cat",
+      "need": 5
+     },
+     {
+      "kind": "collect",
+      "t": "n_bookmark",
+      "need": 17
+     },
+     {
+      "kind": "collect",
+      "t": "oct_33_2",
+      "need": 15
+     }
+    ],
+    "stones": [],
+    "cats": 5,
+    "gifts": 0,
+    "seed": 283343,
+    "stars": [
+     2000,
+     3500,
+     5500
+    ],
+    "theme": "keepsakes"
+   },
+   {
+    "n": 291,
+    "types": [
+     "oct_34_2",
+     "oct_14_1",
+     "oct_33_3",
+     "oct_35_4",
+     "n_musicbox",
+     "oct_35_1"
+    ],
+    "moves": 38,
+    "goals": [
+     {
+      "kind": "gift",
+      "need": 3
+     },
+     {
+      "kind": "collect",
+      "t": "oct_14_1",
+      "need": 19
+     },
+     {
+      "kind": "collect",
+      "t": "oct_35_4",
+      "need": 16
+     }
+    ],
+    "stones": [],
+    "cats": 0,
+    "gifts": 3,
+    "seed": 284320,
+    "stars": [
+     1700,
+     3000,
+     4800
+    ],
+    "theme": "keepsakes"
+   },
+   {
+    "n": 292,
+    "types": [
+     "n_locket",
+     "oct_20_2",
+     "oct_29_1",
+     "oct_34_1",
+     "n_postcard",
+     "oct_26_4"
+    ],
+    "moves": 44,
+    "goals": [
+     {
+      "kind": "cat",
+      "need": 5
+     },
+     {
+      "kind": "gift",
+      "need": 3
+     },
+     {
+      "kind": "collect",
+      "t": "n_locket",
+      "need": 16
+     }
+    ],
+    "stones": [],
+    "cats": 5,
+    "gifts": 3,
+    "seed": 285297,
+    "stars": [
+     2000,
+     3500,
+     5500
+    ],
+    "theme": "keepsakes"
+   },
+   {
+    "n": 293,
+    "types": [
+     "oct_35_4",
+     "n_sewbag",
+     "oct_33_3",
+     "oct_13_2",
+     "n_musicbox",
+     "oct_34_2"
+    ],
+    "moves": 44,
+    "goals": [
+     {
+      "kind": "collect",
+      "t": "oct_35_4",
+      "need": 20
+     },
+     {
+      "kind": "collect",
+      "t": "n_sewbag",
+      "need": 18
+     },
+     {
+      "kind": "collect",
+      "t": "oct_33_3",
+      "need": 15
+     }
+    ],
+    "stones": [],
+    "cats": 0,
+    "gifts": 0,
+    "seed": 286274,
+    "stars": [
+     2000,
+     3500,
+     5500
+    ],
+    "theme": "keepsakes"
+   },
+   {
+    "n": 294,
+    "types": [
+     "oct_12_3",
+     "n_postcard",
+     "n_locket",
+     "oct_26_4",
+     "n_bookmark",
+     "oct_25_3"
+    ],
+    "moves": 44,
+    "goals": [
+     {
+      "kind": "cat",
+      "need": 5
+     },
+     {
+      "kind": "collect",
+      "t": "n_postcard",
+      "need": 18
+     }
+    ],
+    "stones": [],
+    "cats": 5,
+    "gifts": 0,
+    "seed": 287251,
+    "stars": [
+     2000,
+     3500,
+     5500
+    ],
+    "theme": "keepsakes"
+   },
+   {
+    "n": 295,
+    "types": [
+     "oct_12_4",
+     "oct_31_2",
+     "oct_13_2",
+     "oct_34_2",
+     "n_umbrella",
+     "n_postcard"
+    ],
+    "moves": 36,
+    "goals": [
+     {
+      "kind": "gift",
+      "need": 3
+     },
+     {
+      "kind": "collect",
+      "t": "oct_12_4",
+      "need": 18
+     }
+    ],
+    "stones": [],
+    "cats": 0,
+    "gifts": 3,
+    "seed": 288228,
+    "stars": [
+     1600,
+     2900,
+     4500
+    ],
+    "theme": "keepsakes"
+   },
+   {
+    "n": 296,
+    "types": [
+     "n_postcard",
+     "oct_37_2",
+     "oct_34_1",
+     "oct_29_3",
+     "n_umbrella",
+     "oct_14_1"
+    ],
+    "moves": 44,
+    "goals": [
+     {
+      "kind": "gift",
+      "need": 3
+     },
+     {
+      "kind": "cat",
+      "need": 5
+     }
+    ],
+    "stones": [],
+    "cats": 5,
+    "gifts": 3,
+    "seed": 289205,
+    "stars": [
+     2000,
+     3500,
+     5500
+    ],
+    "theme": "keepsakes"
+   },
+   {
+    "n": 297,
+    "types": [
+     "oct_12_1",
+     "n_sewbag",
+     "n_postcard",
+     "oct_26_4",
+     "oct_25_4",
+     "n_locket"
+    ],
+    "moves": 44,
+    "goals": [
+     {
+      "kind": "collect",
+      "t": "oct_12_1",
+      "need": 22
+     },
+     {
+      "kind": "collect",
+      "t": "n_sewbag",
+      "need": 20
+     }
+    ],
+    "stones": [],
+    "cats": 0,
+    "gifts": 0,
+    "seed": 290182,
+    "stars": [
+     2000,
+     3500,
+     5500
+    ],
+    "theme": "keepsakes"
+   },
+   {
+    "n": 298,
+    "types": [
+     "oct_34_1",
+     "n_bookmark",
+     "oct_37_2",
+     "oct_33_2",
+     "n_umbrella",
+     "oct_35_4"
+    ],
+    "moves": 44,
+    "goals": [
+     {
+      "kind": "cat",
+      "need": 5
+     },
+     {
+      "kind": "collect",
+      "t": "oct_37_2",
+      "need": 17
+     },
+     {
+      "kind": "collect",
+      "t": "oct_33_2",
+      "need": 15
+     }
+    ],
+    "stones": [],
+    "cats": 5,
+    "gifts": 0,
+    "seed": 291159,
+    "stars": [
+     2000,
+     3500,
+     5500
+    ],
+    "theme": "keepsakes"
+   },
+   {
+    "n": 299,
+    "types": [
+     "n_locket",
+     "n_bookmark",
+     "oct_25_4",
+     "oct_34_1",
+     "oct_26_4",
+     "oct_13_2"
+    ],
+    "moves": 38,
+    "goals": [
+     {
+      "kind": "gift",
+      "need": 3
+     },
+     {
+      "kind": "collect",
+      "t": "n_bookmark",
+      "need": 19
+     },
+     {
+      "kind": "collect",
+      "t": "oct_34_1",
+      "need": 16
+     }
+    ],
+    "stones": [],
+    "cats": 0,
+    "gifts": 3,
+    "seed": 292136,
+    "stars": [
+     1700,
+     3000,
+     4800
+    ],
+    "theme": "keepsakes"
+   },
+   {
+    "n": 300,
+    "types": [
+     "oct_35_4",
+     "oct_31_2",
+     "oct_25_3",
+     "oct_34_1",
+     "n_sewbag",
+     "oct_29_3"
+    ],
+    "moves": 38,
+    "goals": [
+     {
+      "kind": "cat",
+      "need": 5
+     },
+     {
+      "kind": "gift",
+      "need": 3
+     },
+     {
+      "kind": "collect",
+      "t": "oct_35_4",
+      "need": 16
+     }
+    ],
+    "stones": [],
+    "cats": 5,
+    "gifts": 3,
+    "seed": 293113,
+    "stars": [
+     1700,
+     3000,
+     4800
+    ],
+    "theme": "keepsakes"
    }
   ],
   "simple": [
@@ -13925,6 +17446,3428 @@
      6100
     ],
     "theme": "bakery"
+   },
+   {
+    "n": 202,
+    "types": [
+     "oct_35_2",
+     "oct_28_1",
+     "oct_36_4",
+     "n_whisk",
+     "oct_21_3"
+    ],
+    "moves": 49,
+    "goals": [
+     {
+      "kind": "cat",
+      "need": 4
+     },
+     {
+      "kind": "collect",
+      "t": "oct_36_4",
+      "need": 14
+     },
+     {
+      "kind": "collect",
+      "t": "n_whisk",
+      "need": 12
+     }
+    ],
+    "stones": [],
+    "cats": 5,
+    "gifts": 0,
+    "seed": 197367,
+    "stars": [
+     2200,
+     3900,
+     6100
+    ],
+    "theme": "bakery"
+   },
+   {
+    "n": 203,
+    "types": [
+     "oct_20_1",
+     "n_cupcake",
+     "oct_26_3",
+     "n_heartcookies",
+     "oct_36_4"
+    ],
+    "moves": 47,
+    "goals": [
+     {
+      "kind": "gift",
+      "need": 3
+     },
+     {
+      "kind": "collect",
+      "t": "n_cupcake",
+      "need": 15
+     },
+     {
+      "kind": "collect",
+      "t": "n_heartcookies",
+      "need": 13
+     }
+    ],
+    "stones": [],
+    "cats": 0,
+    "gifts": 3,
+    "seed": 198344,
+    "stars": [
+     2100,
+     3800,
+     5900
+    ],
+    "theme": "bakery"
+   },
+   {
+    "n": 204,
+    "types": [
+     "oct_35_2",
+     "n_scone",
+     "n_rollingpin",
+     "oct_21_3",
+     "oct_28_1"
+    ],
+    "moves": 57,
+    "goals": [
+     {
+      "kind": "cat",
+      "need": 4
+     },
+     {
+      "kind": "gift",
+      "need": 3
+     },
+     {
+      "kind": "collect",
+      "t": "oct_35_2",
+      "need": 13
+     }
+    ],
+    "stones": [],
+    "cats": 5,
+    "gifts": 3,
+    "seed": 199321,
+    "stars": [
+     2600,
+     4600,
+     7100
+    ],
+    "theme": "bakery"
+   },
+   {
+    "n": 205,
+    "types": [
+     "oct_30_1",
+     "n_jamspoon",
+     "oct_23_2",
+     "oct_20_3",
+     "n_apron"
+    ],
+    "moves": 57,
+    "goals": [
+     {
+      "kind": "collect",
+      "t": "oct_30_1",
+      "need": 16
+     },
+     {
+      "kind": "collect",
+      "t": "n_jamspoon",
+      "need": 14
+     },
+     {
+      "kind": "collect",
+      "t": "oct_23_2",
+      "need": 12
+     }
+    ],
+    "stones": [],
+    "cats": 0,
+    "gifts": 0,
+    "seed": 200298,
+    "stars": [
+     2600,
+     4600,
+     7100
+    ],
+    "theme": "garden"
+   },
+   {
+    "n": 206,
+    "types": [
+     "n_bluebird",
+     "oct_23_1",
+     "oct_37_3",
+     "n_lavsack",
+     "oct_23_4"
+    ],
+    "moves": 57,
+    "goals": [
+     {
+      "kind": "cat",
+      "need": 4
+     },
+     {
+      "kind": "collect",
+      "t": "oct_23_1",
+      "need": 14
+     }
+    ],
+    "stones": [],
+    "cats": 5,
+    "gifts": 0,
+    "seed": 201275,
+    "stars": [
+     2600,
+     4600,
+     7100
+    ],
+    "theme": "garden"
+   },
+   {
+    "n": 207,
+    "types": [
+     "oct_37_3",
+     "oct_23_1",
+     "n_apron",
+     "oct_13_3",
+     "n_bluebird"
+    ],
+    "moves": 49,
+    "goals": [
+     {
+      "kind": "gift",
+      "need": 3
+     },
+     {
+      "kind": "collect",
+      "t": "oct_37_3",
+      "need": 14
+     }
+    ],
+    "stones": [],
+    "cats": 0,
+    "gifts": 3,
+    "seed": 202252,
+    "stars": [
+     2200,
+     3900,
+     6100
+    ],
+    "theme": "garden"
+   },
+   {
+    "n": 208,
+    "types": [
+     "oct_20_3",
+     "oct_23_1",
+     "n_jamspoon",
+     "n_bluebird",
+     "oct_37_3"
+    ],
+    "moves": 53,
+    "goals": [
+     {
+      "kind": "gift",
+      "need": 3
+     },
+     {
+      "kind": "cat",
+      "need": 4
+     }
+    ],
+    "stones": [],
+    "cats": 5,
+    "gifts": 3,
+    "seed": 203229,
+    "stars": [
+     2400,
+     4200,
+     6600
+    ],
+    "theme": "garden"
+   },
+   {
+    "n": 209,
+    "types": [
+     "n_clover",
+     "oct_23_3",
+     "oct_23_4",
+     "n_bluebird",
+     "n_apron"
+    ],
+    "moves": 53,
+    "goals": [
+     {
+      "kind": "collect",
+      "t": "n_clover",
+      "need": 18
+     },
+     {
+      "kind": "collect",
+      "t": "oct_23_3",
+      "need": 16
+     }
+    ],
+    "stones": [],
+    "cats": 0,
+    "gifts": 0,
+    "seed": 204206,
+    "stars": [
+     2400,
+     4200,
+     6600
+    ],
+    "theme": "garden"
+   },
+   {
+    "n": 210,
+    "types": [
+     "n_jamspoon",
+     "oct_11_3",
+     "oct_20_3",
+     "n_seedpack",
+     "n_bluebird"
+    ],
+    "moves": 53,
+    "goals": [
+     {
+      "kind": "cat",
+      "need": 4
+     },
+     {
+      "kind": "collect",
+      "t": "oct_20_3",
+      "need": 14
+     },
+     {
+      "kind": "collect",
+      "t": "n_seedpack",
+      "need": 12
+     }
+    ],
+    "stones": [],
+    "cats": 5,
+    "gifts": 0,
+    "seed": 205183,
+    "stars": [
+     2400,
+     4200,
+     6600
+    ],
+    "theme": "garden"
+   },
+   {
+    "n": 211,
+    "types": [
+     "oct_13_3",
+     "oct_23_4",
+     "n_pillow",
+     "n_bluebird",
+     "n_herbjar"
+    ],
+    "moves": 53,
+    "goals": [
+     {
+      "kind": "gift",
+      "need": 3
+     },
+     {
+      "kind": "collect",
+      "t": "oct_23_4",
+      "need": 15
+     },
+     {
+      "kind": "collect",
+      "t": "n_bluebird",
+      "need": 13
+     }
+    ],
+    "stones": [],
+    "cats": 0,
+    "gifts": 3,
+    "seed": 206160,
+    "stars": [
+     2400,
+     4200,
+     6600
+    ],
+    "theme": "garden"
+   },
+   {
+    "n": 212,
+    "types": [
+     "oct_23_1",
+     "oct_37_3",
+     "oct_13_3",
+     "oct_23_4",
+     "n_lavsack"
+    ],
+    "moves": 57,
+    "goals": [
+     {
+      "kind": "cat",
+      "need": 4
+     },
+     {
+      "kind": "gift",
+      "need": 3
+     },
+     {
+      "kind": "collect",
+      "t": "oct_23_1",
+      "need": 13
+     }
+    ],
+    "stones": [],
+    "cats": 5,
+    "gifts": 3,
+    "seed": 207137,
+    "stars": [
+     2600,
+     4600,
+     7100
+    ],
+    "theme": "garden"
+   },
+   {
+    "n": 213,
+    "types": [
+     "oct_37_3",
+     "oct_23_1",
+     "n_apron",
+     "oct_20_3",
+     "oct_13_3"
+    ],
+    "moves": 57,
+    "goals": [
+     {
+      "kind": "collect",
+      "t": "oct_37_3",
+      "need": 16
+     },
+     {
+      "kind": "collect",
+      "t": "oct_23_1",
+      "need": 14
+     },
+     {
+      "kind": "collect",
+      "t": "n_apron",
+      "need": 12
+     }
+    ],
+    "stones": [],
+    "cats": 0,
+    "gifts": 0,
+    "seed": 208114,
+    "stars": [
+     2600,
+     4600,
+     7100
+    ],
+    "theme": "garden"
+   },
+   {
+    "n": 214,
+    "types": [
+     "n_tulipbasket",
+     "oct_23_1",
+     "n_bluebird",
+     "oct_37_4",
+     "oct_23_4"
+    ],
+    "moves": 57,
+    "goals": [
+     {
+      "kind": "cat",
+      "need": 4
+     },
+     {
+      "kind": "collect",
+      "t": "oct_23_1",
+      "need": 14
+     }
+    ],
+    "stones": [],
+    "cats": 5,
+    "gifts": 0,
+    "seed": 209091,
+    "stars": [
+     2600,
+     4600,
+     7100
+    ],
+    "theme": "garden"
+   },
+   {
+    "n": 215,
+    "types": [
+     "oct_11_3",
+     "n_jamspoon",
+     "n_clover",
+     "oct_23_2",
+     "oct_37_3"
+    ],
+    "moves": 47,
+    "goals": [
+     {
+      "kind": "gift",
+      "need": 3
+     },
+     {
+      "kind": "collect",
+      "t": "oct_11_3",
+      "need": 14
+     }
+    ],
+    "stones": [],
+    "cats": 0,
+    "gifts": 3,
+    "seed": 210068,
+    "stars": [
+     2100,
+     3800,
+     5900
+    ],
+    "theme": "garden"
+   },
+   {
+    "n": 216,
+    "types": [
+     "n_bluebird",
+     "oct_30_1",
+     "n_apron",
+     "oct_20_3",
+     "oct_23_3"
+    ],
+    "moves": 49,
+    "goals": [
+     {
+      "kind": "gift",
+      "need": 3
+     },
+     {
+      "kind": "cat",
+      "need": 4
+     }
+    ],
+    "stones": [],
+    "cats": 5,
+    "gifts": 3,
+    "seed": 211045,
+    "stars": [
+     2200,
+     3900,
+     6100
+    ],
+    "theme": "garden"
+   },
+   {
+    "n": 217,
+    "types": [
+     "oct_16_3",
+     "n_scarf",
+     "oct_31_1",
+     "oct_15_3",
+     "n_patchheart"
+    ],
+    "moves": 49,
+    "goals": [
+     {
+      "kind": "collect",
+      "t": "oct_16_3",
+      "need": 18
+     },
+     {
+      "kind": "collect",
+      "t": "n_scarf",
+      "need": 16
+     }
+    ],
+    "stones": [],
+    "cats": 0,
+    "gifts": 0,
+    "seed": 212022,
+    "stars": [
+     2200,
+     3900,
+     6100
+    ],
+    "theme": "sewing"
+   },
+   {
+    "n": 218,
+    "types": [
+     "n_patchcup",
+     "oct_16_4",
+     "oct_31_1",
+     "oct_36_2",
+     "oct_15_3"
+    ],
+    "moves": 49,
+    "goals": [
+     {
+      "kind": "cat",
+      "need": 4
+     },
+     {
+      "kind": "collect",
+      "t": "oct_31_1",
+      "need": 14
+     },
+     {
+      "kind": "collect",
+      "t": "oct_36_2",
+      "need": 12
+     }
+    ],
+    "stones": [],
+    "cats": 5,
+    "gifts": 0,
+    "seed": 212999,
+    "stars": [
+     2200,
+     3900,
+     6100
+    ],
+    "theme": "sewing"
+   },
+   {
+    "n": 219,
+    "types": [
+     "n_buttons",
+     "n_purplebow",
+     "oct_15_3",
+     "oct_27_3",
+     "oct_31_1"
+    ],
+    "moves": 49,
+    "goals": [
+     {
+      "kind": "gift",
+      "need": 3
+     },
+     {
+      "kind": "collect",
+      "t": "n_purplebow",
+      "need": 15
+     },
+     {
+      "kind": "collect",
+      "t": "oct_27_3",
+      "need": 13
+     }
+    ],
+    "stones": [],
+    "cats": 0,
+    "gifts": 3,
+    "seed": 213976,
+    "stars": [
+     2200,
+     3900,
+     6100
+    ],
+    "theme": "sewing"
+   },
+   {
+    "n": 220,
+    "types": [
+     "n_purplebow",
+     "oct_31_1",
+     "n_pincushion",
+     "oct_15_3",
+     "n_patchcup"
+    ],
+    "moves": 57,
+    "goals": [
+     {
+      "kind": "cat",
+      "need": 4
+     },
+     {
+      "kind": "gift",
+      "need": 3
+     },
+     {
+      "kind": "collect",
+      "t": "n_purplebow",
+      "need": 13
+     }
+    ],
+    "stones": [],
+    "cats": 5,
+    "gifts": 3,
+    "seed": 214953,
+    "stars": [
+     2600,
+     4600,
+     7100
+    ],
+    "theme": "sewing"
+   },
+   {
+    "n": 221,
+    "types": [
+     "oct_27_2",
+     "oct_36_1",
+     "n_patchheart",
+     "n_scissors",
+     "n_purplebow"
+    ],
+    "moves": 57,
+    "goals": [
+     {
+      "kind": "collect",
+      "t": "oct_27_2",
+      "need": 16
+     },
+     {
+      "kind": "collect",
+      "t": "oct_36_1",
+      "need": 14
+     },
+     {
+      "kind": "collect",
+      "t": "n_patchheart",
+      "need": 12
+     }
+    ],
+    "stones": [],
+    "cats": 0,
+    "gifts": 0,
+    "seed": 215930,
+    "stars": [
+     2600,
+     4600,
+     7100
+    ],
+    "theme": "sewing"
+   },
+   {
+    "n": 222,
+    "types": [
+     "n_purplebow",
+     "oct_16_3",
+     "n_patchcup",
+     "oct_22_1",
+     "oct_31_1"
+    ],
+    "moves": 57,
+    "goals": [
+     {
+      "kind": "cat",
+      "need": 4
+     },
+     {
+      "kind": "collect",
+      "t": "oct_16_3",
+      "need": 14
+     }
+    ],
+    "stones": [],
+    "cats": 5,
+    "gifts": 0,
+    "seed": 216907,
+    "stars": [
+     2600,
+     4600,
+     7100
+    ],
+    "theme": "sewing"
+   },
+   {
+    "n": 223,
+    "types": [
+     "oct_25_1",
+     "n_knitbow",
+     "oct_22_1",
+     "oct_16_3",
+     "n_scarf"
+    ],
+    "moves": 49,
+    "goals": [
+     {
+      "kind": "gift",
+      "need": 3
+     },
+     {
+      "kind": "collect",
+      "t": "oct_25_1",
+      "need": 14
+     }
+    ],
+    "stones": [],
+    "cats": 0,
+    "gifts": 3,
+    "seed": 217884,
+    "stars": [
+     2200,
+     3900,
+     6100
+    ],
+    "theme": "sewing"
+   },
+   {
+    "n": 224,
+    "types": [
+     "n_scissors",
+     "oct_16_3",
+     "n_scarf",
+     "n_knitbow",
+     "oct_31_1"
+    ],
+    "moves": 57,
+    "goals": [
+     {
+      "kind": "gift",
+      "need": 3
+     },
+     {
+      "kind": "cat",
+      "need": 4
+     }
+    ],
+    "stones": [],
+    "cats": 5,
+    "gifts": 3,
+    "seed": 218861,
+    "stars": [
+     2600,
+     4600,
+     7100
+    ],
+    "theme": "sewing"
+   },
+   {
+    "n": 225,
+    "types": [
+     "oct_31_1",
+     "n_buttons",
+     "n_scarf",
+     "oct_39_3",
+     "oct_16_4"
+    ],
+    "moves": 57,
+    "goals": [
+     {
+      "kind": "collect",
+      "t": "oct_31_1",
+      "need": 18
+     },
+     {
+      "kind": "collect",
+      "t": "n_buttons",
+      "need": 16
+     }
+    ],
+    "stones": [],
+    "cats": 0,
+    "gifts": 0,
+    "seed": 219838,
+    "stars": [
+     2600,
+     4600,
+     7100
+    ],
+    "theme": "sewing"
+   },
+   {
+    "n": 226,
+    "types": [
+     "n_knitbow",
+     "oct_16_4",
+     "oct_36_2",
+     "n_purplebow",
+     "n_buttons"
+    ],
+    "moves": 57,
+    "goals": [
+     {
+      "kind": "cat",
+      "need": 4
+     },
+     {
+      "kind": "collect",
+      "t": "oct_36_2",
+      "need": 14
+     },
+     {
+      "kind": "collect",
+      "t": "n_purplebow",
+      "need": 12
+     }
+    ],
+    "stones": [],
+    "cats": 5,
+    "gifts": 0,
+    "seed": 220815,
+    "stars": [
+     2600,
+     4600,
+     7100
+    ],
+    "theme": "sewing"
+   },
+   {
+    "n": 227,
+    "types": [
+     "oct_16_3",
+     "oct_22_1",
+     "n_scarf",
+     "n_knitbow",
+     "oct_31_1"
+    ],
+    "moves": 47,
+    "goals": [
+     {
+      "kind": "gift",
+      "need": 3
+     },
+     {
+      "kind": "collect",
+      "t": "oct_22_1",
+      "need": 15
+     },
+     {
+      "kind": "collect",
+      "t": "n_knitbow",
+      "need": 13
+     }
+    ],
+    "stones": [],
+    "cats": 0,
+    "gifts": 3,
+    "seed": 221792,
+    "stars": [
+     2100,
+     3800,
+     5900
+    ],
+    "theme": "sewing"
+   },
+   {
+    "n": 228,
+    "types": [
+     "n_scarf",
+     "n_patchheart",
+     "oct_36_1",
+     "oct_16_3",
+     "oct_31_1"
+    ],
+    "moves": 57,
+    "goals": [
+     {
+      "kind": "cat",
+      "need": 4
+     },
+     {
+      "kind": "gift",
+      "need": 3
+     },
+     {
+      "kind": "collect",
+      "t": "n_scarf",
+      "need": 13
+     }
+    ],
+    "stones": [],
+    "cats": 5,
+    "gifts": 3,
+    "seed": 222769,
+    "stars": [
+     2600,
+     4600,
+     7100
+    ],
+    "theme": "sewing"
+   },
+   {
+    "n": 229,
+    "types": [
+     "oct_11_2",
+     "oct_34_3",
+     "n_postcard",
+     "oct_18_4",
+     "oct_26_4"
+    ],
+    "moves": 57,
+    "goals": [
+     {
+      "kind": "collect",
+      "t": "oct_11_2",
+      "need": 16
+     },
+     {
+      "kind": "collect",
+      "t": "oct_34_3",
+      "need": 14
+     },
+     {
+      "kind": "collect",
+      "t": "n_postcard",
+      "need": 12
+     }
+    ],
+    "stones": [],
+    "cats": 0,
+    "gifts": 0,
+    "seed": 223746,
+    "stars": [
+     2600,
+     4600,
+     7100
+    ],
+    "theme": "keepsakes"
+   },
+   {
+    "n": 230,
+    "types": [
+     "oct_35_4",
+     "oct_34_1",
+     "oct_20_2",
+     "n_umbrella",
+     "n_bookmark"
+    ],
+    "moves": 57,
+    "goals": [
+     {
+      "kind": "cat",
+      "need": 4
+     },
+     {
+      "kind": "collect",
+      "t": "oct_34_1",
+      "need": 14
+     }
+    ],
+    "stones": [],
+    "cats": 5,
+    "gifts": 0,
+    "seed": 224723,
+    "stars": [
+     2600,
+     4600,
+     7100
+    ],
+    "theme": "keepsakes"
+   },
+   {
+    "n": 231,
+    "types": [
+     "oct_35_4",
+     "n_sewbag",
+     "oct_31_2",
+     "oct_24_2",
+     "oct_31_3"
+    ],
+    "moves": 49,
+    "goals": [
+     {
+      "kind": "gift",
+      "need": 3
+     },
+     {
+      "kind": "collect",
+      "t": "oct_35_4",
+      "need": 14
+     }
+    ],
+    "stones": [],
+    "cats": 0,
+    "gifts": 3,
+    "seed": 225700,
+    "stars": [
+     2200,
+     3900,
+     6100
+    ],
+    "theme": "keepsakes"
+   },
+   {
+    "n": 232,
+    "types": [
+     "oct_18_4",
+     "n_bookmark",
+     "n_umbrella",
+     "oct_35_4",
+     "oct_34_1"
+    ],
+    "moves": 57,
+    "goals": [
+     {
+      "kind": "gift",
+      "need": 3
+     },
+     {
+      "kind": "cat",
+      "need": 4
+     }
+    ],
+    "stones": [],
+    "cats": 5,
+    "gifts": 3,
+    "seed": 226677,
+    "stars": [
+     2600,
+     4600,
+     7100
+    ],
+    "theme": "keepsakes"
+   },
+   {
+    "n": 233,
+    "types": [
+     "oct_20_2",
+     "oct_35_4",
+     "oct_33_2",
+     "oct_33_3",
+     "n_musicbox"
+    ],
+    "moves": 57,
+    "goals": [
+     {
+      "kind": "collect",
+      "t": "oct_20_2",
+      "need": 18
+     },
+     {
+      "kind": "collect",
+      "t": "oct_35_4",
+      "need": 16
+     }
+    ],
+    "stones": [],
+    "cats": 0,
+    "gifts": 0,
+    "seed": 227654,
+    "stars": [
+     2600,
+     4600,
+     7100
+    ],
+    "theme": "keepsakes"
+   },
+   {
+    "n": 234,
+    "types": [
+     "oct_29_3",
+     "n_bookmark",
+     "oct_34_3",
+     "oct_11_2",
+     "oct_18_4"
+    ],
+    "moves": 57,
+    "goals": [
+     {
+      "kind": "cat",
+      "need": 4
+     },
+     {
+      "kind": "collect",
+      "t": "oct_34_3",
+      "need": 14
+     },
+     {
+      "kind": "collect",
+      "t": "oct_11_2",
+      "need": 12
+     }
+    ],
+    "stones": [],
+    "cats": 5,
+    "gifts": 0,
+    "seed": 228631,
+    "stars": [
+     2600,
+     4600,
+     7100
+    ],
+    "theme": "keepsakes"
+   },
+   {
+    "n": 235,
+    "types": [
+     "oct_35_1",
+     "n_umbrella",
+     "oct_29_1",
+     "oct_34_2",
+     "oct_33_3"
+    ],
+    "moves": 47,
+    "goals": [
+     {
+      "kind": "gift",
+      "need": 3
+     },
+     {
+      "kind": "collect",
+      "t": "n_umbrella",
+      "need": 15
+     },
+     {
+      "kind": "collect",
+      "t": "oct_34_2",
+      "need": 13
+     }
+    ],
+    "stones": [],
+    "cats": 0,
+    "gifts": 3,
+    "seed": 229608,
+    "stars": [
+     2100,
+     3800,
+     5900
+    ],
+    "theme": "keepsakes"
+   },
+   {
+    "n": 236,
+    "types": [
+     "oct_12_3",
+     "n_locket",
+     "oct_35_4",
+     "oct_33_2",
+     "oct_31_3"
+    ],
+    "moves": 57,
+    "goals": [
+     {
+      "kind": "cat",
+      "need": 4
+     },
+     {
+      "kind": "gift",
+      "need": 3
+     },
+     {
+      "kind": "collect",
+      "t": "oct_12_3",
+      "need": 13
+     }
+    ],
+    "stones": [],
+    "cats": 5,
+    "gifts": 3,
+    "seed": 230585,
+    "stars": [
+     2600,
+     4600,
+     7100
+    ],
+    "theme": "keepsakes"
+   },
+   {
+    "n": 237,
+    "types": [
+     "n_bookmark",
+     "oct_33_2",
+     "oct_34_3",
+     "oct_34_1",
+     "oct_35_4"
+    ],
+    "moves": 57,
+    "goals": [
+     {
+      "kind": "collect",
+      "t": "n_bookmark",
+      "need": 16
+     },
+     {
+      "kind": "collect",
+      "t": "oct_33_2",
+      "need": 14
+     },
+     {
+      "kind": "collect",
+      "t": "oct_34_3",
+      "need": 12
+     }
+    ],
+    "stones": [],
+    "cats": 0,
+    "gifts": 0,
+    "seed": 231562,
+    "stars": [
+     2600,
+     4600,
+     7100
+    ],
+    "theme": "keepsakes"
+   },
+   {
+    "n": 238,
+    "types": [
+     "oct_34_1",
+     "n_bookmark",
+     "oct_29_3",
+     "n_postcard",
+     "oct_35_4"
+    ],
+    "moves": 57,
+    "goals": [
+     {
+      "kind": "cat",
+      "need": 4
+     },
+     {
+      "kind": "collect",
+      "t": "n_bookmark",
+      "need": 14
+     }
+    ],
+    "stones": [],
+    "cats": 5,
+    "gifts": 0,
+    "seed": 232539,
+    "stars": [
+     2600,
+     4600,
+     7100
+    ],
+    "theme": "keepsakes"
+   },
+   {
+    "n": 239,
+    "types": [
+     "oct_34_3",
+     "oct_18_4",
+     "oct_33_2",
+     "n_sewbag",
+     "oct_26_4"
+    ],
+    "moves": 49,
+    "goals": [
+     {
+      "kind": "gift",
+      "need": 3
+     },
+     {
+      "kind": "collect",
+      "t": "oct_34_3",
+      "need": 14
+     }
+    ],
+    "stones": [],
+    "cats": 0,
+    "gifts": 3,
+    "seed": 233516,
+    "stars": [
+     2200,
+     3900,
+     6100
+    ],
+    "theme": "keepsakes"
+   },
+   {
+    "n": 240,
+    "types": [
+     "oct_29_3",
+     "oct_13_2",
+     "n_postcard",
+     "oct_26_4",
+     "n_umbrella"
+    ],
+    "moves": 49,
+    "goals": [
+     {
+      "kind": "gift",
+      "need": 3
+     },
+     {
+      "kind": "cat",
+      "need": 4
+     }
+    ],
+    "stones": [],
+    "cats": 5,
+    "gifts": 3,
+    "seed": 234493,
+    "stars": [
+     2200,
+     3900,
+     6100
+    ],
+    "theme": "keepsakes"
+   },
+   {
+    "n": 241,
+    "types": [
+     "n_chocolate",
+     "n_meringue",
+     "n_swirlcandy",
+     "n_rosecake",
+     "n_madeleine"
+    ],
+    "moves": 49,
+    "goals": [
+     {
+      "kind": "collect",
+      "t": "n_chocolate",
+      "need": 18
+     },
+     {
+      "kind": "collect",
+      "t": "n_meringue",
+      "need": 16
+     }
+    ],
+    "stones": [],
+    "cats": 0,
+    "gifts": 0,
+    "seed": 235470,
+    "stars": [
+     2200,
+     3900,
+     6100
+    ],
+    "theme": "sweets"
+   },
+   {
+    "n": 242,
+    "types": [
+     "n_swirlcandy",
+     "n_violet",
+     "n_blueberries",
+     "n_meringue",
+     "n_madeleine"
+    ],
+    "moves": 49,
+    "goals": [
+     {
+      "kind": "cat",
+      "need": 4
+     },
+     {
+      "kind": "collect",
+      "t": "n_blueberries",
+      "need": 14
+     },
+     {
+      "kind": "collect",
+      "t": "n_meringue",
+      "need": 12
+     }
+    ],
+    "stones": [],
+    "cats": 5,
+    "gifts": 0,
+    "seed": 236447,
+    "stars": [
+     2200,
+     3900,
+     6100
+    ],
+    "theme": "sweets"
+   },
+   {
+    "n": 243,
+    "types": [
+     "n_violetcandy",
+     "n_cloverbiscuit",
+     "n_meringue",
+     "n_macaron",
+     "n_blueberries"
+    ],
+    "moves": 47,
+    "goals": [
+     {
+      "kind": "gift",
+      "need": 3
+     },
+     {
+      "kind": "collect",
+      "t": "n_cloverbiscuit",
+      "need": 15
+     },
+     {
+      "kind": "collect",
+      "t": "n_macaron",
+      "need": 13
+     }
+    ],
+    "stones": [],
+    "cats": 0,
+    "gifts": 3,
+    "seed": 237424,
+    "stars": [
+     2100,
+     3800,
+     5900
+    ],
+    "theme": "sweets"
+   },
+   {
+    "n": 244,
+    "types": [
+     "n_swirlcandy",
+     "n_madeleine",
+     "oct_39_4",
+     "n_violet",
+     "n_blueberries"
+    ],
+    "moves": 49,
+    "goals": [
+     {
+      "kind": "cat",
+      "need": 4
+     },
+     {
+      "kind": "gift",
+      "need": 3
+     },
+     {
+      "kind": "collect",
+      "t": "n_swirlcandy",
+      "need": 13
+     }
+    ],
+    "stones": [],
+    "cats": 5,
+    "gifts": 3,
+    "seed": 238401,
+    "stars": [
+     2200,
+     3900,
+     6100
+    ],
+    "theme": "sweets"
+   },
+   {
+    "n": 245,
+    "types": [
+     "n_blueberries",
+     "oct_39_4",
+     "n_madeleine",
+     "n_violet",
+     "n_chocstrawberry"
+    ],
+    "moves": 49,
+    "goals": [
+     {
+      "kind": "collect",
+      "t": "n_blueberries",
+      "need": 16
+     },
+     {
+      "kind": "collect",
+      "t": "oct_39_4",
+      "need": 14
+     },
+     {
+      "kind": "collect",
+      "t": "n_madeleine",
+      "need": 12
+     }
+    ],
+    "stones": [],
+    "cats": 0,
+    "gifts": 0,
+    "seed": 239378,
+    "stars": [
+     2200,
+     3900,
+     6100
+    ],
+    "theme": "sweets"
+   },
+   {
+    "n": 246,
+    "types": [
+     "n_violet",
+     "n_blueberries",
+     "n_chocstrawberry",
+     "n_cloverbiscuit",
+     "oct_39_4"
+    ],
+    "moves": 49,
+    "goals": [
+     {
+      "kind": "cat",
+      "need": 4
+     },
+     {
+      "kind": "collect",
+      "t": "n_blueberries",
+      "need": 14
+     }
+    ],
+    "stones": [],
+    "cats": 5,
+    "gifts": 0,
+    "seed": 240355,
+    "stars": [
+     2200,
+     3900,
+     6100
+    ],
+    "theme": "sweets"
+   },
+   {
+    "n": 247,
+    "types": [
+     "n_violet",
+     "oct_39_4",
+     "n_raspberry",
+     "n_madeleine",
+     "n_blueberries"
+    ],
+    "moves": 49,
+    "goals": [
+     {
+      "kind": "gift",
+      "need": 3
+     },
+     {
+      "kind": "collect",
+      "t": "n_violet",
+      "need": 14
+     }
+    ],
+    "stones": [],
+    "cats": 0,
+    "gifts": 3,
+    "seed": 241332,
+    "stars": [
+     2200,
+     3900,
+     6100
+    ],
+    "theme": "sweets"
+   },
+   {
+    "n": 248,
+    "types": [
+     "n_blueberries",
+     "n_violet",
+     "n_cloverbiscuit",
+     "n_heartcookie2",
+     "n_jelly"
+    ],
+    "moves": 53,
+    "goals": [
+     {
+      "kind": "gift",
+      "need": 3
+     },
+     {
+      "kind": "cat",
+      "need": 4
+     }
+    ],
+    "stones": [],
+    "cats": 5,
+    "gifts": 3,
+    "seed": 242309,
+    "stars": [
+     2400,
+     4200,
+     6600
+    ],
+    "theme": "sweets"
+   },
+   {
+    "n": 249,
+    "types": [
+     "n_meringue",
+     "n_cloverbiscuit",
+     "n_violetcandy",
+     "n_blueberries",
+     "n_croissant"
+    ],
+    "moves": 53,
+    "goals": [
+     {
+      "kind": "collect",
+      "t": "n_meringue",
+      "need": 18
+     },
+     {
+      "kind": "collect",
+      "t": "n_cloverbiscuit",
+      "need": 16
+     }
+    ],
+    "stones": [],
+    "cats": 0,
+    "gifts": 0,
+    "seed": 243286,
+    "stars": [
+     2400,
+     4200,
+     6600
+    ],
+    "theme": "sweets"
+   },
+   {
+    "n": 250,
+    "types": [
+     "n_lemon",
+     "n_macaron",
+     "n_blueberries",
+     "n_chocolate",
+     "oct_39_4"
+    ],
+    "moves": 53,
+    "goals": [
+     {
+      "kind": "cat",
+      "need": 4
+     },
+     {
+      "kind": "collect",
+      "t": "n_blueberries",
+      "need": 14
+     },
+     {
+      "kind": "collect",
+      "t": "n_chocolate",
+      "need": 12
+     }
+    ],
+    "stones": [],
+    "cats": 5,
+    "gifts": 0,
+    "seed": 244263,
+    "stars": [
+     2400,
+     4200,
+     6600
+    ],
+    "theme": "sweets"
+   },
+   {
+    "n": 251,
+    "types": [
+     "n_blueberries",
+     "n_violet",
+     "n_meringue",
+     "n_swirlcandy",
+     "n_chocolate"
+    ],
+    "moves": 47,
+    "goals": [
+     {
+      "kind": "gift",
+      "need": 3
+     },
+     {
+      "kind": "collect",
+      "t": "n_violet",
+      "need": 15
+     },
+     {
+      "kind": "collect",
+      "t": "n_swirlcandy",
+      "need": 13
+     }
+    ],
+    "stones": [],
+    "cats": 0,
+    "gifts": 3,
+    "seed": 245240,
+    "stars": [
+     2100,
+     3800,
+     5900
+    ],
+    "theme": "sweets"
+   },
+   {
+    "n": 252,
+    "types": [
+     "n_macaron",
+     "n_lemon",
+     "oct_39_4",
+     "n_violet",
+     "n_blueberries"
+    ],
+    "moves": 53,
+    "goals": [
+     {
+      "kind": "cat",
+      "need": 4
+     },
+     {
+      "kind": "gift",
+      "need": 3
+     },
+     {
+      "kind": "collect",
+      "t": "n_macaron",
+      "need": 13
+     }
+    ],
+    "stones": [],
+    "cats": 5,
+    "gifts": 3,
+    "seed": 246217,
+    "stars": [
+     2400,
+     4200,
+     6600
+    ],
+    "theme": "sweets"
+   },
+   {
+    "n": 253,
+    "types": [
+     "oct_21_3",
+     "oct_17_1",
+     "n_lemoncake",
+     "n_cupcake",
+     "n_cinnamonroll"
+    ],
+    "moves": 53,
+    "goals": [
+     {
+      "kind": "collect",
+      "t": "oct_21_3",
+      "need": 16
+     },
+     {
+      "kind": "collect",
+      "t": "oct_17_1",
+      "need": 14
+     },
+     {
+      "kind": "collect",
+      "t": "n_lemoncake",
+      "need": 12
+     }
+    ],
+    "stones": [],
+    "cats": 0,
+    "gifts": 0,
+    "seed": 247194,
+    "stars": [
+     2400,
+     4200,
+     6600
+    ],
+    "theme": "bakery"
+   },
+   {
+    "n": 254,
+    "types": [
+     "n_rollingpin",
+     "n_scone",
+     "oct_36_4",
+     "oct_11_1",
+     "oct_21_3"
+    ],
+    "moves": 53,
+    "goals": [
+     {
+      "kind": "cat",
+      "need": 4
+     },
+     {
+      "kind": "collect",
+      "t": "n_scone",
+      "need": 14
+     }
+    ],
+    "stones": [],
+    "cats": 5,
+    "gifts": 0,
+    "seed": 248171,
+    "stars": [
+     2400,
+     4200,
+     6600
+    ],
+    "theme": "bakery"
+   },
+   {
+    "n": 255,
+    "types": [
+     "oct_26_3",
+     "oct_17_1",
+     "n_lemoncake",
+     "n_petitfour",
+     "oct_16_1"
+    ],
+    "moves": 43,
+    "goals": [
+     {
+      "kind": "gift",
+      "need": 3
+     },
+     {
+      "kind": "collect",
+      "t": "oct_26_3",
+      "need": 14
+     }
+    ],
+    "stones": [],
+    "cats": 0,
+    "gifts": 3,
+    "seed": 249148,
+    "stars": [
+     1900,
+     3400,
+     5400
+    ],
+    "theme": "bakery"
+   },
+   {
+    "n": 256,
+    "types": [
+     "n_rollingpin",
+     "n_lemoncake",
+     "oct_21_2",
+     "oct_13_1",
+     "oct_21_3"
+    ],
+    "moves": 53,
+    "goals": [
+     {
+      "kind": "gift",
+      "need": 3
+     },
+     {
+      "kind": "cat",
+      "need": 4
+     }
+    ],
+    "stones": [],
+    "cats": 5,
+    "gifts": 3,
+    "seed": 250125,
+    "stars": [
+     2400,
+     4200,
+     6600
+    ],
+    "theme": "bakery"
+   },
+   {
+    "n": 257,
+    "types": [
+     "oct_17_4",
+     "n_cinnamonroll",
+     "oct_36_4",
+     "n_cupcake",
+     "oct_13_1"
+    ],
+    "moves": 53,
+    "goals": [
+     {
+      "kind": "collect",
+      "t": "oct_17_4",
+      "need": 18
+     },
+     {
+      "kind": "collect",
+      "t": "n_cinnamonroll",
+      "need": 16
+     }
+    ],
+    "stones": [],
+    "cats": 0,
+    "gifts": 0,
+    "seed": 251102,
+    "stars": [
+     2400,
+     4200,
+     6600
+    ],
+    "theme": "bakery"
+   },
+   {
+    "n": 258,
+    "types": [
+     "n_cupcake",
+     "oct_16_1",
+     "oct_28_1",
+     "n_heartcookies",
+     "oct_26_3"
+    ],
+    "moves": 53,
+    "goals": [
+     {
+      "kind": "cat",
+      "need": 4
+     },
+     {
+      "kind": "collect",
+      "t": "oct_28_1",
+      "need": 14
+     },
+     {
+      "kind": "collect",
+      "t": "n_heartcookies",
+      "need": 12
+     }
+    ],
+    "stones": [],
+    "cats": 5,
+    "gifts": 0,
+    "seed": 252079,
+    "stars": [
+     2400,
+     4200,
+     6600
+    ],
+    "theme": "bakery"
+   },
+   {
+    "n": 259,
+    "types": [
+     "n_cupcake",
+     "oct_11_1",
+     "n_cinnamonroll",
+     "oct_35_2",
+     "oct_21_3"
+    ],
+    "moves": 47,
+    "goals": [
+     {
+      "kind": "gift",
+      "need": 3
+     },
+     {
+      "kind": "collect",
+      "t": "oct_11_1",
+      "need": 15
+     },
+     {
+      "kind": "collect",
+      "t": "oct_35_2",
+      "need": 13
+     }
+    ],
+    "stones": [],
+    "cats": 0,
+    "gifts": 3,
+    "seed": 253056,
+    "stars": [
+     2100,
+     3800,
+     5900
+    ],
+    "theme": "bakery"
+   },
+   {
+    "n": 260,
+    "types": [
+     "oct_21_3",
+     "oct_14_4",
+     "n_rollingpin",
+     "n_lemoncake",
+     "n_cinnamonroll"
+    ],
+    "moves": 49,
+    "goals": [
+     {
+      "kind": "cat",
+      "need": 4
+     },
+     {
+      "kind": "gift",
+      "need": 3
+     },
+     {
+      "kind": "collect",
+      "t": "oct_21_3",
+      "need": 13
+     }
+    ],
+    "stones": [],
+    "cats": 5,
+    "gifts": 3,
+    "seed": 254033,
+    "stars": [
+     2200,
+     3900,
+     6100
+    ],
+    "theme": "bakery"
+   },
+   {
+    "n": 261,
+    "types": [
+     "oct_17_1",
+     "oct_21_3",
+     "n_lemoncake",
+     "n_petitfour",
+     "oct_35_2"
+    ],
+    "moves": 49,
+    "goals": [
+     {
+      "kind": "collect",
+      "t": "oct_17_1",
+      "need": 16
+     },
+     {
+      "kind": "collect",
+      "t": "oct_21_3",
+      "need": 14
+     },
+     {
+      "kind": "collect",
+      "t": "n_lemoncake",
+      "need": 12
+     }
+    ],
+    "stones": [],
+    "cats": 0,
+    "gifts": 0,
+    "seed": 255010,
+    "stars": [
+     2200,
+     3900,
+     6100
+    ],
+    "theme": "bakery"
+   },
+   {
+    "n": 262,
+    "types": [
+     "oct_35_2",
+     "oct_11_1",
+     "n_cinnamonroll",
+     "n_lemoncake",
+     "n_cupcake"
+    ],
+    "moves": 49,
+    "goals": [
+     {
+      "kind": "cat",
+      "need": 4
+     },
+     {
+      "kind": "collect",
+      "t": "oct_11_1",
+      "need": 14
+     }
+    ],
+    "stones": [],
+    "cats": 5,
+    "gifts": 0,
+    "seed": 255987,
+    "stars": [
+     2200,
+     3900,
+     6100
+    ],
+    "theme": "bakery"
+   },
+   {
+    "n": 263,
+    "types": [
+     "n_cupcake",
+     "n_lemoncake",
+     "oct_21_1",
+     "oct_35_2",
+     "oct_20_1"
+    ],
+    "moves": 47,
+    "goals": [
+     {
+      "kind": "gift",
+      "need": 3
+     },
+     {
+      "kind": "collect",
+      "t": "n_cupcake",
+      "need": 14
+     }
+    ],
+    "stones": [],
+    "cats": 0,
+    "gifts": 3,
+    "seed": 256964,
+    "stars": [
+     2100,
+     3800,
+     5900
+    ],
+    "theme": "bakery"
+   },
+   {
+    "n": 264,
+    "types": [
+     "n_cinnamonroll",
+     "oct_11_1",
+     "n_cupcake",
+     "n_heartcookies",
+     "oct_21_3"
+    ],
+    "moves": 57,
+    "goals": [
+     {
+      "kind": "gift",
+      "need": 3
+     },
+     {
+      "kind": "cat",
+      "need": 4
+     }
+    ],
+    "stones": [],
+    "cats": 5,
+    "gifts": 3,
+    "seed": 257941,
+    "stars": [
+     2600,
+     4600,
+     7100
+    ],
+    "theme": "bakery"
+   },
+   {
+    "n": 265,
+    "types": [
+     "n_bluebird",
+     "n_pillow",
+     "oct_37_3",
+     "oct_11_3",
+     "n_lavsack"
+    ],
+    "moves": 57,
+    "goals": [
+     {
+      "kind": "collect",
+      "t": "n_bluebird",
+      "need": 18
+     },
+     {
+      "kind": "collect",
+      "t": "n_pillow",
+      "need": 16
+     }
+    ],
+    "stones": [],
+    "cats": 0,
+    "gifts": 0,
+    "seed": 258918,
+    "stars": [
+     2600,
+     4600,
+     7100
+    ],
+    "theme": "garden"
+   },
+   {
+    "n": 266,
+    "types": [
+     "oct_13_3",
+     "n_lavsack",
+     "oct_20_3",
+     "n_tulipbasket",
+     "oct_23_1"
+    ],
+    "moves": 57,
+    "goals": [
+     {
+      "kind": "cat",
+      "need": 4
+     },
+     {
+      "kind": "collect",
+      "t": "oct_20_3",
+      "need": 14
+     },
+     {
+      "kind": "collect",
+      "t": "n_tulipbasket",
+      "need": 12
+     }
+    ],
+    "stones": [],
+    "cats": 5,
+    "gifts": 0,
+    "seed": 259895,
+    "stars": [
+     2600,
+     4600,
+     7100
+    ],
+    "theme": "garden"
+   },
+   {
+    "n": 267,
+    "types": [
+     "oct_23_1",
+     "oct_11_3",
+     "oct_37_4",
+     "oct_20_3",
+     "n_seedpack"
+    ],
+    "moves": 49,
+    "goals": [
+     {
+      "kind": "gift",
+      "need": 3
+     },
+     {
+      "kind": "collect",
+      "t": "oct_11_3",
+      "need": 15
+     },
+     {
+      "kind": "collect",
+      "t": "oct_20_3",
+      "need": 13
+     }
+    ],
+    "stones": [],
+    "cats": 0,
+    "gifts": 3,
+    "seed": 260872,
+    "stars": [
+     2200,
+     3900,
+     6100
+    ],
+    "theme": "garden"
+   },
+   {
+    "n": 268,
+    "types": [
+     "oct_20_3",
+     "n_tulipbasket",
+     "oct_23_2",
+     "oct_39_2",
+     "n_bluebird"
+    ],
+    "moves": 53,
+    "goals": [
+     {
+      "kind": "cat",
+      "need": 4
+     },
+     {
+      "kind": "gift",
+      "need": 3
+     },
+     {
+      "kind": "collect",
+      "t": "oct_20_3",
+      "need": 13
+     }
+    ],
+    "stones": [],
+    "cats": 5,
+    "gifts": 3,
+    "seed": 261849,
+    "stars": [
+     2400,
+     4200,
+     6600
+    ],
+    "theme": "garden"
+   },
+   {
+    "n": 269,
+    "types": [
+     "oct_30_1",
+     "n_jamspoon",
+     "oct_23_3",
+     "n_bluebird",
+     "n_clover"
+    ],
+    "moves": 53,
+    "goals": [
+     {
+      "kind": "collect",
+      "t": "oct_30_1",
+      "need": 16
+     },
+     {
+      "kind": "collect",
+      "t": "n_jamspoon",
+      "need": 14
+     },
+     {
+      "kind": "collect",
+      "t": "oct_23_3",
+      "need": 12
+     }
+    ],
+    "stones": [],
+    "cats": 0,
+    "gifts": 0,
+    "seed": 262826,
+    "stars": [
+     2400,
+     4200,
+     6600
+    ],
+    "theme": "garden"
+   },
+   {
+    "n": 270,
+    "types": [
+     "n_herbjar",
+     "n_jamspoon",
+     "oct_39_2",
+     "n_apron",
+     "oct_23_1"
+    ],
+    "moves": 53,
+    "goals": [
+     {
+      "kind": "cat",
+      "need": 4
+     },
+     {
+      "kind": "collect",
+      "t": "n_jamspoon",
+      "need": 14
+     }
+    ],
+    "stones": [],
+    "cats": 5,
+    "gifts": 0,
+    "seed": 263803,
+    "stars": [
+     2400,
+     4200,
+     6600
+    ],
+    "theme": "garden"
+   },
+   {
+    "n": 271,
+    "types": [
+     "n_bluebird",
+     "n_tulipbasket",
+     "oct_39_2",
+     "oct_23_2",
+     "n_lavsack"
+    ],
+    "moves": 53,
+    "goals": [
+     {
+      "kind": "gift",
+      "need": 3
+     },
+     {
+      "kind": "collect",
+      "t": "n_bluebird",
+      "need": 14
+     }
+    ],
+    "stones": [],
+    "cats": 0,
+    "gifts": 3,
+    "seed": 264780,
+    "stars": [
+     2400,
+     4200,
+     6600
+    ],
+    "theme": "garden"
+   },
+   {
+    "n": 272,
+    "types": [
+     "oct_23_1",
+     "n_jamspoon",
+     "n_herbjar",
+     "n_lavsack",
+     "oct_13_3"
+    ],
+    "moves": 57,
+    "goals": [
+     {
+      "kind": "gift",
+      "need": 3
+     },
+     {
+      "kind": "cat",
+      "need": 4
+     }
+    ],
+    "stones": [],
+    "cats": 5,
+    "gifts": 3,
+    "seed": 265757,
+    "stars": [
+     2600,
+     4600,
+     7100
+    ],
+    "theme": "garden"
+   },
+   {
+    "n": 273,
+    "types": [
+     "n_herbjar",
+     "n_apron",
+     "oct_30_1",
+     "n_bluebird",
+     "oct_23_4"
+    ],
+    "moves": 57,
+    "goals": [
+     {
+      "kind": "collect",
+      "t": "n_herbjar",
+      "need": 18
+     },
+     {
+      "kind": "collect",
+      "t": "n_apron",
+      "need": 16
+     }
+    ],
+    "stones": [],
+    "cats": 0,
+    "gifts": 0,
+    "seed": 266734,
+    "stars": [
+     2600,
+     4600,
+     7100
+    ],
+    "theme": "garden"
+   },
+   {
+    "n": 274,
+    "types": [
+     "n_herbjar",
+     "n_lavsack",
+     "oct_15_2",
+     "oct_23_3",
+     "n_pillow"
+    ],
+    "moves": 57,
+    "goals": [
+     {
+      "kind": "cat",
+      "need": 4
+     },
+     {
+      "kind": "collect",
+      "t": "oct_15_2",
+      "need": 14
+     },
+     {
+      "kind": "collect",
+      "t": "oct_23_3",
+      "need": 12
+     }
+    ],
+    "stones": [],
+    "cats": 5,
+    "gifts": 0,
+    "seed": 267711,
+    "stars": [
+     2600,
+     4600,
+     7100
+    ],
+    "theme": "garden"
+   },
+   {
+    "n": 275,
+    "types": [
+     "n_seedpack",
+     "n_pillow",
+     "n_lavsack",
+     "oct_23_4",
+     "oct_20_3"
+    ],
+    "moves": 47,
+    "goals": [
+     {
+      "kind": "gift",
+      "need": 3
+     },
+     {
+      "kind": "collect",
+      "t": "n_pillow",
+      "need": 15
+     },
+     {
+      "kind": "collect",
+      "t": "oct_23_4",
+      "need": 13
+     }
+    ],
+    "stones": [],
+    "cats": 0,
+    "gifts": 3,
+    "seed": 268688,
+    "stars": [
+     2100,
+     3800,
+     5900
+    ],
+    "theme": "garden"
+   },
+   {
+    "n": 276,
+    "types": [
+     "oct_20_3",
+     "n_lavsack",
+     "oct_32_1",
+     "n_bluebird",
+     "n_pillow"
+    ],
+    "moves": 49,
+    "goals": [
+     {
+      "kind": "cat",
+      "need": 4
+     },
+     {
+      "kind": "gift",
+      "need": 3
+     },
+     {
+      "kind": "collect",
+      "t": "oct_20_3",
+      "need": 13
+     }
+    ],
+    "stones": [],
+    "cats": 5,
+    "gifts": 3,
+    "seed": 269665,
+    "stars": [
+     2200,
+     3900,
+     6100
+    ],
+    "theme": "garden"
+   },
+   {
+    "n": 277,
+    "types": [
+     "n_scarf",
+     "oct_16_3",
+     "oct_25_1",
+     "n_patchheart",
+     "oct_31_1"
+    ],
+    "moves": 49,
+    "goals": [
+     {
+      "kind": "collect",
+      "t": "n_scarf",
+      "need": 16
+     },
+     {
+      "kind": "collect",
+      "t": "oct_16_3",
+      "need": 14
+     },
+     {
+      "kind": "collect",
+      "t": "oct_25_1",
+      "need": 12
+     }
+    ],
+    "stones": [],
+    "cats": 0,
+    "gifts": 0,
+    "seed": 270642,
+    "stars": [
+     2200,
+     3900,
+     6100
+    ],
+    "theme": "sewing"
+   },
+   {
+    "n": 278,
+    "types": [
+     "oct_16_4",
+     "n_knitbow",
+     "oct_31_1",
+     "oct_15_3",
+     "n_purplebow"
+    ],
+    "moves": 49,
+    "goals": [
+     {
+      "kind": "cat",
+      "need": 4
+     },
+     {
+      "kind": "collect",
+      "t": "n_knitbow",
+      "need": 14
+     }
+    ],
+    "stones": [],
+    "cats": 5,
+    "gifts": 0,
+    "seed": 271619,
+    "stars": [
+     2200,
+     3900,
+     6100
+    ],
+    "theme": "sewing"
+   },
+   {
+    "n": 279,
+    "types": [
+     "n_buttons",
+     "n_purplebow",
+     "oct_15_3",
+     "oct_31_1",
+     "oct_16_3"
+    ],
+    "moves": 49,
+    "goals": [
+     {
+      "kind": "gift",
+      "need": 3
+     },
+     {
+      "kind": "collect",
+      "t": "n_buttons",
+      "need": 14
+     }
+    ],
+    "stones": [],
+    "cats": 0,
+    "gifts": 3,
+    "seed": 272596,
+    "stars": [
+     2200,
+     3900,
+     6100
+    ],
+    "theme": "sewing"
+   },
+   {
+    "n": 280,
+    "types": [
+     "n_scarf",
+     "n_scissors",
+     "oct_31_1",
+     "n_pincushion",
+     "oct_27_2"
+    ],
+    "moves": 57,
+    "goals": [
+     {
+      "kind": "gift",
+      "need": 3
+     },
+     {
+      "kind": "cat",
+      "need": 4
+     }
+    ],
+    "stones": [],
+    "cats": 5,
+    "gifts": 3,
+    "seed": 273573,
+    "stars": [
+     2600,
+     4600,
+     7100
+    ],
+    "theme": "sewing"
+   },
+   {
+    "n": 281,
+    "types": [
+     "oct_15_3",
+     "n_buttons",
+     "oct_31_1",
+     "oct_16_3",
+     "n_knitbow"
+    ],
+    "moves": 57,
+    "goals": [
+     {
+      "kind": "collect",
+      "t": "oct_15_3",
+      "need": 18
+     },
+     {
+      "kind": "collect",
+      "t": "n_buttons",
+      "need": 16
+     }
+    ],
+    "stones": [],
+    "cats": 0,
+    "gifts": 0,
+    "seed": 274550,
+    "stars": [
+     2600,
+     4600,
+     7100
+    ],
+    "theme": "sewing"
+   },
+   {
+    "n": 282,
+    "types": [
+     "n_pincushion",
+     "oct_27_2",
+     "n_purplebow",
+     "oct_36_2",
+     "oct_31_1"
+    ],
+    "moves": 57,
+    "goals": [
+     {
+      "kind": "cat",
+      "need": 4
+     },
+     {
+      "kind": "collect",
+      "t": "n_purplebow",
+      "need": 14
+     },
+     {
+      "kind": "collect",
+      "t": "oct_36_2",
+      "need": 12
+     }
+    ],
+    "stones": [],
+    "cats": 5,
+    "gifts": 0,
+    "seed": 275527,
+    "stars": [
+     2600,
+     4600,
+     7100
+    ],
+    "theme": "sewing"
+   },
+   {
+    "n": 283,
+    "types": [
+     "oct_31_1",
+     "n_pincushion",
+     "oct_22_3",
+     "n_patchcup",
+     "n_scarf"
+    ],
+    "moves": 49,
+    "goals": [
+     {
+      "kind": "gift",
+      "need": 3
+     },
+     {
+      "kind": "collect",
+      "t": "n_pincushion",
+      "need": 15
+     },
+     {
+      "kind": "collect",
+      "t": "n_patchcup",
+      "need": 13
+     }
+    ],
+    "stones": [],
+    "cats": 0,
+    "gifts": 3,
+    "seed": 276504,
+    "stars": [
+     2200,
+     3900,
+     6100
+    ],
+    "theme": "sewing"
+   },
+   {
+    "n": 284,
+    "types": [
+     "oct_39_3",
+     "oct_22_3",
+     "n_buttons",
+     "oct_31_1",
+     "n_scarf"
+    ],
+    "moves": 57,
+    "goals": [
+     {
+      "kind": "cat",
+      "need": 4
+     },
+     {
+      "kind": "gift",
+      "need": 3
+     },
+     {
+      "kind": "collect",
+      "t": "oct_39_3",
+      "need": 13
+     }
+    ],
+    "stones": [],
+    "cats": 5,
+    "gifts": 3,
+    "seed": 277481,
+    "stars": [
+     2600,
+     4600,
+     7100
+    ],
+    "theme": "sewing"
+   },
+   {
+    "n": 285,
+    "types": [
+     "oct_36_1",
+     "oct_31_1",
+     "n_buttons",
+     "oct_27_2",
+     "oct_25_1"
+    ],
+    "moves": 57,
+    "goals": [
+     {
+      "kind": "collect",
+      "t": "oct_36_1",
+      "need": 16
+     },
+     {
+      "kind": "collect",
+      "t": "oct_31_1",
+      "need": 14
+     },
+     {
+      "kind": "collect",
+      "t": "n_buttons",
+      "need": 12
+     }
+    ],
+    "stones": [],
+    "cats": 0,
+    "gifts": 0,
+    "seed": 278458,
+    "stars": [
+     2600,
+     4600,
+     7100
+    ],
+    "theme": "sewing"
+   },
+   {
+    "n": 286,
+    "types": [
+     "n_patchcup",
+     "n_purplebow",
+     "oct_31_1",
+     "oct_36_2",
+     "oct_36_1"
+    ],
+    "moves": 57,
+    "goals": [
+     {
+      "kind": "cat",
+      "need": 4
+     },
+     {
+      "kind": "collect",
+      "t": "n_purplebow",
+      "need": 14
+     }
+    ],
+    "stones": [],
+    "cats": 5,
+    "gifts": 0,
+    "seed": 279435,
+    "stars": [
+     2600,
+     4600,
+     7100
+    ],
+    "theme": "sewing"
+   },
+   {
+    "n": 287,
+    "types": [
+     "oct_39_3",
+     "oct_16_3",
+     "n_knitbow",
+     "oct_22_1",
+     "n_purplebow"
+    ],
+    "moves": 47,
+    "goals": [
+     {
+      "kind": "gift",
+      "need": 3
+     },
+     {
+      "kind": "collect",
+      "t": "oct_39_3",
+      "need": 14
+     }
+    ],
+    "stones": [],
+    "cats": 0,
+    "gifts": 3,
+    "seed": 280412,
+    "stars": [
+     2100,
+     3800,
+     5900
+    ],
+    "theme": "sewing"
+   },
+   {
+    "n": 288,
+    "types": [
+     "oct_31_1",
+     "n_scissors",
+     "oct_16_3",
+     "n_pincushion",
+     "oct_27_2"
+    ],
+    "moves": 57,
+    "goals": [
+     {
+      "kind": "gift",
+      "need": 3
+     },
+     {
+      "kind": "cat",
+      "need": 4
+     }
+    ],
+    "stones": [],
+    "cats": 5,
+    "gifts": 3,
+    "seed": 281389,
+    "stars": [
+     2600,
+     4600,
+     7100
+    ],
+    "theme": "sewing"
+   },
+   {
+    "n": 289,
+    "types": [
+     "oct_35_4",
+     "oct_39_1",
+     "oct_29_3",
+     "n_umbrella",
+     "oct_35_1"
+    ],
+    "moves": 57,
+    "goals": [
+     {
+      "kind": "collect",
+      "t": "oct_35_4",
+      "need": 18
+     },
+     {
+      "kind": "collect",
+      "t": "oct_39_1",
+      "need": 16
+     }
+    ],
+    "stones": [],
+    "cats": 0,
+    "gifts": 0,
+    "seed": 282366,
+    "stars": [
+     2600,
+     4600,
+     7100
+    ],
+    "theme": "keepsakes"
+   },
+   {
+    "n": 290,
+    "types": [
+     "oct_34_1",
+     "oct_34_3",
+     "oct_27_4",
+     "n_postcard",
+     "n_umbrella"
+    ],
+    "moves": 57,
+    "goals": [
+     {
+      "kind": "cat",
+      "need": 4
+     },
+     {
+      "kind": "collect",
+      "t": "oct_27_4",
+      "need": 14
+     },
+     {
+      "kind": "collect",
+      "t": "n_postcard",
+      "need": 12
+     }
+    ],
+    "stones": [],
+    "cats": 5,
+    "gifts": 0,
+    "seed": 283343,
+    "stars": [
+     2600,
+     4600,
+     7100
+    ],
+    "theme": "keepsakes"
+   },
+   {
+    "n": 291,
+    "types": [
+     "oct_12_3",
+     "oct_29_3",
+     "n_bookmark",
+     "oct_35_4",
+     "oct_34_1"
+    ],
+    "moves": 49,
+    "goals": [
+     {
+      "kind": "gift",
+      "need": 3
+     },
+     {
+      "kind": "collect",
+      "t": "oct_29_3",
+      "need": 15
+     },
+     {
+      "kind": "collect",
+      "t": "oct_35_4",
+      "need": 13
+     }
+    ],
+    "stones": [],
+    "cats": 0,
+    "gifts": 3,
+    "seed": 284320,
+    "stars": [
+     2200,
+     3900,
+     6100
+    ],
+    "theme": "keepsakes"
+   },
+   {
+    "n": 292,
+    "types": [
+     "oct_35_4",
+     "oct_14_1",
+     "oct_31_3",
+     "n_postcard",
+     "oct_29_3"
+    ],
+    "moves": 57,
+    "goals": [
+     {
+      "kind": "cat",
+      "need": 4
+     },
+     {
+      "kind": "gift",
+      "need": 3
+     },
+     {
+      "kind": "collect",
+      "t": "oct_35_4",
+      "need": 13
+     }
+    ],
+    "stones": [],
+    "cats": 5,
+    "gifts": 3,
+    "seed": 285297,
+    "stars": [
+     2600,
+     4600,
+     7100
+    ],
+    "theme": "keepsakes"
+   },
+   {
+    "n": 293,
+    "types": [
+     "oct_26_4",
+     "n_postcard",
+     "oct_14_1",
+     "n_umbrella",
+     "oct_29_2"
+    ],
+    "moves": 57,
+    "goals": [
+     {
+      "kind": "collect",
+      "t": "oct_26_4",
+      "need": 16
+     },
+     {
+      "kind": "collect",
+      "t": "n_postcard",
+      "need": 14
+     },
+     {
+      "kind": "collect",
+      "t": "oct_14_1",
+      "need": 12
+     }
+    ],
+    "stones": [],
+    "cats": 0,
+    "gifts": 0,
+    "seed": 286274,
+    "stars": [
+     2600,
+     4600,
+     7100
+    ],
+    "theme": "keepsakes"
+   },
+   {
+    "n": 294,
+    "types": [
+     "oct_12_3",
+     "n_postcard",
+     "n_locket",
+     "oct_26_4",
+     "n_bookmark"
+    ],
+    "moves": 57,
+    "goals": [
+     {
+      "kind": "cat",
+      "need": 4
+     },
+     {
+      "kind": "collect",
+      "t": "n_postcard",
+      "need": 14
+     }
+    ],
+    "stones": [],
+    "cats": 5,
+    "gifts": 0,
+    "seed": 287251,
+    "stars": [
+     2600,
+     4600,
+     7100
+    ],
+    "theme": "keepsakes"
+   },
+   {
+    "n": 295,
+    "types": [
+     "oct_12_1",
+     "oct_29_1",
+     "oct_26_4",
+     "n_bookmark",
+     "oct_33_3"
+    ],
+    "moves": 47,
+    "goals": [
+     {
+      "kind": "gift",
+      "need": 3
+     },
+     {
+      "kind": "collect",
+      "t": "oct_12_1",
+      "need": 14
+     }
+    ],
+    "stones": [],
+    "cats": 0,
+    "gifts": 3,
+    "seed": 288228,
+    "stars": [
+     2100,
+     3800,
+     5900
+    ],
+    "theme": "keepsakes"
+   },
+   {
+    "n": 296,
+    "types": [
+     "n_postcard",
+     "oct_37_2",
+     "oct_34_1",
+     "oct_29_3",
+     "n_umbrella"
+    ],
+    "moves": 57,
+    "goals": [
+     {
+      "kind": "gift",
+      "need": 3
+     },
+     {
+      "kind": "cat",
+      "need": 4
+     }
+    ],
+    "stones": [],
+    "cats": 5,
+    "gifts": 3,
+    "seed": 289205,
+    "stars": [
+     2600,
+     4600,
+     7100
+    ],
+    "theme": "keepsakes"
+   },
+   {
+    "n": 297,
+    "types": [
+     "oct_12_1",
+     "n_sewbag",
+     "n_postcard",
+     "oct_26_4",
+     "oct_25_4"
+    ],
+    "moves": 57,
+    "goals": [
+     {
+      "kind": "collect",
+      "t": "oct_12_1",
+      "need": 18
+     },
+     {
+      "kind": "collect",
+      "t": "n_sewbag",
+      "need": 16
+     }
+    ],
+    "stones": [],
+    "cats": 0,
+    "gifts": 0,
+    "seed": 290182,
+    "stars": [
+     2600,
+     4600,
+     7100
+    ],
+    "theme": "keepsakes"
+   },
+   {
+    "n": 298,
+    "types": [
+     "oct_27_4",
+     "n_umbrella",
+     "oct_34_1",
+     "oct_20_2",
+     "n_postcard"
+    ],
+    "moves": 57,
+    "goals": [
+     {
+      "kind": "cat",
+      "need": 4
+     },
+     {
+      "kind": "collect",
+      "t": "oct_34_1",
+      "need": 14
+     },
+     {
+      "kind": "collect",
+      "t": "oct_20_2",
+      "need": 12
+     }
+    ],
+    "stones": [],
+    "cats": 5,
+    "gifts": 0,
+    "seed": 291159,
+    "stars": [
+     2600,
+     4600,
+     7100
+    ],
+    "theme": "keepsakes"
+   },
+   {
+    "n": 299,
+    "types": [
+     "n_locket",
+     "n_bookmark",
+     "oct_25_4",
+     "oct_34_1",
+     "oct_35_4"
+    ],
+    "moves": 49,
+    "goals": [
+     {
+      "kind": "gift",
+      "need": 3
+     },
+     {
+      "kind": "collect",
+      "t": "n_bookmark",
+      "need": 15
+     },
+     {
+      "kind": "collect",
+      "t": "oct_34_1",
+      "need": 13
+     }
+    ],
+    "stones": [],
+    "cats": 0,
+    "gifts": 3,
+    "seed": 292136,
+    "stars": [
+     2200,
+     3900,
+     6100
+    ],
+    "theme": "keepsakes"
+   },
+   {
+    "n": 300,
+    "types": [
+     "oct_35_4",
+     "oct_31_2",
+     "oct_25_3",
+     "oct_34_1",
+     "n_sewbag"
+    ],
+    "moves": 49,
+    "goals": [
+     {
+      "kind": "cat",
+      "need": 4
+     },
+     {
+      "kind": "gift",
+      "need": 3
+     },
+     {
+      "kind": "collect",
+      "t": "oct_35_4",
+      "need": 13
+     }
+    ],
+    "stones": [],
+    "cats": 5,
+    "gifts": 3,
+    "seed": 293113,
+    "stars": [
+     2200,
+     3900,
+     6100
+    ],
+    "theme": "keepsakes"
    }
   ]
  }
