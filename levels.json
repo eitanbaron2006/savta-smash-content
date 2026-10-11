@@ -1,6 +1,6 @@
 {
  "schema": 1,
- "version": 14,
+ "version": 15,
  "game": "savta-smash",
  "levels": {
   "normal": [
@@ -10035,7 +10035,7 @@
      "n_scarf",
      "n_knitbow"
     ],
-    "moves": 44,
+    "moves": 48,
     "goals": [
      {
       "kind": "collect",
@@ -10051,6 +10051,10 @@
       "kind": "collect",
       "t": "oct_25_1",
       "need": 15
+     },
+     {
+      "kind": "jelly",
+      "need": 0
      }
     ],
     "stones": [],
@@ -10062,7 +10066,12 @@
      3500,
      5500
     ],
-    "theme": "sewing"
+    "theme": "sewing",
+    "kind": "simon",
+    "mini": {
+     "length": 6,
+     "skip": 60
+    }
    },
    {
     "n": 286,
@@ -10074,7 +10083,7 @@
      "n_pincushion",
      "oct_36_2"
     ],
-    "moves": 44,
+    "moves": 48,
     "goals": [
      {
       "kind": "cat",
@@ -10084,6 +10093,10 @@
       "kind": "collect",
       "t": "oct_39_3",
       "need": 18
+     },
+     {
+      "kind": "padlock",
+      "need": 0
      }
     ],
     "stones": [],
@@ -10095,7 +10108,15 @@
      3500,
      5500
     ],
-    "theme": "sewing"
+    "theme": "sewing",
+    "obstacles": [
+     {
+      "k": "padlock",
+      "n": 1,
+      "count": 3
+     }
+    ],
+    "time": 75
    },
    {
     "n": 287,
@@ -10160,7 +10181,13 @@
      3500,
      5500
     ],
-    "theme": "sewing"
+    "theme": "sewing",
+    "holes": [
+     0,
+     6,
+     42,
+     48
+    ]
    },
    {
     "n": 289,
@@ -10172,7 +10199,7 @@
      "oct_35_1",
      "oct_34_2"
     ],
-    "moves": 44,
+    "moves": 46,
     "goals": [
      {
       "kind": "collect",
@@ -10183,6 +10210,10 @@
       "kind": "collect",
       "t": "oct_39_1",
       "need": 20
+     },
+     {
+      "kind": "bomb",
+      "need": 0
      }
     ],
     "stones": [],
@@ -10194,7 +10225,15 @@
      3500,
      5500
     ],
-    "theme": "keepsakes"
+    "theme": "keepsakes",
+    "obstacles": [
+     {
+      "k": "bomb",
+      "n": 6,
+      "count": 1,
+      "p": 3
+     }
+    ]
    },
    {
     "n": 290,
@@ -10202,9 +10241,7 @@
      "oct_19_3",
      "oct_35_4",
      "n_bookmark",
-     "oct_33_2",
-     "oct_34_1",
-     "n_locket"
+     "oct_33_2"
     ],
     "moves": 44,
     "goals": [
@@ -10244,7 +10281,7 @@
      "n_musicbox",
      "oct_35_1"
     ],
-    "moves": 38,
+    "moves": 41,
     "goals": [
      {
       "kind": "gift",
@@ -10259,6 +10296,10 @@
       "kind": "collect",
       "t": "oct_35_4",
       "need": 16
+     },
+     {
+      "kind": "stain",
+      "need": 0
      }
     ],
     "stones": [],
@@ -10270,7 +10311,13 @@
      3000,
      4800
     ],
-    "theme": "keepsakes"
+    "theme": "keepsakes",
+    "obstacles": [
+     {
+      "k": "stain",
+      "count": 2
+     }
+    ]
    },
    {
     "n": 292,
@@ -10282,7 +10329,7 @@
      "n_postcard",
      "oct_26_4"
     ],
-    "moves": 44,
+    "moves": 48,
     "goals": [
      {
       "kind": "cat",
@@ -10296,6 +10343,10 @@
       "kind": "collect",
       "t": "n_locket",
       "need": 16
+     },
+     {
+      "kind": "jelly",
+      "need": 0
      }
     ],
     "stones": [],
@@ -10307,7 +10358,14 @@
      3500,
      5500
     ],
-    "theme": "keepsakes"
+    "theme": "keepsakes",
+    "obstacles": [
+     {
+      "k": "jelly",
+      "n": 2,
+      "count": 6
+     }
+    ]
    },
    {
     "n": 293,
@@ -10319,7 +10377,7 @@
      "n_musicbox",
      "oct_34_2"
     ],
-    "moves": 44,
+    "moves": 47,
     "goals": [
      {
       "kind": "collect",
@@ -10335,10 +10393,14 @@
       "kind": "collect",
       "t": "oct_33_3",
       "need": 15
+     },
+     {
+      "kind": "score",
+      "need": 3000
      }
     ],
     "stones": [],
-    "cats": 0,
+    "cats": 2,
     "gifts": 0,
     "seed": 286274,
     "stars": [
@@ -10346,7 +10408,14 @@
      3500,
      5500
     ],
-    "theme": "keepsakes"
+    "theme": "keepsakes",
+    "obstacles": [
+     {
+      "k": "chain",
+      "n": 2,
+      "count": 2
+     }
+    ]
    },
    {
     "n": 294,
@@ -10391,7 +10460,7 @@
      "n_umbrella",
      "n_postcard"
     ],
-    "moves": 36,
+    "moves": 40,
     "goals": [
      {
       "kind": "gift",
@@ -10401,6 +10470,10 @@
       "kind": "collect",
       "t": "oct_12_4",
       "need": 18
+     },
+     {
+      "kind": "padlock",
+      "need": 0
      }
     ],
     "stones": [],
@@ -10412,7 +10485,14 @@
      2900,
      4500
     ],
-    "theme": "keepsakes"
+    "theme": "keepsakes",
+    "obstacles": [
+     {
+      "k": "padlock",
+      "n": 1,
+      "count": 3
+     }
+    ]
    },
    {
     "n": 296,
@@ -10444,7 +10524,18 @@
      3500,
      5500
     ],
-    "theme": "keepsakes"
+    "theme": "keepsakes",
+    "holes": [
+     16,
+     17,
+     18,
+     23,
+     24,
+     25,
+     30,
+     31,
+     32
+    ]
    },
    {
     "n": 297,
@@ -10516,7 +10607,8 @@
      3500,
      5500
     ],
-    "theme": "keepsakes"
+    "theme": "keepsakes",
+    "time": 75
    },
    {
     "n": 299,
@@ -10528,7 +10620,7 @@
      "oct_26_4",
      "oct_13_2"
     ],
-    "moves": 38,
+    "moves": 42,
     "goals": [
      {
       "kind": "gift",
@@ -10543,6 +10635,10 @@
       "kind": "collect",
       "t": "oct_34_1",
       "need": 16
+     },
+     {
+      "kind": "jelly",
+      "need": 0
      }
     ],
     "stones": [],
@@ -10554,7 +10650,14 @@
      3000,
      4800
     ],
-    "theme": "keepsakes"
+    "theme": "keepsakes",
+    "obstacles": [
+     {
+      "k": "jelly",
+      "n": 2,
+      "count": 6
+     }
+    ]
    },
    {
     "n": 300,
@@ -10562,9 +10665,7 @@
      "oct_35_4",
      "r_023",
      "oct_25_3",
-     "r_069",
-     "r_093",
-     "oct_29_3"
+     "r_069"
     ],
     "moves": 38,
     "goals": [
@@ -10591,7 +10692,12 @@
      3000,
      4800
     ],
-    "theme": "keepsakes"
+    "theme": "keepsakes",
+    "kind": "hidden",
+    "mini": {
+     "count": 5,
+     "skip": 60
+    }
    },
    {
     "n": 301,
@@ -10642,7 +10748,7 @@
      "r_066",
      "r_056"
     ],
-    "moves": 38,
+    "moves": 40,
     "goals": [
      {
       "kind": "cat",
@@ -10652,6 +10758,14 @@
       "kind": "collect",
       "t": "n_chocolate",
       "need": 18
+     },
+     {
+      "kind": "bomb",
+      "need": 0
+     },
+     {
+      "kind": "score",
+      "need": 3000
      }
     ],
     "stones": [],
@@ -10663,7 +10777,15 @@
      3000,
      4800
     ],
-    "theme": "sweets"
+    "theme": "sweets",
+    "obstacles": [
+     {
+      "k": "bomb",
+      "n": 6,
+      "count": 1,
+      "p": 3
+     }
+    ]
    },
    {
     "n": 303,
@@ -10708,7 +10830,7 @@
      "n_macaron",
      "r_045"
     ],
-    "moves": 38,
+    "moves": 45,
     "goals": [
      {
       "kind": "gift",
@@ -10717,6 +10839,14 @@
      {
       "kind": "cat",
       "need": 5
+     },
+     {
+      "kind": "padlock",
+      "need": 0
+     },
+     {
+      "kind": "chain",
+      "need": 0
      }
     ],
     "stones": [],
@@ -10728,7 +10858,33 @@
      3000,
      4800
     ],
-    "theme": "sweets"
+    "theme": "sweets",
+    "obstacles": [
+     {
+      "k": "padlock",
+      "n": 1,
+      "count": 3
+     },
+     {
+      "k": "chain",
+      "n": 2,
+      "count": 2
+     }
+    ],
+    "holes": [
+     0,
+     1,
+     5,
+     6,
+     7,
+     13,
+     35,
+     41,
+     42,
+     43,
+     47,
+     48
+    ]
    },
    {
     "n": 305,
@@ -10774,7 +10930,7 @@
      "r_064",
      "n_orangeslice"
     ],
-    "moves": 38,
+    "moves": 42,
     "goals": [
      {
       "kind": "cat",
@@ -10789,6 +10945,10 @@
       "kind": "collect",
       "t": "r_007",
       "need": 15
+     },
+     {
+      "kind": "jelly",
+      "need": 0
      }
     ],
     "stones": [],
@@ -10800,7 +10960,14 @@
      3000,
      4800
     ],
-    "theme": "sweets"
+    "theme": "sweets",
+    "obstacles": [
+     {
+      "k": "jelly",
+      "n": 2,
+      "count": 6
+     }
+    ]
    },
    {
     "n": 307,
@@ -10850,7 +11017,7 @@
      "n_rosecake",
      "r_008"
     ],
-    "moves": 41,
+    "moves": 44,
     "goals": [
      {
       "kind": "cat",
@@ -10864,6 +11031,10 @@
       "kind": "collect",
       "t": "r_046",
       "need": 16
+     },
+     {
+      "kind": "stain",
+      "need": 0
      }
     ],
     "stones": [],
@@ -10875,7 +11046,13 @@
      3300,
      5100
     ],
-    "theme": "sweets"
+    "theme": "sweets",
+    "obstacles": [
+     {
+      "k": "stain",
+      "count": 2
+     }
+    ]
    },
    {
     "n": 309,
@@ -10922,9 +11099,7 @@
      "r_064",
      "r_050",
      "n_orangeslice",
-     "r_026",
-     "n_meringue",
-     "n_violet"
+     "r_026"
     ],
     "moves": 41,
     "goals": [
@@ -10947,7 +11122,8 @@
      3300,
      5100
     ],
-    "theme": "sweets"
+    "theme": "sweets",
+    "time": 75
    },
    {
     "n": 311,
@@ -10969,6 +11145,10 @@
       "kind": "collect",
       "t": "n_violetcandy",
       "need": 18
+     },
+     {
+      "kind": "score",
+      "need": 3000
      }
     ],
     "stones": [],
@@ -11012,7 +11192,31 @@
      3300,
      5100
     ],
-    "theme": "sweets"
+    "theme": "sweets",
+    "holes": [
+     0,
+     3,
+     6,
+     21,
+     27,
+     28,
+     29,
+     33,
+     34,
+     35,
+     36,
+     37,
+     39,
+     40,
+     41,
+     42,
+     43,
+     44,
+     45,
+     46,
+     47,
+     48
+    ]
    },
    {
     "n": 313,
@@ -11024,7 +11228,7 @@
      "r_089",
      "r_081"
     ],
-    "moves": 41,
+    "moves": 49,
     "goals": [
      {
       "kind": "collect",
@@ -11035,6 +11239,14 @@
       "kind": "collect",
       "t": "oct_36_4",
       "need": 20
+     },
+     {
+      "kind": "jelly",
+      "need": 0
+     },
+     {
+      "kind": "padlock",
+      "need": 0
      }
     ],
     "stones": [],
@@ -11046,7 +11258,19 @@
      3300,
      5100
     ],
-    "theme": "bakery"
+    "theme": "bakery",
+    "obstacles": [
+     {
+      "k": "jelly",
+      "n": 2,
+      "count": 6
+     },
+     {
+      "k": "padlock",
+      "n": 1,
+      "count": 3
+     }
+    ]
    },
    {
     "n": 314,
@@ -11096,7 +11320,7 @@
      "oct_21_3",
      "r_052"
     ],
-    "moves": 33,
+    "moves": 38,
     "goals": [
      {
       "kind": "gift",
@@ -11108,13 +11332,16 @@
       "need": 19
      },
      {
-      "kind": "collect",
-      "t": "r_127",
-      "need": 16
+      "kind": "chain",
+      "need": 0
+     },
+     {
+      "kind": "bomb",
+      "need": 0
      }
     ],
     "stones": [],
-    "cats": 0,
+    "cats": 2,
     "gifts": 3,
     "seed": 307768,
     "stars": [
@@ -11122,7 +11349,13 @@
      2600,
      4100
     ],
-    "theme": "bakery"
+    "theme": "bakery",
+    "kind": "words",
+    "mini": {
+     "size": 6,
+     "words": 4,
+     "skip": 60
+    }
    },
    {
     "n": 316,
@@ -11272,11 +11505,9 @@
      "r_067",
      "oct_36_4",
      "oct_21_2",
-     "r_044",
-     "oct_21_3",
-     "r_054"
+     "r_044"
     ],
-    "moves": 38,
+    "moves": 42,
     "goals": [
      {
       "kind": "gift",
@@ -11285,6 +11516,14 @@
      {
       "kind": "cat",
       "need": 5
+     },
+     {
+      "kind": "jelly",
+      "need": 0
+     },
+     {
+      "kind": "score",
+      "need": 3000
      }
     ],
     "stones": [],
@@ -11296,7 +11535,21 @@
      3000,
      4800
     ],
-    "theme": "bakery"
+    "theme": "bakery",
+    "obstacles": [
+     {
+      "k": "jelly",
+      "n": 2,
+      "count": 6
+     }
+    ],
+    "holes": [
+     10,
+     17,
+     24,
+     31,
+     38
+    ]
    },
    {
     "n": 321,
@@ -11342,7 +11595,7 @@
      "r_062",
      "n_heartcookies"
     ],
-    "moves": 38,
+    "moves": 42,
     "goals": [
      {
       "kind": "cat",
@@ -11357,6 +11610,10 @@
       "kind": "collect",
       "t": "r_059",
       "need": 15
+     },
+     {
+      "kind": "padlock",
+      "need": 0
      }
     ],
     "stones": [],
@@ -11368,7 +11625,15 @@
      3000,
      4800
     ],
-    "theme": "bakery"
+    "theme": "bakery",
+    "obstacles": [
+     {
+      "k": "padlock",
+      "n": 1,
+      "count": 3
+     }
+    ],
+    "time": 75
    },
    {
     "n": 323,
@@ -11455,7 +11720,7 @@
      "n_jamspoon",
      "oct_28_4"
     ],
-    "moves": 44,
+    "moves": 47,
     "goals": [
      {
       "kind": "collect",
@@ -11471,6 +11736,10 @@
       "kind": "collect",
       "t": "n_apron",
       "need": 15
+     },
+     {
+      "kind": "stain",
+      "need": 0
      }
     ],
     "stones": [],
@@ -11482,7 +11751,13 @@
      3500,
      5500
     ],
-    "theme": "garden"
+    "theme": "garden",
+    "obstacles": [
+     {
+      "k": "stain",
+      "count": 2
+     }
+    ]
    },
    {
     "n": 326,
@@ -11494,7 +11769,7 @@
      "n_jamspoon",
      "r_146"
     ],
-    "moves": 44,
+    "moves": 47,
     "goals": [
      {
       "kind": "cat",
@@ -11504,6 +11779,10 @@
       "kind": "collect",
       "t": "oct_23_2",
       "need": 18
+     },
+     {
+      "kind": "chain",
+      "need": 0
      }
     ],
     "stones": [],
@@ -11515,7 +11794,14 @@
      3500,
      5500
     ],
-    "theme": "garden"
+    "theme": "garden",
+    "obstacles": [
+     {
+      "k": "chain",
+      "n": 2,
+      "count": 2
+     }
+    ]
    },
    {
     "n": 327,
@@ -11527,7 +11813,7 @@
      "r_132",
      "oct_13_3"
     ],
-    "moves": 38,
+    "moves": 42,
     "goals": [
      {
       "kind": "gift",
@@ -11537,6 +11823,10 @@
       "kind": "collect",
       "t": "oct_11_3",
       "need": 18
+     },
+     {
+      "kind": "jelly",
+      "need": 0
      }
     ],
     "stones": [],
@@ -11548,7 +11838,14 @@
      3000,
      4800
     ],
-    "theme": "garden"
+    "theme": "garden",
+    "obstacles": [
+     {
+      "k": "jelly",
+      "n": 2,
+      "count": 6
+     }
+    ]
    },
    {
     "n": 328,
@@ -11560,7 +11857,7 @@
      "r_015",
      "oct_13_4"
     ],
-    "moves": 41,
+    "moves": 43,
     "goals": [
      {
       "kind": "gift",
@@ -11569,6 +11866,10 @@
      {
       "kind": "cat",
       "need": 5
+     },
+     {
+      "kind": "bomb",
+      "need": 0
      }
     ],
     "stones": [],
@@ -11580,7 +11881,33 @@
      3300,
      5100
     ],
-    "theme": "garden"
+    "theme": "garden",
+    "obstacles": [
+     {
+      "k": "bomb",
+      "n": 6,
+      "count": 1,
+      "p": 3
+     }
+    ],
+    "holes": [
+     0,
+     1,
+     5,
+     6,
+     7,
+     8,
+     12,
+     13,
+     35,
+     36,
+     40,
+     41,
+     42,
+     43,
+     47,
+     48
+    ]
    },
    {
     "n": 329,
@@ -11603,6 +11930,10 @@
       "kind": "collect",
       "t": "n_apron",
       "need": 20
+     },
+     {
+      "kind": "score",
+      "need": 3000
      }
     ],
     "stones": [],
@@ -11622,9 +11953,7 @@
      "r_084",
      "oct_37_3",
      "oct_15_2",
-     "n_apron",
-     "n_bluebird",
-     "r_010"
+     "n_apron"
     ],
     "moves": 41,
     "goals": [
@@ -11652,7 +11981,14 @@
      3300,
      5100
     ],
-    "theme": "garden"
+    "theme": "garden",
+    "kind": "link",
+    "mini": {
+     "rows": 5,
+     "cols": 5,
+     "kinds": 7,
+     "skip": 60
+    }
    },
    {
     "n": 331,
@@ -11664,7 +12000,7 @@
      "oct_18_2",
      "r_131"
     ],
-    "moves": 41,
+    "moves": 45,
     "goals": [
      {
       "kind": "gift",
@@ -11679,6 +12015,10 @@
       "kind": "collect",
       "t": "r_145",
       "need": 16
+     },
+     {
+      "kind": "padlock",
+      "need": 0
      }
     ],
     "stones": [],
@@ -11690,7 +12030,14 @@
      3300,
      5100
     ],
-    "theme": "garden"
+    "theme": "garden",
+    "obstacles": [
+     {
+      "k": "padlock",
+      "n": 1,
+      "count": 3
+     }
+    ]
    },
    {
     "n": 332,
@@ -11778,7 +12125,7 @@
      "r_101",
      "n_bluebird"
     ],
-    "moves": 44,
+    "moves": 48,
     "goals": [
      {
       "kind": "cat",
@@ -11788,6 +12135,10 @@
       "kind": "collect",
       "t": "r_011",
       "need": 18
+     },
+     {
+      "kind": "jelly",
+      "need": 0
      }
     ],
     "stones": [],
@@ -11799,7 +12150,15 @@
      3500,
      5500
     ],
-    "theme": "garden"
+    "theme": "garden",
+    "obstacles": [
+     {
+      "k": "jelly",
+      "n": 2,
+      "count": 6
+     }
+    ],
+    "time": 75
    },
    {
     "n": 335,
@@ -11864,7 +12223,25 @@
      3000,
      4800
     ],
-    "theme": "garden"
+    "theme": "garden",
+    "holes": [
+     7,
+     13,
+     14,
+     15,
+     19,
+     20,
+     21,
+     22,
+     26,
+     27,
+     28,
+     29,
+     33,
+     34,
+     35,
+     41
+    ]
    },
    {
     "n": 337,
@@ -11876,7 +12253,7 @@
      "oct_31_1",
      "r_103"
     ],
-    "moves": 38,
+    "moves": 41,
     "goals": [
      {
       "kind": "collect",
@@ -11887,10 +12264,14 @@
       "kind": "collect",
       "t": "oct_39_3",
       "need": 20
+     },
+     {
+      "kind": "chain",
+      "need": 0
      }
     ],
     "stones": [],
-    "cats": 0,
+    "cats": 2,
     "gifts": 0,
     "seed": 329262,
     "stars": [
@@ -11898,7 +12279,14 @@
      3000,
      4800
     ],
-    "theme": "sewing"
+    "theme": "sewing",
+    "obstacles": [
+     {
+      "k": "chain",
+      "n": 2,
+      "count": 2
+     }
+    ]
    },
    {
     "n": 338,
@@ -11925,6 +12313,10 @@
       "kind": "collect",
       "t": "r_018",
       "need": 15
+     },
+     {
+      "kind": "score",
+      "need": 3000
      }
     ],
     "stones": [],
@@ -11982,11 +12374,9 @@
      "oct_16_3",
      "oct_27_2",
      "r_019",
-     "n_scarf",
-     "oct_16_2",
-     "r_113"
+     "n_scarf"
     ],
-    "moves": 44,
+    "moves": 48,
     "goals": [
      {
       "kind": "cat",
@@ -12000,6 +12390,10 @@
       "kind": "collect",
       "t": "oct_16_3",
       "need": 16
+     },
+     {
+      "kind": "padlock",
+      "need": 0
      }
     ],
     "stones": [],
@@ -12011,7 +12405,14 @@
      3500,
      5500
     ],
-    "theme": "sewing"
+    "theme": "sewing",
+    "obstacles": [
+     {
+      "k": "padlock",
+      "n": 1,
+      "count": 3
+     }
+    ]
    },
    {
     "n": 341,
@@ -12023,7 +12424,7 @@
      "oct_39_3",
      "r_020"
     ],
-    "moves": 44,
+    "moves": 50,
     "goals": [
      {
       "kind": "collect",
@@ -12036,9 +12437,12 @@
       "need": 18
      },
      {
-      "kind": "collect",
-      "t": "r_097",
-      "need": 15
+      "kind": "jelly",
+      "need": 0
+     },
+     {
+      "kind": "bomb",
+      "need": 0
      }
     ],
     "stones": [],
@@ -12050,7 +12454,20 @@
      3500,
      5500
     ],
-    "theme": "sewing"
+    "theme": "sewing",
+    "obstacles": [
+     {
+      "k": "jelly",
+      "n": 2,
+      "count": 6
+     },
+     {
+      "k": "bomb",
+      "n": 6,
+      "count": 1,
+      "p": 3
+     }
+    ]
    },
    {
     "n": 342,
@@ -12062,7 +12479,7 @@
      "oct_39_3",
      "r_104"
     ],
-    "moves": 44,
+    "moves": 47,
     "goals": [
      {
       "kind": "cat",
@@ -12072,6 +12489,10 @@
       "kind": "collect",
       "t": "oct_36_2",
       "need": 18
+     },
+     {
+      "kind": "stain",
+      "need": 0
      }
     ],
     "stones": [],
@@ -12083,7 +12504,13 @@
      3500,
      5500
     ],
-    "theme": "sewing"
+    "theme": "sewing",
+    "obstacles": [
+     {
+      "k": "stain",
+      "count": 2
+     }
+    ]
    },
    {
     "n": 343,
@@ -12148,7 +12575,13 @@
      3500,
      5500
     ],
-    "theme": "sewing"
+    "theme": "sewing",
+    "holes": [
+     0,
+     6,
+     42,
+     48
+    ]
    },
    {
     "n": 345,
@@ -12182,7 +12615,14 @@
      3500,
      5500
     ],
-    "theme": "sewing"
+    "theme": "sewing",
+    "kind": "slide",
+    "mini": {
+     "size": 4,
+     "content": "letters",
+     "scramble": 44,
+     "skip": 60
+    }
    },
    {
     "n": 346,
@@ -12220,7 +12660,8 @@
      3500,
      5500
     ],
-    "theme": "sewing"
+    "theme": "sewing",
+    "time": 75
    },
    {
     "n": 347,
@@ -12247,6 +12688,10 @@
       "kind": "collect",
       "t": "r_098",
       "need": 16
+     },
+     {
+      "kind": "score",
+      "need": 3000
      }
     ],
     "stones": [],
@@ -12270,7 +12715,7 @@
      "n_purplebow",
      "oct_28_3"
     ],
-    "moves": 44,
+    "moves": 51,
     "goals": [
      {
       "kind": "cat",
@@ -12281,9 +12726,12 @@
       "need": 3
      },
      {
-      "kind": "collect",
-      "t": "r_019",
-      "need": 16
+      "kind": "jelly",
+      "need": 0
+     },
+     {
+      "kind": "chain",
+      "need": 0
      }
     ],
     "stones": [],
@@ -12295,7 +12743,19 @@
      3500,
      5500
     ],
-    "theme": "sewing"
+    "theme": "sewing",
+    "obstacles": [
+     {
+      "k": "jelly",
+      "n": 2,
+      "count": 6
+     },
+     {
+      "k": "chain",
+      "n": 2,
+      "count": 2
+     }
+    ]
    },
    {
     "n": 349,
@@ -12307,7 +12767,7 @@
      "r_124",
      "oct_34_1"
     ],
-    "moves": 44,
+    "moves": 48,
     "goals": [
      {
       "kind": "collect",
@@ -12323,6 +12783,10 @@
       "kind": "collect",
       "t": "oct_20_2",
       "need": 15
+     },
+     {
+      "kind": "padlock",
+      "need": 0
      }
     ],
     "stones": [],
@@ -12334,7 +12798,14 @@
      3500,
      5500
     ],
-    "theme": "keepsakes"
+    "theme": "keepsakes",
+    "obstacles": [
+     {
+      "k": "padlock",
+      "n": 1,
+      "count": 3
+     }
+    ]
    },
    {
     "n": 350,
@@ -12342,9 +12813,7 @@
      "oct_35_4",
      "r_039",
      "oct_12_3",
-     "r_076",
-     "r_070",
-     "n_umbrella"
+     "r_076"
     ],
     "moves": 44,
     "goals": [
@@ -12432,7 +12901,18 @@
      3500,
      5500
     ],
-    "theme": "keepsakes"
+    "theme": "keepsakes",
+    "holes": [
+     16,
+     17,
+     18,
+     23,
+     24,
+     25,
+     30,
+     31,
+     32
+    ]
    },
    {
     "n": 353,
@@ -12478,7 +12958,7 @@
      "oct_35_4",
      "n_bookmark"
     ],
-    "moves": 44,
+    "moves": 46,
     "goals": [
      {
       "kind": "cat",
@@ -12493,6 +12973,10 @@
       "kind": "collect",
       "t": "r_003",
       "need": 15
+     },
+     {
+      "kind": "bomb",
+      "need": 0
      }
     ],
     "stones": [],
@@ -12504,7 +12988,15 @@
      3500,
      5500
     ],
-    "theme": "keepsakes"
+    "theme": "keepsakes",
+    "obstacles": [
+     {
+      "k": "bomb",
+      "n": 6,
+      "count": 1,
+      "p": 3
+     }
+    ]
    },
    {
     "n": 355,
@@ -12516,7 +13008,7 @@
      "r_116",
      "oct_25_4"
     ],
-    "moves": 36,
+    "moves": 40,
     "goals": [
      {
       "kind": "gift",
@@ -12531,6 +13023,10 @@
       "kind": "collect",
       "t": "r_099",
       "need": 16
+     },
+     {
+      "kind": "jelly",
+      "need": 0
      }
     ],
     "stones": [],
@@ -12542,7 +13038,14 @@
      2900,
      4500
     ],
-    "theme": "keepsakes"
+    "theme": "keepsakes",
+    "obstacles": [
+     {
+      "k": "jelly",
+      "n": 2,
+      "count": 6
+     }
+    ]
    },
    {
     "n": 356,
@@ -12568,6 +13071,10 @@
       "kind": "collect",
       "t": "n_musicbox",
       "need": 16
+     },
+     {
+      "kind": "score",
+      "need": 3000
      }
     ],
     "stones": [],
@@ -12630,7 +13137,7 @@
      "n_bookmark",
      "r_122"
     ],
-    "moves": 44,
+    "moves": 48,
     "goals": [
      {
       "kind": "cat",
@@ -12640,6 +13147,10 @@
       "kind": "collect",
       "t": "n_locket",
       "need": 18
+     },
+     {
+      "kind": "padlock",
+      "need": 0
      }
     ],
     "stones": [],
@@ -12651,7 +13162,15 @@
      3500,
      5500
     ],
-    "theme": "keepsakes"
+    "theme": "keepsakes",
+    "obstacles": [
+     {
+      "k": "padlock",
+      "n": 1,
+      "count": 3
+     }
+    ],
+    "time": 75
    },
    {
     "n": 359,
@@ -12663,7 +13182,7 @@
      "oct_34_1",
      "r_071"
     ],
-    "moves": 38,
+    "moves": 44,
     "goals": [
      {
       "kind": "gift",
@@ -12673,10 +13192,18 @@
       "kind": "collect",
       "t": "r_035",
       "need": 18
+     },
+     {
+      "kind": "chain",
+      "need": 0
+     },
+     {
+      "kind": "stain",
+      "need": 0
      }
     ],
     "stones": [],
-    "cats": 0,
+    "cats": 2,
     "gifts": 3,
     "seed": 350756,
     "stars": [
@@ -12684,7 +13211,18 @@
      3000,
      4800
     ],
-    "theme": "keepsakes"
+    "theme": "keepsakes",
+    "obstacles": [
+     {
+      "k": "chain",
+      "n": 2,
+      "count": 2
+     },
+     {
+      "k": "stain",
+      "count": 2
+     }
+    ]
    },
    {
     "n": 360,
@@ -12692,9 +13230,7 @@
      "oct_17_3",
      "r_105",
      "oct_34_1",
-     "r_107",
-     "r_141",
-     "n_umbrella"
+     "r_107"
     ],
     "moves": 38,
     "goals": [
@@ -12716,7 +13252,12 @@
      3000,
      4800
     ],
-    "theme": "keepsakes"
+    "theme": "keepsakes",
+    "kind": "memory",
+    "mini": {
+     "pairs": 8,
+     "skip": 60
+    }
    },
    {
     "n": 361,
@@ -12762,7 +13303,7 @@
      "r_047",
      "r_025"
     ],
-    "moves": 38,
+    "moves": 42,
     "goals": [
      {
       "kind": "cat",
@@ -12777,6 +13318,10 @@
       "kind": "collect",
       "t": "n_madeleine",
       "need": 15
+     },
+     {
+      "kind": "jelly",
+      "need": 0
      }
     ],
     "stones": [],
@@ -12788,7 +13333,14 @@
      3000,
      4800
     ],
-    "theme": "sweets"
+    "theme": "sweets",
+    "obstacles": [
+     {
+      "k": "jelly",
+      "n": 2,
+      "count": 6
+     }
+    ]
    },
    {
     "n": 363,
@@ -12891,6 +13443,10 @@
       "kind": "collect",
       "t": "n_chocolate",
       "need": 15
+     },
+     {
+      "kind": "score",
+      "need": 3000
      }
     ],
     "stones": [],
@@ -12947,7 +13503,7 @@
      "r_024",
      "n_rosecake"
     ],
-    "moves": 38,
+    "moves": 44,
     "goals": [
      {
       "kind": "gift",
@@ -12957,6 +13513,14 @@
       "kind": "collect",
       "t": "n_raspberry",
       "need": 18
+     },
+     {
+      "kind": "padlock",
+      "need": 0
+     },
+     {
+      "kind": "bomb",
+      "need": 0
      }
     ],
     "stones": [],
@@ -12968,7 +13532,20 @@
      3000,
      4800
     ],
-    "theme": "sweets"
+    "theme": "sweets",
+    "obstacles": [
+     {
+      "k": "padlock",
+      "n": 1,
+      "count": 3
+     },
+     {
+      "k": "bomb",
+      "n": 6,
+      "count": 1,
+      "p": 3
+     }
+    ]
    },
    {
     "n": 368,
@@ -13000,7 +13577,31 @@
      3300,
      5100
     ],
-    "theme": "sweets"
+    "theme": "sweets",
+    "holes": [
+     0,
+     3,
+     6,
+     21,
+     27,
+     28,
+     29,
+     33,
+     34,
+     35,
+     36,
+     37,
+     39,
+     40,
+     41,
+     42,
+     43,
+     44,
+     45,
+     46,
+     47,
+     48
+    ]
    },
    {
     "n": 369,
@@ -13012,7 +13613,7 @@
      "n_blueberries",
      "r_042"
     ],
-    "moves": 41,
+    "moves": 45,
     "goals": [
      {
       "kind": "collect",
@@ -13023,6 +13624,10 @@
       "kind": "collect",
       "t": "n_swirlcandy",
       "need": 20
+     },
+     {
+      "kind": "jelly",
+      "need": 0
      }
     ],
     "stones": [],
@@ -13034,7 +13639,14 @@
      3300,
      5100
     ],
-    "theme": "sweets"
+    "theme": "sweets",
+    "obstacles": [
+     {
+      "k": "jelly",
+      "n": 2,
+      "count": 6
+     }
+    ]
    },
    {
     "n": 370,
@@ -13042,11 +13654,9 @@
      "r_006",
      "n_blueberries",
      "r_007",
-     "r_064",
-     "n_jelly",
-     "n_heartcookie2"
+     "r_064"
     ],
-    "moves": 41,
+    "moves": 44,
     "goals": [
      {
       "kind": "cat",
@@ -13061,6 +13671,10 @@
       "kind": "collect",
       "t": "r_064",
       "need": 15
+     },
+     {
+      "kind": "chain",
+      "need": 0
      }
     ],
     "stones": [],
@@ -13072,7 +13686,15 @@
      3300,
      5100
     ],
-    "theme": "sweets"
+    "theme": "sweets",
+    "obstacles": [
+     {
+      "k": "chain",
+      "n": 2,
+      "count": 2
+     }
+    ],
+    "time": 75
    },
    {
     "n": 371,
@@ -13208,6 +13830,10 @@
       "kind": "collect",
       "t": "oct_11_1",
       "need": 18
+     },
+     {
+      "kind": "score",
+      "need": 3000
      }
     ],
     "stones": [],
@@ -13252,7 +13878,13 @@
      2600,
      4100
     ],
-    "theme": "bakery"
+    "theme": "bakery",
+    "kind": "sort",
+    "mini": {
+     "colors": 4,
+     "capacity": 4,
+     "skip": 60
+    }
    },
    {
     "n": 376,
@@ -13264,7 +13896,7 @@
      "n_cupcake",
      "n_heartcookies"
     ],
-    "moves": 41,
+    "moves": 49,
     "goals": [
      {
       "kind": "gift",
@@ -13273,6 +13905,14 @@
      {
       "kind": "cat",
       "need": 5
+     },
+     {
+      "kind": "jelly",
+      "need": 0
+     },
+     {
+      "kind": "padlock",
+      "need": 0
      }
     ],
     "stones": [],
@@ -13284,7 +13924,26 @@
      3300,
      5100
     ],
-    "theme": "bakery"
+    "theme": "bakery",
+    "obstacles": [
+     {
+      "k": "jelly",
+      "n": 2,
+      "count": 6
+     },
+     {
+      "k": "padlock",
+      "n": 1,
+      "count": 3
+     }
+    ],
+    "holes": [
+     10,
+     17,
+     24,
+     31,
+     38
+    ]
    },
    {
     "n": 377,
@@ -13402,11 +14061,9 @@
      "r_053",
      "n_rollingpin",
      "n_lemoncake",
-     "r_001",
-     "oct_26_3",
-     "r_027"
+     "r_001"
     ],
-    "moves": 38,
+    "moves": 40,
     "goals": [
      {
       "kind": "cat",
@@ -13420,6 +14077,10 @@
       "kind": "collect",
       "t": "r_053",
       "need": 16
+     },
+     {
+      "kind": "bomb",
+      "need": 0
      }
     ],
     "stones": [],
@@ -13431,7 +14092,15 @@
      3000,
      4800
     ],
-    "theme": "bakery"
+    "theme": "bakery",
+    "obstacles": [
+     {
+      "k": "bomb",
+      "n": 6,
+      "count": 1,
+      "p": 3
+     }
+    ]
    },
    {
     "n": 381,
@@ -13443,7 +14112,7 @@
      "oct_16_1",
      "r_061"
     ],
-    "moves": 38,
+    "moves": 41,
     "goals": [
      {
       "kind": "collect",
@@ -13459,10 +14128,14 @@
       "kind": "collect",
       "t": "n_scone",
       "need": 15
+     },
+     {
+      "kind": "chain",
+      "need": 0
      }
     ],
     "stones": [],
-    "cats": 0,
+    "cats": 2,
     "gifts": 0,
     "seed": 372250,
     "stars": [
@@ -13470,7 +14143,14 @@
      3000,
      4800
     ],
-    "theme": "bakery"
+    "theme": "bakery",
+    "obstacles": [
+     {
+      "k": "chain",
+      "n": 2,
+      "count": 2
+     }
+    ]
    },
    {
     "n": 382,
@@ -13503,7 +14183,8 @@
      3000,
      4800
     ],
-    "theme": "bakery"
+    "theme": "bakery",
+    "time": 75
    },
    {
     "n": 383,
@@ -13515,7 +14196,7 @@
      "r_117",
      "oct_26_3"
     ],
-    "moves": 36,
+    "moves": 40,
     "goals": [
      {
       "kind": "gift",
@@ -13525,6 +14206,14 @@
       "kind": "collect",
       "t": "oct_16_1",
       "need": 18
+     },
+     {
+      "kind": "jelly",
+      "need": 0
+     },
+     {
+      "kind": "score",
+      "need": 3000
      }
     ],
     "stones": [],
@@ -13536,7 +14225,14 @@
      2900,
      4500
     ],
-    "theme": "bakery"
+    "theme": "bakery",
+    "obstacles": [
+     {
+      "k": "jelly",
+      "n": 2,
+      "count": 6
+     }
+    ]
    },
    {
     "n": 384,
@@ -13568,7 +14264,25 @@
      3500,
      5500
     ],
-    "theme": "bakery"
+    "theme": "bakery",
+    "holes": [
+     0,
+     1,
+     5,
+     6,
+     7,
+     8,
+     12,
+     13,
+     35,
+     36,
+     40,
+     41,
+     42,
+     43,
+     47,
+     48
+    ]
    },
    {
     "n": 385,
@@ -13580,7 +14294,7 @@
      "n_bell",
      "r_085"
     ],
-    "moves": 44,
+    "moves": 48,
     "goals": [
      {
       "kind": "collect",
@@ -13591,6 +14305,10 @@
       "kind": "collect",
       "t": "n_apron",
       "need": 20
+     },
+     {
+      "kind": "padlock",
+      "need": 0
      }
     ],
     "stones": [],
@@ -13602,7 +14320,14 @@
      3500,
      5500
     ],
-    "theme": "garden"
+    "theme": "garden",
+    "obstacles": [
+     {
+      "k": "padlock",
+      "n": 1,
+      "count": 3
+     }
+    ]
    },
    {
     "n": 386,
@@ -13762,11 +14487,9 @@
      "n_bluebird",
      "n_lavsack",
      "r_130",
-     "oct_23_3",
-     "r_132",
-     "r_015"
+     "oct_23_3"
     ],
-    "moves": 41,
+    "moves": 45,
     "goals": [
      {
       "kind": "cat",
@@ -13776,6 +14499,10 @@
       "kind": "collect",
       "t": "n_lavsack",
       "need": 18
+     },
+     {
+      "kind": "jelly",
+      "need": 0
      }
     ],
     "stones": [],
@@ -13787,7 +14514,12 @@
      3300,
      5100
     ],
-    "theme": "garden"
+    "theme": "garden",
+    "kind": "simon",
+    "mini": {
+     "length": 7,
+     "skip": 60
+    }
    },
    {
     "n": 391,
@@ -13832,7 +14564,7 @@
      "n_apron",
      "r_074"
     ],
-    "moves": 44,
+    "moves": 47,
     "goals": [
      {
       "kind": "gift",
@@ -13841,6 +14573,14 @@
      {
       "kind": "cat",
       "need": 5
+     },
+     {
+      "kind": "chain",
+      "need": 0
+     },
+     {
+      "kind": "score",
+      "need": 3000
      }
     ],
     "stones": [],
@@ -13852,7 +14592,32 @@
      3500,
      5500
     ],
-    "theme": "garden"
+    "theme": "garden",
+    "obstacles": [
+     {
+      "k": "chain",
+      "n": 2,
+      "count": 2
+     }
+    ],
+    "holes": [
+     7,
+     13,
+     14,
+     15,
+     19,
+     20,
+     21,
+     22,
+     26,
+     27,
+     28,
+     29,
+     33,
+     34,
+     35,
+     41
+    ]
    },
    {
     "n": 393,
@@ -13864,7 +14629,7 @@
      "r_148",
      "n_clover"
     ],
-    "moves": 44,
+    "moves": 49,
     "goals": [
      {
       "kind": "collect",
@@ -13875,6 +14640,14 @@
       "kind": "collect",
       "t": "r_128",
       "need": 20
+     },
+     {
+      "kind": "bomb",
+      "need": 0
+     },
+     {
+      "kind": "stain",
+      "need": 0
      }
     ],
     "stones": [],
@@ -13886,7 +14659,19 @@
      3500,
      5500
     ],
-    "theme": "garden"
+    "theme": "garden",
+    "obstacles": [
+     {
+      "k": "bomb",
+      "n": 6,
+      "count": 1,
+      "p": 3
+     },
+     {
+      "k": "stain",
+      "count": 2
+     }
+    ]
    },
    {
     "n": 394,
@@ -13898,7 +14683,7 @@
      "r_084",
      "n_bluebird"
     ],
-    "moves": 44,
+    "moves": 48,
     "goals": [
      {
       "kind": "cat",
@@ -13913,6 +14698,10 @@
       "kind": "collect",
       "t": "r_090",
       "need": 15
+     },
+     {
+      "kind": "padlock",
+      "need": 0
      }
     ],
     "stones": [],
@@ -13924,7 +14713,15 @@
      3500,
      5500
     ],
-    "theme": "garden"
+    "theme": "garden",
+    "obstacles": [
+     {
+      "k": "padlock",
+      "n": 1,
+      "count": 3
+     }
+    ],
+    "time": 75
    },
    {
     "n": 395,
@@ -14011,7 +14808,7 @@
      "oct_15_3",
      "r_100"
     ],
-    "moves": 38,
+    "moves": 42,
     "goals": [
      {
       "kind": "collect",
@@ -14027,6 +14824,10 @@
       "kind": "collect",
       "t": "n_patchcup",
       "need": 15
+     },
+     {
+      "kind": "jelly",
+      "need": 0
      }
     ],
     "stones": [],
@@ -14038,7 +14839,14 @@
      3000,
      4800
     ],
-    "theme": "sewing"
+    "theme": "sewing",
+    "obstacles": [
+     {
+      "k": "jelly",
+      "n": 2,
+      "count": 6
+     }
+    ]
    },
    {
     "n": 398,
@@ -14112,9 +14920,7 @@
      "oct_27_2",
      "r_111",
      "r_072",
-     "n_patchheart",
-     "r_133",
-     "n_scissors"
+     "n_patchheart"
     ],
     "moves": 44,
     "goals": [
@@ -14136,7 +14942,13 @@
      3500,
      5500
     ],
-    "theme": "sewing"
+    "theme": "sewing",
+    "holes": [
+     0,
+     6,
+     42,
+     48
+    ]
    }
   ],
   "simple": [
@@ -23871,7 +24683,7 @@
      "oct_27_2",
      "oct_25_1"
     ],
-    "moves": 57,
+    "moves": 61,
     "goals": [
      {
       "kind": "collect",
@@ -23887,6 +24699,10 @@
       "kind": "collect",
       "t": "n_buttons",
       "need": 12
+     },
+     {
+      "kind": "jelly",
+      "need": 0
      }
     ],
     "stones": [],
@@ -23898,7 +24714,12 @@
      4600,
      7100
     ],
-    "theme": "sewing"
+    "theme": "sewing",
+    "kind": "simon",
+    "mini": {
+     "length": 6,
+     "skip": 60
+    }
    },
    {
     "n": 286,
@@ -23909,7 +24730,7 @@
      "oct_36_2",
      "oct_36_1"
     ],
-    "moves": 57,
+    "moves": 61,
     "goals": [
      {
       "kind": "cat",
@@ -23919,6 +24740,10 @@
       "kind": "collect",
       "t": "n_purplebow",
       "need": 14
+     },
+     {
+      "kind": "padlock",
+      "need": 0
      }
     ],
     "stones": [],
@@ -23930,7 +24755,15 @@
      4600,
      7100
     ],
-    "theme": "sewing"
+    "theme": "sewing",
+    "obstacles": [
+     {
+      "k": "padlock",
+      "n": 1,
+      "count": 2
+     }
+    ],
+    "time": 97
    },
    {
     "n": 287,
@@ -23993,7 +24826,13 @@
      4600,
      7100
     ],
-    "theme": "sewing"
+    "theme": "sewing",
+    "holes": [
+     0,
+     6,
+     42,
+     48
+    ]
    },
    {
     "n": 289,
@@ -24004,7 +24843,7 @@
      "n_umbrella",
      "oct_35_1"
     ],
-    "moves": 57,
+    "moves": 59,
     "goals": [
      {
       "kind": "collect",
@@ -24015,6 +24854,10 @@
       "kind": "collect",
       "t": "oct_39_1",
       "need": 16
+     },
+     {
+      "kind": "bomb",
+      "need": 0
      }
     ],
     "stones": [],
@@ -24026,7 +24869,15 @@
      4600,
      7100
     ],
-    "theme": "keepsakes"
+    "theme": "keepsakes",
+    "obstacles": [
+     {
+      "k": "bomb",
+      "n": 8,
+      "count": 1,
+      "p": 3
+     }
+    ]
    },
    {
     "n": 290,
@@ -24034,8 +24885,7 @@
      "oct_34_1",
      "oct_34_3",
      "oct_27_4",
-     "n_postcard",
-     "n_umbrella"
+     "n_postcard"
     ],
     "moves": 57,
     "goals": [
@@ -24074,7 +24924,7 @@
      "oct_35_4",
      "oct_34_1"
     ],
-    "moves": 49,
+    "moves": 52,
     "goals": [
      {
       "kind": "gift",
@@ -24089,6 +24939,10 @@
       "kind": "collect",
       "t": "oct_35_4",
       "need": 13
+     },
+     {
+      "kind": "stain",
+      "need": 0
      }
     ],
     "stones": [],
@@ -24100,7 +24954,13 @@
      3900,
      6100
     ],
-    "theme": "keepsakes"
+    "theme": "keepsakes",
+    "obstacles": [
+     {
+      "k": "stain",
+      "count": 1
+     }
+    ]
    },
    {
     "n": 292,
@@ -24111,7 +24971,7 @@
      "n_postcard",
      "oct_29_3"
     ],
-    "moves": 57,
+    "moves": 61,
     "goals": [
      {
       "kind": "cat",
@@ -24125,6 +24985,10 @@
       "kind": "collect",
       "t": "oct_35_4",
       "need": 13
+     },
+     {
+      "kind": "jelly",
+      "need": 0
      }
     ],
     "stones": [],
@@ -24136,7 +25000,14 @@
      4600,
      7100
     ],
-    "theme": "keepsakes"
+    "theme": "keepsakes",
+    "obstacles": [
+     {
+      "k": "jelly",
+      "n": 1,
+      "count": 4
+     }
+    ]
    },
    {
     "n": 293,
@@ -24147,7 +25018,7 @@
      "n_umbrella",
      "oct_29_2"
     ],
-    "moves": 57,
+    "moves": 60,
     "goals": [
      {
       "kind": "collect",
@@ -24163,10 +25034,14 @@
       "kind": "collect",
       "t": "oct_14_1",
       "need": 12
+     },
+     {
+      "kind": "score",
+      "need": 2400
      }
     ],
     "stones": [],
-    "cats": 0,
+    "cats": 1,
     "gifts": 0,
     "seed": 286274,
     "stars": [
@@ -24174,7 +25049,14 @@
      4600,
      7100
     ],
-    "theme": "keepsakes"
+    "theme": "keepsakes",
+    "obstacles": [
+     {
+      "k": "chain",
+      "n": 1,
+      "count": 1
+     }
+    ]
    },
    {
     "n": 294,
@@ -24217,7 +25099,7 @@
      "n_bookmark",
      "oct_33_3"
     ],
-    "moves": 47,
+    "moves": 51,
     "goals": [
      {
       "kind": "gift",
@@ -24227,6 +25109,10 @@
       "kind": "collect",
       "t": "oct_12_1",
       "need": 14
+     },
+     {
+      "kind": "padlock",
+      "need": 0
      }
     ],
     "stones": [],
@@ -24238,7 +25124,14 @@
      3800,
      5900
     ],
-    "theme": "keepsakes"
+    "theme": "keepsakes",
+    "obstacles": [
+     {
+      "k": "padlock",
+      "n": 1,
+      "count": 2
+     }
+    ]
    },
    {
     "n": 296,
@@ -24269,7 +25162,18 @@
      4600,
      7100
     ],
-    "theme": "keepsakes"
+    "theme": "keepsakes",
+    "holes": [
+     16,
+     17,
+     18,
+     23,
+     24,
+     25,
+     30,
+     31,
+     32
+    ]
    },
    {
     "n": 297,
@@ -24339,7 +25243,8 @@
      4600,
      7100
     ],
-    "theme": "keepsakes"
+    "theme": "keepsakes",
+    "time": 97
    },
    {
     "n": 299,
@@ -24350,7 +25255,7 @@
      "oct_34_1",
      "oct_35_4"
     ],
-    "moves": 49,
+    "moves": 53,
     "goals": [
      {
       "kind": "gift",
@@ -24365,6 +25270,10 @@
       "kind": "collect",
       "t": "oct_34_1",
       "need": 13
+     },
+     {
+      "kind": "jelly",
+      "need": 0
      }
     ],
     "stones": [],
@@ -24376,7 +25285,14 @@
      3900,
      6100
     ],
-    "theme": "keepsakes"
+    "theme": "keepsakes",
+    "obstacles": [
+     {
+      "k": "jelly",
+      "n": 1,
+      "count": 4
+     }
+    ]
    },
    {
     "n": 300,
@@ -24384,8 +25300,7 @@
      "oct_35_4",
      "r_040",
      "oct_25_3",
-     "oct_34_1",
-     "r_093"
+     "oct_34_1"
     ],
     "moves": 49,
     "goals": [
@@ -24412,7 +25327,12 @@
      3900,
      6100
     ],
-    "theme": "keepsakes"
+    "theme": "keepsakes",
+    "kind": "hidden",
+    "mini": {
+     "count": 5,
+     "skip": 60
+    }
    },
    {
     "n": 301,
@@ -24461,7 +25381,7 @@
      "n_violet",
      "r_007"
     ],
-    "moves": 49,
+    "moves": 51,
     "goals": [
      {
       "kind": "cat",
@@ -24471,6 +25391,14 @@
       "kind": "collect",
       "t": "n_rosecake",
       "need": 14
+     },
+     {
+      "kind": "bomb",
+      "need": 0
+     },
+     {
+      "kind": "score",
+      "need": 2400
      }
     ],
     "stones": [],
@@ -24482,7 +25410,15 @@
      3900,
      6100
     ],
-    "theme": "sweets"
+    "theme": "sweets",
+    "obstacles": [
+     {
+      "k": "bomb",
+      "n": 8,
+      "count": 1,
+      "p": 3
+     }
+    ]
    },
    {
     "n": 303,
@@ -24525,7 +25461,7 @@
      "r_008",
      "oct_39_4"
     ],
-    "moves": 49,
+    "moves": 56,
     "goals": [
      {
       "kind": "gift",
@@ -24534,6 +25470,14 @@
      {
       "kind": "cat",
       "need": 4
+     },
+     {
+      "kind": "padlock",
+      "need": 0
+     },
+     {
+      "kind": "chain",
+      "need": 0
      }
     ],
     "stones": [],
@@ -24545,7 +25489,33 @@
      3900,
      6100
     ],
-    "theme": "sweets"
+    "theme": "sweets",
+    "obstacles": [
+     {
+      "k": "padlock",
+      "n": 1,
+      "count": 2
+     },
+     {
+      "k": "chain",
+      "n": 1,
+      "count": 1
+     }
+    ],
+    "holes": [
+     0,
+     1,
+     5,
+     6,
+     7,
+     13,
+     35,
+     41,
+     42,
+     43,
+     47,
+     48
+    ]
    },
    {
     "n": 305,
@@ -24589,7 +25559,7 @@
      "n_cloverbiscuit",
      "r_045"
     ],
-    "moves": 49,
+    "moves": 53,
     "goals": [
      {
       "kind": "cat",
@@ -24604,6 +25574,10 @@
       "kind": "collect",
       "t": "n_cloverbiscuit",
       "need": 12
+     },
+     {
+      "kind": "jelly",
+      "need": 0
      }
     ],
     "stones": [],
@@ -24615,7 +25589,14 @@
      3900,
      6100
     ],
-    "theme": "sweets"
+    "theme": "sweets",
+    "obstacles": [
+     {
+      "k": "jelly",
+      "n": 1,
+      "count": 4
+     }
+    ]
    },
    {
     "n": 307,
@@ -24663,7 +25644,7 @@
      "n_blueberries",
      "oct_39_4"
     ],
-    "moves": 53,
+    "moves": 56,
     "goals": [
      {
       "kind": "cat",
@@ -24677,6 +25658,10 @@
       "kind": "collect",
       "t": "r_047",
       "need": 13
+     },
+     {
+      "kind": "stain",
+      "need": 0
      }
     ],
     "stones": [],
@@ -24688,7 +25673,13 @@
      4200,
      6600
     ],
-    "theme": "sweets"
+    "theme": "sweets",
+    "obstacles": [
+     {
+      "k": "stain",
+      "count": 1
+     }
+    ]
    },
    {
     "n": 309,
@@ -24734,8 +25725,7 @@
      "n_madeleine",
      "r_025",
      "n_meringue",
-     "r_066",
-     "n_macaron"
+     "r_066"
     ],
     "moves": 53,
     "goals": [
@@ -24758,7 +25748,8 @@
      4200,
      6600
     ],
-    "theme": "sweets"
+    "theme": "sweets",
+    "time": 97
    },
    {
     "n": 311,
@@ -24779,6 +25770,10 @@
       "kind": "collect",
       "t": "n_violetcandy",
       "need": 14
+     },
+     {
+      "kind": "score",
+      "need": 2400
      }
     ],
     "stones": [],
@@ -24821,7 +25816,31 @@
      4200,
      6600
     ],
-    "theme": "sweets"
+    "theme": "sweets",
+    "holes": [
+     0,
+     3,
+     6,
+     21,
+     27,
+     28,
+     29,
+     33,
+     34,
+     35,
+     36,
+     37,
+     39,
+     40,
+     41,
+     42,
+     43,
+     44,
+     45,
+     46,
+     47,
+     48
+    ]
    },
    {
     "n": 313,
@@ -24832,7 +25851,7 @@
      "oct_35_2",
      "r_028"
     ],
-    "moves": 53,
+    "moves": 61,
     "goals": [
      {
       "kind": "collect",
@@ -24843,6 +25862,14 @@
       "kind": "collect",
       "t": "n_lemoncake",
       "need": 16
+     },
+     {
+      "kind": "jelly",
+      "need": 0
+     },
+     {
+      "kind": "padlock",
+      "need": 0
      }
     ],
     "stones": [],
@@ -24854,7 +25881,19 @@
      4200,
      6600
     ],
-    "theme": "bakery"
+    "theme": "bakery",
+    "obstacles": [
+     {
+      "k": "jelly",
+      "n": 1,
+      "count": 4
+     },
+     {
+      "k": "padlock",
+      "n": 1,
+      "count": 2
+     }
+    ]
    },
    {
     "n": 314,
@@ -24902,7 +25941,7 @@
      "r_044",
      "n_cinnamonroll"
     ],
-    "moves": 43,
+    "moves": 48,
     "goals": [
      {
       "kind": "gift",
@@ -24914,13 +25953,16 @@
       "need": 15
      },
      {
-      "kind": "collect",
-      "t": "r_044",
-      "need": 13
+      "kind": "chain",
+      "need": 0
+     },
+     {
+      "kind": "bomb",
+      "need": 0
      }
     ],
     "stones": [],
-    "cats": 0,
+    "cats": 1,
     "gifts": 3,
     "seed": 307768,
     "stars": [
@@ -24928,7 +25970,13 @@
      3400,
      5400
     ],
-    "theme": "bakery"
+    "theme": "bakery",
+    "kind": "words",
+    "mini": {
+     "size": 6,
+     "words": 4,
+     "skip": 60
+    }
    },
    {
     "n": 316,
@@ -25074,10 +26122,9 @@
      "r_126",
      "n_cinnamonroll",
      "oct_20_1",
-     "r_118",
-     "oct_17_4"
+     "r_118"
     ],
-    "moves": 49,
+    "moves": 53,
     "goals": [
      {
       "kind": "gift",
@@ -25086,6 +26133,14 @@
      {
       "kind": "cat",
       "need": 4
+     },
+     {
+      "kind": "jelly",
+      "need": 0
+     },
+     {
+      "kind": "score",
+      "need": 2400
      }
     ],
     "stones": [],
@@ -25097,7 +26152,21 @@
      3900,
      6100
     ],
-    "theme": "bakery"
+    "theme": "bakery",
+    "obstacles": [
+     {
+      "k": "jelly",
+      "n": 1,
+      "count": 4
+     }
+    ],
+    "holes": [
+     10,
+     17,
+     24,
+     31,
+     38
+    ]
    },
    {
     "n": 321,
@@ -25141,7 +26210,7 @@
      "oct_21_3",
      "r_119"
     ],
-    "moves": 49,
+    "moves": 53,
     "goals": [
      {
       "kind": "cat",
@@ -25156,6 +26225,10 @@
       "kind": "collect",
       "t": "oct_21_3",
       "need": 12
+     },
+     {
+      "kind": "padlock",
+      "need": 0
      }
     ],
     "stones": [],
@@ -25167,7 +26240,15 @@
      3900,
      6100
     ],
-    "theme": "bakery"
+    "theme": "bakery",
+    "obstacles": [
+     {
+      "k": "padlock",
+      "n": 1,
+      "count": 2
+     }
+    ],
+    "time": 97
    },
    {
     "n": 323,
@@ -25251,7 +26332,7 @@
      "r_031",
      "n_herbjar"
     ],
-    "moves": 57,
+    "moves": 60,
     "goals": [
      {
       "kind": "collect",
@@ -25267,6 +26348,10 @@
       "kind": "collect",
       "t": "oct_24_3",
       "need": 12
+     },
+     {
+      "kind": "stain",
+      "need": 0
      }
     ],
     "stones": [],
@@ -25278,7 +26363,13 @@
      4600,
      7100
     ],
-    "theme": "garden"
+    "theme": "garden",
+    "obstacles": [
+     {
+      "k": "stain",
+      "count": 1
+     }
+    ]
    },
    {
     "n": 326,
@@ -25289,7 +26380,7 @@
      "r_016",
      "oct_20_3"
     ],
-    "moves": 57,
+    "moves": 60,
     "goals": [
      {
       "kind": "cat",
@@ -25299,6 +26390,10 @@
       "kind": "collect",
       "t": "oct_23_4",
       "need": 14
+     },
+     {
+      "kind": "chain",
+      "need": 0
      }
     ],
     "stones": [],
@@ -25310,7 +26405,14 @@
      4600,
      7100
     ],
-    "theme": "garden"
+    "theme": "garden",
+    "obstacles": [
+     {
+      "k": "chain",
+      "n": 1,
+      "count": 1
+     }
+    ]
    },
    {
     "n": 327,
@@ -25321,7 +26423,7 @@
      "n_lavsack",
      "r_012"
     ],
-    "moves": 49,
+    "moves": 53,
     "goals": [
      {
       "kind": "gift",
@@ -25331,6 +26433,10 @@
       "kind": "collect",
       "t": "oct_13_3",
       "need": 14
+     },
+     {
+      "kind": "jelly",
+      "need": 0
      }
     ],
     "stones": [],
@@ -25342,7 +26448,14 @@
      3900,
      6100
     ],
-    "theme": "garden"
+    "theme": "garden",
+    "obstacles": [
+     {
+      "k": "jelly",
+      "n": 1,
+      "count": 4
+     }
+    ]
    },
    {
     "n": 328,
@@ -25353,7 +26466,7 @@
      "n_apron",
      "oct_32_2"
     ],
-    "moves": 53,
+    "moves": 55,
     "goals": [
      {
       "kind": "gift",
@@ -25362,6 +26475,10 @@
      {
       "kind": "cat",
       "need": 4
+     },
+     {
+      "kind": "bomb",
+      "need": 0
      }
     ],
     "stones": [],
@@ -25373,7 +26490,33 @@
      4200,
      6600
     ],
-    "theme": "garden"
+    "theme": "garden",
+    "obstacles": [
+     {
+      "k": "bomb",
+      "n": 8,
+      "count": 1,
+      "p": 3
+     }
+    ],
+    "holes": [
+     0,
+     1,
+     5,
+     6,
+     7,
+     8,
+     12,
+     13,
+     35,
+     36,
+     40,
+     41,
+     42,
+     43,
+     47,
+     48
+    ]
    },
    {
     "n": 329,
@@ -25395,6 +26538,10 @@
       "kind": "collect",
       "t": "n_apron",
       "need": 16
+     },
+     {
+      "kind": "score",
+      "need": 2400
      }
     ],
     "stones": [],
@@ -25414,8 +26561,7 @@
      "r_084",
      "oct_37_3",
      "r_010",
-     "n_apron",
-     "n_bluebird"
+     "n_apron"
     ],
     "moves": 53,
     "goals": [
@@ -25443,7 +26589,14 @@
      4200,
      6600
     ],
-    "theme": "garden"
+    "theme": "garden",
+    "kind": "link",
+    "mini": {
+     "rows": 5,
+     "cols": 5,
+     "kinds": 7,
+     "skip": 60
+    }
    },
    {
     "n": 331,
@@ -25454,7 +26607,7 @@
      "r_015",
      "n_bluebird"
     ],
-    "moves": 53,
+    "moves": 57,
     "goals": [
      {
       "kind": "gift",
@@ -25469,6 +26622,10 @@
       "kind": "collect",
       "t": "r_015",
       "need": 13
+     },
+     {
+      "kind": "padlock",
+      "need": 0
      }
     ],
     "stones": [],
@@ -25480,7 +26637,14 @@
      4200,
      6600
     ],
-    "theme": "garden"
+    "theme": "garden",
+    "obstacles": [
+     {
+      "k": "padlock",
+      "n": 1,
+      "count": 2
+     }
+    ]
    },
    {
     "n": 332,
@@ -25565,7 +26729,7 @@
      "oct_23_1",
      "oct_18_2"
     ],
-    "moves": 57,
+    "moves": 61,
     "goals": [
      {
       "kind": "cat",
@@ -25575,6 +26739,10 @@
       "kind": "collect",
       "t": "oct_20_3",
       "need": 14
+     },
+     {
+      "kind": "jelly",
+      "need": 0
      }
     ],
     "stones": [],
@@ -25586,7 +26754,15 @@
      4600,
      7100
     ],
-    "theme": "garden"
+    "theme": "garden",
+    "obstacles": [
+     {
+      "k": "jelly",
+      "n": 1,
+      "count": 4
+     }
+    ],
+    "time": 97
    },
    {
     "n": 335,
@@ -25649,7 +26825,25 @@
      3900,
      6100
     ],
-    "theme": "garden"
+    "theme": "garden",
+    "holes": [
+     7,
+     13,
+     14,
+     15,
+     19,
+     20,
+     21,
+     22,
+     26,
+     27,
+     28,
+     29,
+     33,
+     34,
+     35,
+     41
+    ]
    },
    {
     "n": 337,
@@ -25660,7 +26854,7 @@
      "r_136",
      "oct_31_1"
     ],
-    "moves": 49,
+    "moves": 52,
     "goals": [
      {
       "kind": "collect",
@@ -25671,10 +26865,14 @@
       "kind": "collect",
       "t": "oct_39_3",
       "need": 16
+     },
+     {
+      "kind": "chain",
+      "need": 0
      }
     ],
     "stones": [],
-    "cats": 0,
+    "cats": 1,
     "gifts": 0,
     "seed": 329262,
     "stars": [
@@ -25682,7 +26880,14 @@
      3900,
      6100
     ],
-    "theme": "sewing"
+    "theme": "sewing",
+    "obstacles": [
+     {
+      "k": "chain",
+      "n": 1,
+      "count": 1
+     }
+    ]
    },
    {
     "n": 338,
@@ -25708,6 +26913,10 @@
       "kind": "collect",
       "t": "n_scarf",
       "need": 12
+     },
+     {
+      "kind": "score",
+      "need": 2400
      }
     ],
     "stones": [],
@@ -25764,10 +26973,9 @@
      "oct_16_3",
      "oct_25_1",
      "r_018",
-     "n_scarf",
-     "r_098"
+     "n_scarf"
     ],
-    "moves": 57,
+    "moves": 61,
     "goals": [
      {
       "kind": "cat",
@@ -25781,6 +26989,10 @@
       "kind": "collect",
       "t": "oct_16_3",
       "need": 13
+     },
+     {
+      "kind": "padlock",
+      "need": 0
      }
     ],
     "stones": [],
@@ -25792,7 +27004,14 @@
      4600,
      7100
     ],
-    "theme": "sewing"
+    "theme": "sewing",
+    "obstacles": [
+     {
+      "k": "padlock",
+      "n": 1,
+      "count": 2
+     }
+    ]
    },
    {
     "n": 341,
@@ -25803,7 +27022,7 @@
      "oct_25_1",
      "oct_31_1"
     ],
-    "moves": 57,
+    "moves": 63,
     "goals": [
      {
       "kind": "collect",
@@ -25816,9 +27035,12 @@
       "need": 14
      },
      {
-      "kind": "collect",
-      "t": "r_134",
-      "need": 12
+      "kind": "jelly",
+      "need": 0
+     },
+     {
+      "kind": "bomb",
+      "need": 0
      }
     ],
     "stones": [],
@@ -25830,7 +27052,20 @@
      4600,
      7100
     ],
-    "theme": "sewing"
+    "theme": "sewing",
+    "obstacles": [
+     {
+      "k": "jelly",
+      "n": 1,
+      "count": 4
+     },
+     {
+      "k": "bomb",
+      "n": 8,
+      "count": 1,
+      "p": 3
+     }
+    ]
    },
    {
     "n": 342,
@@ -25841,7 +27076,7 @@
      "r_135",
      "oct_39_3"
     ],
-    "moves": 57,
+    "moves": 60,
     "goals": [
      {
       "kind": "cat",
@@ -25851,6 +27086,10 @@
       "kind": "collect",
       "t": "oct_36_2",
       "need": 14
+     },
+     {
+      "kind": "stain",
+      "need": 0
      }
     ],
     "stones": [],
@@ -25862,7 +27101,13 @@
      4600,
      7100
     ],
-    "theme": "sewing"
+    "theme": "sewing",
+    "obstacles": [
+     {
+      "k": "stain",
+      "count": 1
+     }
+    ]
    },
    {
     "n": 343,
@@ -25925,7 +27170,13 @@
      4600,
      7100
     ],
-    "theme": "sewing"
+    "theme": "sewing",
+    "holes": [
+     0,
+     6,
+     42,
+     48
+    ]
    },
    {
     "n": 345,
@@ -25958,7 +27209,14 @@
      4600,
      7100
     ],
-    "theme": "sewing"
+    "theme": "sewing",
+    "kind": "slide",
+    "mini": {
+     "size": 4,
+     "content": "letters",
+     "scramble": 44,
+     "skip": 60
+    }
    },
    {
     "n": 346,
@@ -25995,7 +27253,8 @@
      4600,
      7100
     ],
-    "theme": "sewing"
+    "theme": "sewing",
+    "time": 97
    },
    {
     "n": 347,
@@ -26021,6 +27280,10 @@
       "kind": "collect",
       "t": "r_109",
       "need": 13
+     },
+     {
+      "kind": "score",
+      "need": 2400
      }
     ],
     "stones": [],
@@ -26043,7 +27306,7 @@
      "r_133",
      "n_pincushion"
     ],
-    "moves": 57,
+    "moves": 64,
     "goals": [
      {
       "kind": "cat",
@@ -26054,9 +27317,12 @@
       "need": 3
      },
      {
-      "kind": "collect",
-      "t": "r_104",
-      "need": 13
+      "kind": "jelly",
+      "need": 0
+     },
+     {
+      "kind": "chain",
+      "need": 0
      }
     ],
     "stones": [],
@@ -26068,7 +27334,19 @@
      4600,
      7100
     ],
-    "theme": "sewing"
+    "theme": "sewing",
+    "obstacles": [
+     {
+      "k": "jelly",
+      "n": 1,
+      "count": 4
+     },
+     {
+      "k": "chain",
+      "n": 1,
+      "count": 1
+     }
+    ]
    },
    {
     "n": 349,
@@ -26079,7 +27357,7 @@
      "n_bookmark",
      "r_124"
     ],
-    "moves": 57,
+    "moves": 61,
     "goals": [
      {
       "kind": "collect",
@@ -26095,6 +27373,10 @@
       "kind": "collect",
       "t": "oct_20_2",
       "need": 12
+     },
+     {
+      "kind": "padlock",
+      "need": 0
      }
     ],
     "stones": [],
@@ -26106,7 +27388,14 @@
      4600,
      7100
     ],
-    "theme": "keepsakes"
+    "theme": "keepsakes",
+    "obstacles": [
+     {
+      "k": "padlock",
+      "n": 1,
+      "count": 2
+     }
+    ]
    },
    {
     "n": 350,
@@ -26114,8 +27403,7 @@
      "n_sewbag",
      "r_004",
      "oct_11_2",
-     "oct_35_4",
-     "r_094"
+     "oct_35_4"
     ],
     "moves": 57,
     "goals": [
@@ -26201,7 +27489,18 @@
      4600,
      7100
     ],
-    "theme": "keepsakes"
+    "theme": "keepsakes",
+    "holes": [
+     16,
+     17,
+     18,
+     23,
+     24,
+     25,
+     30,
+     31,
+     32
+    ]
    },
    {
     "n": 353,
@@ -26245,7 +27544,7 @@
      "r_022",
      "oct_35_4"
     ],
-    "moves": 57,
+    "moves": 59,
     "goals": [
      {
       "kind": "cat",
@@ -26260,6 +27559,10 @@
       "kind": "collect",
       "t": "r_022",
       "need": 12
+     },
+     {
+      "kind": "bomb",
+      "need": 0
      }
     ],
     "stones": [],
@@ -26271,7 +27574,15 @@
      4600,
      7100
     ],
-    "theme": "keepsakes"
+    "theme": "keepsakes",
+    "obstacles": [
+     {
+      "k": "bomb",
+      "n": 8,
+      "count": 1,
+      "p": 3
+     }
+    ]
    },
    {
     "n": 355,
@@ -26282,7 +27593,7 @@
      "oct_35_4",
      "r_102"
     ],
-    "moves": 47,
+    "moves": 51,
     "goals": [
      {
       "kind": "gift",
@@ -26297,6 +27608,10 @@
       "kind": "collect",
       "t": "oct_35_4",
       "need": 13
+     },
+     {
+      "kind": "jelly",
+      "need": 0
      }
     ],
     "stones": [],
@@ -26308,7 +27623,14 @@
      3800,
      5900
     ],
-    "theme": "keepsakes"
+    "theme": "keepsakes",
+    "obstacles": [
+     {
+      "k": "jelly",
+      "n": 1,
+      "count": 4
+     }
+    ]
    },
    {
     "n": 356,
@@ -26333,6 +27655,10 @@
       "kind": "collect",
       "t": "oct_12_1",
       "need": 13
+     },
+     {
+      "kind": "score",
+      "need": 2400
      }
     ],
     "stones": [],
@@ -26393,7 +27719,7 @@
      "r_009",
      "n_bookmark"
     ],
-    "moves": 57,
+    "moves": 61,
     "goals": [
      {
       "kind": "cat",
@@ -26403,6 +27729,10 @@
       "kind": "collect",
       "t": "n_locket",
       "need": 14
+     },
+     {
+      "kind": "padlock",
+      "need": 0
      }
     ],
     "stones": [],
@@ -26414,7 +27744,15 @@
      4600,
      7100
     ],
-    "theme": "keepsakes"
+    "theme": "keepsakes",
+    "obstacles": [
+     {
+      "k": "padlock",
+      "n": 1,
+      "count": 2
+     }
+    ],
+    "time": 97
    },
    {
     "n": 359,
@@ -26425,7 +27763,7 @@
      "r_139",
      "oct_12_1"
     ],
-    "moves": 49,
+    "moves": 55,
     "goals": [
      {
       "kind": "gift",
@@ -26435,10 +27773,18 @@
       "kind": "collect",
       "t": "r_069",
       "need": 14
+     },
+     {
+      "kind": "chain",
+      "need": 0
+     },
+     {
+      "kind": "stain",
+      "need": 0
      }
     ],
     "stones": [],
-    "cats": 0,
+    "cats": 1,
     "gifts": 3,
     "seed": 350756,
     "stars": [
@@ -26446,7 +27792,18 @@
      3900,
      6100
     ],
-    "theme": "keepsakes"
+    "theme": "keepsakes",
+    "obstacles": [
+     {
+      "k": "chain",
+      "n": 1,
+      "count": 1
+     },
+     {
+      "k": "stain",
+      "count": 1
+     }
+    ]
    },
    {
     "n": 360,
@@ -26454,8 +27811,7 @@
      "oct_35_1",
      "r_032",
      "oct_35_4",
-     "oct_29_1",
-     "r_073"
+     "oct_29_1"
     ],
     "moves": 49,
     "goals": [
@@ -26477,7 +27833,12 @@
      3900,
      6100
     ],
-    "theme": "keepsakes"
+    "theme": "keepsakes",
+    "kind": "memory",
+    "mini": {
+     "pairs": 8,
+     "skip": 60
+    }
    },
    {
     "n": 361,
@@ -26521,7 +27882,7 @@
      "n_blueberries",
      "r_043"
     ],
-    "moves": 49,
+    "moves": 53,
     "goals": [
      {
       "kind": "cat",
@@ -26536,6 +27897,10 @@
       "kind": "collect",
       "t": "n_blueberries",
       "need": 12
+     },
+     {
+      "kind": "jelly",
+      "need": 0
      }
     ],
     "stones": [],
@@ -26547,7 +27912,14 @@
      3900,
      6100
     ],
-    "theme": "sweets"
+    "theme": "sweets",
+    "obstacles": [
+     {
+      "k": "jelly",
+      "n": 1,
+      "count": 4
+     }
+    ]
    },
    {
     "n": 363,
@@ -26647,6 +28019,10 @@
       "kind": "collect",
       "t": "n_blueberries",
       "need": 12
+     },
+     {
+      "kind": "score",
+      "need": 2400
      }
     ],
     "stones": [],
@@ -26701,7 +28077,7 @@
      "n_blueberries",
      "r_008"
     ],
-    "moves": 49,
+    "moves": 55,
     "goals": [
      {
       "kind": "gift",
@@ -26711,6 +28087,14 @@
       "kind": "collect",
       "t": "n_raspberry",
       "need": 14
+     },
+     {
+      "kind": "padlock",
+      "need": 0
+     },
+     {
+      "kind": "bomb",
+      "need": 0
      }
     ],
     "stones": [],
@@ -26722,7 +28106,20 @@
      3900,
      6100
     ],
-    "theme": "sweets"
+    "theme": "sweets",
+    "obstacles": [
+     {
+      "k": "padlock",
+      "n": 1,
+      "count": 2
+     },
+     {
+      "k": "bomb",
+      "n": 8,
+      "count": 1,
+      "p": 3
+     }
+    ]
    },
    {
     "n": 368,
@@ -26753,7 +28150,31 @@
      4200,
      6600
     ],
-    "theme": "sweets"
+    "theme": "sweets",
+    "holes": [
+     0,
+     3,
+     6,
+     21,
+     27,
+     28,
+     29,
+     33,
+     34,
+     35,
+     36,
+     37,
+     39,
+     40,
+     41,
+     42,
+     43,
+     44,
+     45,
+     46,
+     47,
+     48
+    ]
    },
    {
     "n": 369,
@@ -26764,7 +28185,7 @@
      "r_025",
      "n_violetcandy"
     ],
-    "moves": 53,
+    "moves": 57,
     "goals": [
      {
       "kind": "collect",
@@ -26775,6 +28196,10 @@
       "kind": "collect",
       "t": "n_croissant",
       "need": 16
+     },
+     {
+      "kind": "jelly",
+      "need": 0
      }
     ],
     "stones": [],
@@ -26786,7 +28211,14 @@
      4200,
      6600
     ],
-    "theme": "sweets"
+    "theme": "sweets",
+    "obstacles": [
+     {
+      "k": "jelly",
+      "n": 1,
+      "count": 4
+     }
+    ]
    },
    {
     "n": 370,
@@ -26794,10 +28226,9 @@
      "r_043",
      "n_violet",
      "n_orangeslice",
-     "r_050",
-     "n_raspberry"
+     "r_050"
     ],
-    "moves": 53,
+    "moves": 56,
     "goals": [
      {
       "kind": "cat",
@@ -26812,6 +28243,10 @@
       "kind": "collect",
       "t": "r_050",
       "need": 12
+     },
+     {
+      "kind": "chain",
+      "need": 0
      }
     ],
     "stones": [],
@@ -26823,7 +28258,15 @@
      4200,
      6600
     ],
-    "theme": "sweets"
+    "theme": "sweets",
+    "obstacles": [
+     {
+      "k": "chain",
+      "n": 1,
+      "count": 1
+     }
+    ],
+    "time": 97
    },
    {
     "n": 371,
@@ -26955,6 +28398,10 @@
       "kind": "collect",
       "t": "n_cupcake",
       "need": 14
+     },
+     {
+      "kind": "score",
+      "need": 2400
      }
     ],
     "stones": [],
@@ -26998,7 +28445,13 @@
      3400,
      5400
     ],
-    "theme": "bakery"
+    "theme": "bakery",
+    "kind": "sort",
+    "mini": {
+     "colors": 4,
+     "capacity": 4,
+     "skip": 60
+    }
    },
    {
     "n": 376,
@@ -27009,7 +28462,7 @@
      "r_054",
      "n_cupcake"
     ],
-    "moves": 53,
+    "moves": 61,
     "goals": [
      {
       "kind": "gift",
@@ -27018,6 +28471,14 @@
      {
       "kind": "cat",
       "need": 4
+     },
+     {
+      "kind": "jelly",
+      "need": 0
+     },
+     {
+      "kind": "padlock",
+      "need": 0
      }
     ],
     "stones": [],
@@ -27029,7 +28490,26 @@
      4200,
      6600
     ],
-    "theme": "bakery"
+    "theme": "bakery",
+    "obstacles": [
+     {
+      "k": "jelly",
+      "n": 1,
+      "count": 4
+     },
+     {
+      "k": "padlock",
+      "n": 1,
+      "count": 2
+     }
+    ],
+    "holes": [
+     10,
+     17,
+     24,
+     31,
+     38
+    ]
    },
    {
     "n": 377,
@@ -27144,10 +28624,9 @@
      "r_034",
      "oct_21_3",
      "oct_36_4",
-     "r_127",
-     "n_cinnamonroll"
+     "r_127"
     ],
-    "moves": 49,
+    "moves": 51,
     "goals": [
      {
       "kind": "cat",
@@ -27161,6 +28640,10 @@
       "kind": "collect",
       "t": "r_034",
       "need": 13
+     },
+     {
+      "kind": "bomb",
+      "need": 0
      }
     ],
     "stones": [],
@@ -27172,7 +28655,15 @@
      3900,
      6100
     ],
-    "theme": "bakery"
+    "theme": "bakery",
+    "obstacles": [
+     {
+      "k": "bomb",
+      "n": 8,
+      "count": 1,
+      "p": 3
+     }
+    ]
    },
    {
     "n": 381,
@@ -27183,7 +28674,7 @@
      "r_120",
      "n_rollingpin"
     ],
-    "moves": 49,
+    "moves": 52,
     "goals": [
      {
       "kind": "collect",
@@ -27199,10 +28690,14 @@
       "kind": "collect",
       "t": "oct_35_2",
       "need": 12
+     },
+     {
+      "kind": "chain",
+      "need": 0
      }
     ],
     "stones": [],
-    "cats": 0,
+    "cats": 1,
     "gifts": 0,
     "seed": 372250,
     "stars": [
@@ -27210,7 +28705,14 @@
      3900,
      6100
     ],
-    "theme": "bakery"
+    "theme": "bakery",
+    "obstacles": [
+     {
+      "k": "chain",
+      "n": 1,
+      "count": 1
+     }
+    ]
    },
    {
     "n": 382,
@@ -27242,7 +28744,8 @@
      3900,
      6100
     ],
-    "theme": "bakery"
+    "theme": "bakery",
+    "time": 97
    },
    {
     "n": 383,
@@ -27253,7 +28756,7 @@
      "n_heartcookies",
      "r_117"
     ],
-    "moves": 47,
+    "moves": 51,
     "goals": [
      {
       "kind": "gift",
@@ -27263,6 +28766,14 @@
       "kind": "collect",
       "t": "oct_27_1",
       "need": 14
+     },
+     {
+      "kind": "jelly",
+      "need": 0
+     },
+     {
+      "kind": "score",
+      "need": 2400
      }
     ],
     "stones": [],
@@ -27274,7 +28785,14 @@
      3800,
      5900
     ],
-    "theme": "bakery"
+    "theme": "bakery",
+    "obstacles": [
+     {
+      "k": "jelly",
+      "n": 1,
+      "count": 4
+     }
+    ]
    },
    {
     "n": 384,
@@ -27305,7 +28823,25 @@
      4600,
      7100
     ],
-    "theme": "bakery"
+    "theme": "bakery",
+    "holes": [
+     0,
+     1,
+     5,
+     6,
+     7,
+     8,
+     12,
+     13,
+     35,
+     36,
+     40,
+     41,
+     42,
+     43,
+     47,
+     48
+    ]
    },
    {
     "n": 385,
@@ -27316,7 +28852,7 @@
      "n_tulipbasket",
      "oct_39_2"
     ],
-    "moves": 57,
+    "moves": 61,
     "goals": [
      {
       "kind": "collect",
@@ -27327,6 +28863,10 @@
       "kind": "collect",
       "t": "n_bluebird",
       "need": 16
+     },
+     {
+      "kind": "padlock",
+      "need": 0
      }
     ],
     "stones": [],
@@ -27338,7 +28878,14 @@
      4600,
      7100
     ],
-    "theme": "garden"
+    "theme": "garden",
+    "obstacles": [
+     {
+      "k": "padlock",
+      "n": 1,
+      "count": 2
+     }
+    ]
    },
    {
     "n": 386,
@@ -27494,10 +29041,9 @@
      "oct_13_3",
      "n_apron",
      "r_140",
-     "oct_23_1",
-     "r_125"
+     "oct_23_1"
     ],
-    "moves": 53,
+    "moves": 57,
     "goals": [
      {
       "kind": "cat",
@@ -27507,6 +29053,10 @@
       "kind": "collect",
       "t": "n_apron",
       "need": 14
+     },
+     {
+      "kind": "jelly",
+      "need": 0
      }
     ],
     "stones": [],
@@ -27518,7 +29068,12 @@
      4200,
      6600
     ],
-    "theme": "garden"
+    "theme": "garden",
+    "kind": "simon",
+    "mini": {
+     "length": 7,
+     "skip": 60
+    }
    },
    {
     "n": 391,
@@ -27561,7 +29116,7 @@
      "r_087",
      "n_apron"
     ],
-    "moves": 57,
+    "moves": 60,
     "goals": [
      {
       "kind": "gift",
@@ -27570,6 +29125,14 @@
      {
       "kind": "cat",
       "need": 4
+     },
+     {
+      "kind": "chain",
+      "need": 0
+     },
+     {
+      "kind": "score",
+      "need": 2400
      }
     ],
     "stones": [],
@@ -27581,7 +29144,32 @@
      4600,
      7100
     ],
-    "theme": "garden"
+    "theme": "garden",
+    "obstacles": [
+     {
+      "k": "chain",
+      "n": 1,
+      "count": 1
+     }
+    ],
+    "holes": [
+     7,
+     13,
+     14,
+     15,
+     19,
+     20,
+     21,
+     22,
+     26,
+     27,
+     28,
+     29,
+     33,
+     34,
+     35,
+     41
+    ]
    },
    {
     "n": 393,
@@ -27592,7 +29180,7 @@
      "oct_32_1",
      "r_013"
     ],
-    "moves": 57,
+    "moves": 62,
     "goals": [
      {
       "kind": "collect",
@@ -27603,6 +29191,14 @@
       "kind": "collect",
       "t": "r_083",
       "need": 16
+     },
+     {
+      "kind": "bomb",
+      "need": 0
+     },
+     {
+      "kind": "stain",
+      "need": 0
      }
     ],
     "stones": [],
@@ -27614,7 +29210,19 @@
      4600,
      7100
     ],
-    "theme": "garden"
+    "theme": "garden",
+    "obstacles": [
+     {
+      "k": "bomb",
+      "n": 8,
+      "count": 1,
+      "p": 3
+     },
+     {
+      "k": "stain",
+      "count": 1
+     }
+    ]
    },
    {
     "n": 394,
@@ -27625,7 +29233,7 @@
      "n_herbjar",
      "r_031"
     ],
-    "moves": 57,
+    "moves": 61,
     "goals": [
      {
       "kind": "cat",
@@ -27640,6 +29248,10 @@
       "kind": "collect",
       "t": "n_herbjar",
       "need": 12
+     },
+     {
+      "kind": "padlock",
+      "need": 0
      }
     ],
     "stones": [],
@@ -27651,7 +29263,15 @@
      4600,
      7100
     ],
-    "theme": "garden"
+    "theme": "garden",
+    "obstacles": [
+     {
+      "k": "padlock",
+      "n": 1,
+      "count": 2
+     }
+    ],
+    "time": 97
    },
    {
     "n": 395,
@@ -27735,7 +29355,7 @@
      "r_111",
      "oct_15_3"
     ],
-    "moves": 49,
+    "moves": 53,
     "goals": [
      {
       "kind": "collect",
@@ -27751,6 +29371,10 @@
       "kind": "collect",
       "t": "n_patchcup",
       "need": 12
+     },
+     {
+      "kind": "jelly",
+      "need": 0
      }
     ],
     "stones": [],
@@ -27762,7 +29386,14 @@
      3900,
      6100
     ],
-    "theme": "sewing"
+    "theme": "sewing",
+    "obstacles": [
+     {
+      "k": "jelly",
+      "n": 1,
+      "count": 4
+     }
+    ]
    },
    {
     "n": 398,
@@ -27834,8 +29465,7 @@
      "oct_31_1",
      "oct_27_2",
      "r_113",
-     "n_scarf",
-     "oct_28_3"
+     "n_scarf"
     ],
     "moves": 57,
     "goals": [
@@ -27857,7 +29487,13 @@
      4600,
      7100
     ],
-    "theme": "sewing"
+    "theme": "sewing",
+    "holes": [
+     0,
+     6,
+     42,
+     48
+    ]
    }
   ]
  }
